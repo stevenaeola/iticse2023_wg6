@@ -1,0 +1,120 @@
+institution,cohort,module,title,content,scrape_time
+Durham,CS 3 2022,COMP3477,"COMP3477: 
+ALGORITHMIC GAME THEORY","<h2>title</h2>COMP3477: 
+ALGORITHMIC GAME THEORY<h2>summary</h2>
+			<li> The aim of the module is to introduce the student to the notion of a game, relevant concepts, and other basic notions and tools of game theory, as well as the main applications where such concepts are used and applied. </li>
+		<h2>content</h2>
+			<li>Introduction to Game Theory: what is a game? Strategy, preferences, payoffs. </li>
+			<li>Bimatrix games: strategies and payoffs; Nash equilibria.  </li>
+			<li>Extensive games with Perfect Information.  </li>
+			<li>Mathematical and algorithmic foundations of market equilibria.  </li>
+			<li>Routing Games on Networks; Congestion Games.  </li>
+			<li>Mechanism design and Combinatorial Auctions.  </li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>The ability to apply techniques and methods from algorithmic game theory to tackle fundamental game theoretic problems.  </li>
+				<li>The ability to identify key strategic aspects of real-world scenarios and model those scenarios as strategic games.  </li>
+				<li>The ability to conduct review and self-study to further their knowledge beyond the taught material.  </li>
+			",2023-05-03 13:00:41.506479
+Durham,CS 3 2022,COMP3421,"COMP3421: 
+COMPUTER SCIENCE INTO SCHOOLS","<h2>title</h2>COMP3421: 
+COMPUTER SCIENCE INTO SCHOOLS<h2>summary</h2>
+			<li>To develop a range of key skills in the student and to offer an early taste of teaching to those interested in pursuing it as a career or for other career pathways where public understanding of science is required.</li>
+			<li>To help students gain confidence in communicating Computer Science, develop strong organisational and interpersonal skills, and understand how to address the needs of individuals.</li>
+			<li>To learn to devise and develop Computer Science projects and teaching methods appropriate to engage the relevant age group they are working with.</li>
+			<li>To help inspire a new generation of Computer Scientists as prospective undergraduates by providing role models for school pupils.</li>
+			<li>To help teachers convey the excitement of their subject to pupils by showing them the long-term applications of school studies, especially the cross disciplinary relationships of Computer Science.</li>
+			<li>To help teachers by providing an assistant who can work with and support pupils at any point on the ability spectrum.</li>
+		<h2>content</h2>
+			<li>A competitive interview system will be used to match students with appropriate schools and a specific teacher in the local area, and each student selected will be given a chance to visit the school they will be working in before commencement of the placement.  </li>
+			<li>One day training course on working in schools and with pupils.  </li>
+			<li>Series of lectures on key transferable skills.  </li>
+			<li>The student will be required to spend half a day (approx 4hrs) a week in the school every week for at least 10 weeks.  </li>
+			<li>Tutorials which will provide an opportunity for students to share their experiences.  </li>
+			<li>The students will be involved in the following activities in support of their learning and teaching:  </li>
+			<li>Classroom observation and assistance: Initial contact with the teacher and pupils will be as a classroom assistant, watching how the teacher handles the class, observing the level being taught and the structure of the lesson, and offering practical support to the teacher.  </li>
+			<li>Teaching assistance: The teacher will assign the student with actual teaching tasks, which will vary dependent on specific needs and the student's own ability as it develops over the term. This could include for example offering problem-solving coaching to a smaller group of higher ability pupils, or taking the last ten minutes of the lesson for the whole class. The student will have to demonstrate an understanding of how the level of the knowledge of the pupils they are teaching fits in to their overall learning context in other subjects.  </li>
+			<li>Whole class teaching: Students will typically be offered, in collaboration with their teachers, at least one opportunity to undertake whole class teaching, albeit that it may be only for a small part of the lesson.  </li>
+			<li>University awareness: Students will represent and promote their academic discipline as a potential university choice to pupils across the social and academic range represented at their partner schools.  </li>
+			<li>Special projects: The student will devise a special Computer Science project on the basis of discussion with the teacher and module co-ordinator and their own assessment of what will interest the particular pupils they are working with. The student will implement the special project and evaluate it. The student will be required to show that they can analyse a specific teaching problem and devise and prepare appropriately targeted teaching materials, practical demonstrations and basis 'tests' where appropriate.  </li>
+			<li>Extra-curricular projects: The student may be supervised by the teacher in helping to run an out-of-timetable activity, such as a lunchtime club or special coaching periods for higher ability pupils. The student will have to demonstrate an ability to think laterally in order to formulate interesting ways to illustrate more difficult scientific concepts.  </li>
+			<li>Written reports: The student will keep a journal of their own progress in working in the classroom environment, and they will be asked to prepare a written report on the special project.  </li>
+			<li>The teachers will act as the main source of guidance in the schools but, in addition, the students will also be able to discuss progress with the module co-ordinator or a member of the Science Outreach and Engagement Team whenever necessary.</li>
+			<li>Solutional methods for computational problems.</li>
+		<h2>ilo</h2>
+				<li>On successful completion of this module students: </li>
+				<li>Will know the responsibilities and appropriate conduct for a teacher.</li>
+				<li>Will know how to give (and take) feedback on Computer Science issues.</li>
+				<li>Will be able to undertake public speaking on Computer Science generally.</li>
+				<li>Will know how to prepare lesson plans and teaching materials for Computer Science.  </li>
+			",2023-05-03 13:00:41.506479
+Durham,CS 3 2022,COMP3487,"COMP3487: 
+BIOINFORMATICS","<h2>title</h2>COMP3487: 
+BIOINFORMATICS<h2>summary</h2>
+			<li>To introduce students to applications of Computer Science in Biology.</li>
+			<li>To introduce students to some important Statistical methods and algorithms.</li>
+		<h2>content</h2>
+			<li>Dynamic programming algorithms for sequence alignment.</li>
+			<li>Efficient heuristic algorithms for sequence alignment.</li>
+			<li>Markov Chains and Hidden Markov Models (HMM). </li>
+			<li>Expectation-Maximisation algorithm with an application to parameter-estimation in HMM. </li>
+			<li>Phylogenetic Trees as a model of Evolution.  </li>
+			<li>Maximum parsimony and character-based techniques for tree reconstruction.  </li>
+			<li>Distance-based tree reconstruction via neighbour-joining techniques.  </li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an ability to implement key algorithms within the area.  </li>
+				<li>an ability to identify what methods are applicable to given Biological data.  </li>
+			",2023-05-03 13:00:41.506479
+Durham,CS 3 2022,COMP3491,"COMP3491: 
+CODES AND CRYPTOGRAPHY","<h2>title</h2>COMP3491: 
+CODES AND CRYPTOGRAPHY<h2>summary</h2>
+			<li>To give an introduction to the fundamental steps of a digital communication system: compression/decompression, encryption/decryption, error control coding/decoding </li>
+			<li>To give an introduction to the theoretical limitations of those steps via information theory understand the information theoretic limitations of the three domains above  </li>
+		<h2>content</h2>
+			<li>Data compression: lossless compression such as Huffman and Lempel-Ziv, lossy compression such as transform coding and wavelet compression </li>
+			<li>Cryptography: block ciphers, hash functions, public key cryptography, signature schemes, lattice-based cryptography  </li>
+			<li>Error-correcting codes: linear codes including Hamming codes, BCH and Reed-Solomon codes, code-based cryptography</li>
+			<li>Information Theory: Entropy, channel capacity, data compression, information-theoretic cryptography </li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an ability to assess the suitability of different parts of a digital communication system  </li>
+				<li>an ability to design data compression, cryptographic and error control systems </li>
+				<li>an ability to theoretically analyse the performance and limitations of these systems.  </li>
+			",2023-05-03 13:00:41.506479
+Durham,CS 3 2022,COMP3517,"COMP3517: 
+COMPUTATIONAL MODELLING IN THE HUMANITIES AND SOCIAL SCIENCES","<h2>title</h2>COMP3517: 
+COMPUTATIONAL MODELLING IN THE HUMANITIES AND SOCIAL SCIENCES<h2>summary</h2>
+			<li>To enable students to understand and critically evaluate the application of computational modelling&nbsp;to problems in the humanities and social sciences.</li>
+			<li>To introduce students to algorithms and approaches relevant to the modelling of humanities and social science data.</li>
+		<h2>content</h2>
+			<li>Computational models of text and language</li>
+			<li>Text and data mining</li>
+			<li>Critical evaluation of computational models</li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an ability to apply computational modelling to humanities and social science data </li>
+				<li>an ability to critically evaluate computational modelling approaches.</li>
+			",2023-05-03 13:00:41.506479
+Durham,CS 3 2022,COMP3527,"COMP3527: 
+COMPUTER VISION","<h2>title</h2>COMP3527: 
+COMPUTER VISION<h2>summary</h2>
+			<li>To enable students to critically evaluate the development of computer vision solutions across existing and emerging technology areas. </li>
+			<li>To enable students to understand and evaluate general image and video understanding themes across relevant application areas, focusing on relevant case studies.</li>
+			<li>To understand and apply the fundamental principles of applied computer vision solutions to a range of real world problems.</li>
+		<h2>content</h2>
+			<li>Themes will be chosen from contemporary areas of computer vision including the following:</li>
+			<li>edge features, contours and shape fitting. </li>
+			<li>feature points for object detection and classification. </li>
+			<li>stereo vision (3D point clouds and depth images). </li>
+			<li>object classification using distributions of gradient information. </li>
+			<li>background modelling and object tracking. </li>
+			<li>end-to-end image classification and real-time object detection via deep machine learning. </li>
+			<li>image and video mosaicking and 3D scene reconstruction. </li>
+			<li>visual odometry for autonomous navigation. </li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an ability to critically analyse contemporary computer vision deployment (""in-the-wild"") and how they aid the delivery of broader software applications. </li>
+				<li>an ability to independently evaluate research issues in computer vision including current practices, recent developments and emerging trends.  </li>
+				<li>an ability to appreciate the overlap between contemporary computer vision topics and how they are mutually beneficial in broader systems and applications design and development. </li>
+			",2023-05-03 13:00:41.506479

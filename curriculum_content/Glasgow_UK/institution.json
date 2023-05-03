@@ -1,0 +1,20 @@
+{
+    "institution": "Glasgow_UK",
+    "scrapeURL": "https://www.gla.ac.uk/coursecatalogue/course/?code=%MODULE%",
+    "XPath": {
+        "content": "//*[@id='fhcontent']/following-sibling::ul[1]",
+        "ilo": "",
+        "title": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/h2[1]",
+        "summary": "//span[@id='_%MODULE%']"
+    },
+    "cohorts": [
+        {
+            "programme": "CS",
+            "level": "3",
+            "academic_year": "2022",
+            "modules": [
+                "COMPSCI4021"
+            ]
+        }
+    ]
+}
