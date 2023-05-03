@@ -1,0 +1,21 @@
+institution,cohort,module,title,content
+Edinburgh_UK,CS 3 2022,cxinfr10065,Undergraduate Course: Compiling Techniques (INFR10065),"<h2>title</h2>Undergraduate Course: Compiling Techniques (INFR10065)<h2>summary</h2>This course describes the phases of a modern programming language compiler with an emphasis on widely-used techniques. The course project will require students to implement a complete compiler from scratch for a simple programming language, targeting a real machine assembly such as RISC-V. <br>
+<br>
+Students will also learn about implementing a compiler pass in a real compiler framework.<h2>content</h2>
+    
+    * Introduction: structure of a compiler <br>
+* Lexical analysis: tokens, regular expressions, Lex <br>
+* Parsing: context-free grammars, predictive and LR parsing <br>
+* Abstract syntax: semantic actions, abstract parse trees <br>
+* Semantic analysis: symbol tables, bindings, type-checking <br>
+* Stack frames: representation and abstraction <br>
+* Intermediate code: representation trees, translation <br>
+* Basic blocks and traces: canonical trees and conditional branches <br>
+* Instruction selection: algorithms for selection, RISC and CISC <br>
+* Liveness analysis: solution of dataflow equations <br>
+* Register allocation: colouring by simplification, coalescing <br>
+* Real assembly language: ARM, MIPS, or RISC-V <br>
+* Advanced Topics may include: automatic parallelisation, popular open-source compilers: GCC, LLVM, MLIR
+    
+    
+"
