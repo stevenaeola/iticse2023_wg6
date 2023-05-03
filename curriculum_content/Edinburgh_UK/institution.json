@@ -1,0 +1,20 @@
+{
+    "institution": "Edinburgh_UK",
+    "scrapeURL": "http://www.drps.ed.ac.uk/22-23/dpt/%MODULE%.htm",
+    "XPath": {
+        "content": "/html/body/table[2]/tbody/tr/td[1]/table[1]/tbody/tr[6]/td[2]",
+        "ilo": "",
+        "title": "/html[1]/body/table[2]/tbody/tr/td[1]/h1",
+        "summary": "/html/body/table[2]/tbody/tr/td[1]/table[1]/tbody/tr[5]/td[2]"
+    },
+    "cohorts": [
+        {
+            "programme": "CS",
+            "level": "3",
+            "academic_year": "2022",
+            "modules": [
+                "cxinfr10065"
+            ]
+        }
+    ]
+}
