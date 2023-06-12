@@ -1,20 +1,41 @@
 {
-    "institution": "Glasgow_UK",
-    "scrapeURL": "https://www.gla.ac.uk/coursecatalogue/course/?code=%MODULE%",
+    "institution": "Glasgow_Scotland",
+    "scrapeURL": "https://www.gla.ac.uk/coursecatalogue/course/?code=%ELECTIVE%",
     "XPath": {
-        "content": "",
-        "ilo": "",
+        "content": "//h3[normalize-space()='Course Aims']/following-sibling::div[1]",
+        "ilo": "//h3[normalize-space()='Intended Learning Outcomes of Course']/following-sibling::div[1]",
         "title": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/h2[1]",
-        "summary": "//h3[normalize-space()='Course Aims']/following-sibling::div[1]"
+        "summary": "//h3[normalize-space()='Short Description']/following-sibling::div[1]"
     },
-    "cohorts": [
-        {
-            "programme": "CS",
-            "level": "H",
-            "academic_year": "2022",
-            "modules": [
-                "COMPSCI4091", "COMPSCI4071", "COMPSCI4089"
-            ]
-        }
+    "electives": [
+        "COMPSCI4009",
+        "COMPSCI4062",
+        "COMPSCI4073",
+        "COMPSCI4024P",
+        "COMPSCI4014",
+        "COMPSCI4014",
+        "COMPSCI4014",
+        "COMPSCI4014",
+        "COMPSCI4038",
+        "COMPSCI4038",
+        "COMPSCI4038",
+        "COMPSCI4038",
+        "COMPSCI4015",
+        "COMPSCI4015",
+        "COMPSCI4015",
+        "COMPSCI4015",
+        "COMPSCI4079",
+        "COMPSCI4046",
+        "COMPSCI4081",
+        "COMPSCI4047",
+        "COMPSCI4044",
+        "COMPSCI4070",
+        "COMPSCI4085P",
+        "COMPSCI4093P",
+        "COMPSCI4039",
+        "COMPSCI4084",
+        "COMPSCI4043",
+        "COMPSCI4009",
+        "COMPSCI4025P"
     ]
 }

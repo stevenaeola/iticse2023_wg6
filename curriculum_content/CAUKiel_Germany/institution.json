@@ -1,0 +1,13 @@
+{
+    "institution": "CAUKiel",
+    "scrapeURL": "https://moduldb.informatik.uni-kiel.de/show.cgi?ModData/show/ModData%ELECTIVE%",
+    "XPath": {
+        "title": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[2]/td[2]/span[1]",
+        "summary": "//section[@id='Kurzfassung']/following-sibling::p[2]",
+        "content": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[8]",
+        "ilo": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[5]"
+    },
+    "electives": [
+        "392"
+    ]
+}

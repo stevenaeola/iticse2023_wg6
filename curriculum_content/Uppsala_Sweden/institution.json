@@ -1,0 +1,30 @@
+{
+    "institution": "Uppsala_Sweden",
+    "scrapeURL": "https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=%ELECTIVE%&lasar=",
+    "XPath": {
+        "content": "//*[@id='syllabusContainer']/div[1]/ul[2]",
+        "ilo": "//*[@id='syllabusContainer']/div[1]/ul[1]",
+        "title": "//*[@id='readspeaker-content']/h1",
+        "summary": ""
+    },
+    "electives": [
+        "1DL301",
+        "1DL311",
+        "1DT052",
+        "1TD403",
+        "1DL231",
+        "1DL321",
+        "1DT072",
+        "1DL481",
+        "1MD001",
+        "1TD169",
+        "1TD388",
+        "1TD062",
+        "1DL034",
+        "1MD004",
+        "1DT075",
+        "1DL550",
+        "1DL251",
+        "1MD300"
+    ]
+}

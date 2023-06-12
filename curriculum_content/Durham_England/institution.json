@@ -1,25 +1,43 @@
 {
-    "institution": "Durham",
-    "scrapeURL": "https://apps.dur.ac.uk/faculty.handbook/2022/UG/module/%MODULE%",
+    "institution": "Durham_England",
+    "scrapeURL": "https://apps.dur.ac.uk/faculty.handbook/2022/UG/module/%ELECTIVE%",
     "XPath": {
-        "title": "//h3",
-        "summary": "//h4[@id='fhaims']/following-sibling::ul[1]",
+        "title": "//*[@id='content']/div/h3",
+        "summary": "//*[@id='fhaims']/following-sibling::ul[1]",
         "content": "//*[@id='fhcontent']/following-sibling::ul[1]",
-        "ilo": "//div[normalize-space()='Subject-specific Skills:']/following-sibling::ul[1]"
+        "ilo": "//*[@id='fhlearn']/following-sibling::ul[1]"
     },
-    "cohorts": [
-        {
-            "programme": "CS",
-            "level": "3",
-            "academic_year": "2022",
-            "modules": [
-                "COMP3477",
-                "COMP3421",
-                "COMP3487",
-                "COMP3491",
-                "COMP3517",
-                "COMP3527"
-            ]
-        }
+    "electives": [
+        "COMP3421",
+        "COMP3477",
+        "COMP3487",
+        "COMP3491",
+        "COMP3507",
+        "COMP3517",
+        "COMP3527",
+        "COMP3547",
+        "COMP3557",
+        "COMP3567",
+        "COMP3577",
+        "COMP3587",
+        "COMP3607",
+        "COMP3617",
+        "COMP3621",
+        "COMP3637",
+        "COMP3647",
+        "COMP3657",
+        "COMP3667",
+        "COMP3677",
+        "COMP4087",
+        "COMP4097",
+        "COMP4107",
+        "COMP4117",
+        "COMP4127",
+        "COMP4137",
+        "COMP4157",
+        "COMP4167",
+        "COMP4177",
+        "COMP4187",
+        "COMP4197"
     ]
 }
