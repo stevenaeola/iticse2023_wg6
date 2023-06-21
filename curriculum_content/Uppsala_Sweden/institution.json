@@ -1,30 +1,30 @@
 {
     "institution": "Uppsala_Sweden",
-    "scrapeURL": "https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=%ELECTIVE%&lasar=",
+    "scrapeURL": "https://www.uu.se/en/study/syllabus?query=%ELECTIVE%",
     "XPath": {
-        "content": "//*[@id='syllabusContainer']/div[1]/ul[2]",
-        "ilo": "//*[@id='syllabusContainer']/div[1]/ul[1]",
-        "title": "//*[@id='readspeaker-content']/h1",
-        "summary": ""
+        "content": "//h2[contains(text(), 'Content')]/following-sibling::text()[1]",
+        "ilo": "//h2[contains(text(), 'Learning outcomes')]/following-sibling::text()[2]",
+        "title": "//h1[contains(@class, 'education-header-name')]",
+        "summary": "//h2[contains(text(), 'About the course')]/following-sibling::text()[1]"
     },
-    "electives": [
-        "1DL301",
-        "1DL311",
-        "1DT052",
-        "1TD403",
-        "1DL231",
-        "1DL321",
-        "1DT072",
-        "1DL481",
-        "1MD001",
-        "1TD169",
-        "1TD388",
-        "1TD062",
-        "1DL034",
-        "1MD004",
-        "1DT075",
-        "1DL550",
-        "1DL251",
-        "1MD300"
-    ]
+    "electives": {
+        "1DL301": "38961",
+        "1DL311": "39203",
+        "1DT052": "42875",
+        "1TD403": "39197",
+        "1DL231": "39209",
+        "1DL321": "39196",
+        "1DT072": "38787",
+        "1DL481": "41722",
+        "1MD001": "42559",
+        "1TD169": "41789",
+        "1TD388": "38401",
+        "1TD062": "38722",
+        "1DL034": "37864",
+        "1MD004": "42806",
+        "1DT075": "38962",
+        "1DL550": "38744",
+        "1DL251": "38749",
+        "1MD300": "42659"
+    }
 }
