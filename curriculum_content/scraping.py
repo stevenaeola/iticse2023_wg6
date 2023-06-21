@@ -19,6 +19,8 @@ import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+from pathlib import Path
+
 import pprint
 
 import sys
@@ -106,6 +108,14 @@ def scrape(institution_name):
                     "overview": overview} | overview_dictionary
             electives_df = electives_df.append(new_row, ignore_index=True)
         electives_df = electives_df[electives_df['elective'].str.len() >0]
+        electives_missing_df = electives_df[electives_df['title'].str.len() ==0]['elective']
+
+# from https://stackoverflow.com/questions/10840533/most-pythonic-way-to-delete-a-file-which-may-not-exist        
+        Path(os.path.join(path,'electives_missing.csv')).unlink(missing_ok=True)
+
+        if(len(electives_missing_df.index)) >0:
+            electives_missing_df.to_csv(os.path.join(path,'electives_missing.csv'), index=False)
+
         electives_df.to_csv(os.path.join(path,'electives_scraped.csv'), index=False)
         driver.quit()
     except OSError as err:
