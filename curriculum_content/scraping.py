@@ -11,9 +11,6 @@
 # 
 # to identify xpath location of relevant content can use https://selectorshub.com/selectorshub/
 
-# In[1]:
-
-
 import json
 import pandas as pd
 
@@ -24,43 +21,30 @@ from selenium.webdriver.common.by import By
 
 import pprint
 
-
-# In[120]:
-
-
-config_json = "scraping_config_temp.json"
-institution_json = "institution.json"
-
-with open(config_json) as config_file:
-    config = json.load(config_file)
-
-institutions = config['institutions']
-driver_path = config['driver_path']
-
-print(institutions)
-
-pp = pprint.PrettyPrinter(indent=4)
-
-
-# In[105]:
-
+import sys
 
 def heading(field):
     return "<h2>" + field + "</h2>"
+    
+def scrape(institution_name):
+    config_json = "scraping_config.json"
+    institution_json = "institution.json"
 
+    with open(config_json) as config_file:
+        config = json.load(config_file)
 
-# In[121]:
+    driver_path = config['driver_path']
 
+    print("Scraping " + institution_name)
 
-driver = webdriver.Chrome(executable_path=driver_path)
-key_fields = ['institution', 'elective', 'overview']
-overview_fields = ['title', 'summary', 'content', 'ilo']
-all_fields = key_fields + overview_fields
-all_electives_dfs =[]
+    pp = pprint.PrettyPrinter(indent=4)
 
+    driver = webdriver.Chrome(executable_path=driver_path)
+    key_fields = ['institution', 'elective', 'overview']
+    overview_fields = ['title', 'summary', 'content', 'ilo']
+    all_fields = key_fields + overview_fields
 
-try:
-    for institution_name in institutions:
+    try:
         path = institution_name
 
         with open(os.path.join(path, institution_json)) as institution_file:
@@ -85,9 +69,8 @@ try:
 
                 electives_df = pre_scraped_df[all_fields]
                 electives_df = electives_df[electives_df['elective'].str.len() >0]
-                all_electives_dfs.append(electives_df)
-                electives_df.to_csv(os.path.join(path,'electives.csv'), index= False)
-                continue
+                electives_df.to_csv(os.path.join(path,'electives_pre.csv'), index= False)
+                return
 
         url = institution_config['scrapeURL']        
         xpaths = institution_config['XPath']
@@ -119,31 +102,24 @@ try:
                     overview += innerHTML
                     overview_dictionary[overview_field] += innerHTML
             new_row = {"institution": institution_config['institution'],
-                       "elective": elective,
-                       "overview": overview} | overview_dictionary
+                    "elective": elective,
+                    "overview": overview} | overview_dictionary
             electives_df = electives_df.append(new_row, ignore_index=True)
         electives_df = electives_df[electives_df['elective'].str.len() >0]
-        all_electives_dfs.append(electives_df)
-        electives_df.to_csv(os.path.join(path,'electives.csv'), index=False)
-    driver.quit()
-except OSError as err:
-    print("OS error:", err)
+        electives_df.to_csv(os.path.join(path,'electives_scraped.csv'), index=False)
+        driver.quit()
+    except OSError as err:
+        print("OS error:", err)
+        driver.quit()
 
-pd.concat(all_electives_dfs).to_csv('all_electives.csv', index=False)
-# except Exception as err:
-#     print(f"Unexpected {err=}, {type(err)=}")
-#     driver.quit()
- 
+def main():
+    try:
+        arg = sys.argv[1]
+        institution_name = arg
+        scrape(institution_name)
+    except IndexError:
+        print("No institution defined on command line")
+        return
 
-
-# In[112]:
-
-
-driver.quit()
-
-
-# In[48]:
-
-
-
-
+if __name__ == "__main__":
+    main()
