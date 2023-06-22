@@ -1,0 +1,404 @@
+institution,elective,overview,title,summary,content,ilo
+CAU_Germany,Inf-NumProg,"<h2>title</h2>Numerical Programming
+<h2>summary</h2>Using simple examples of algorithms, the essential problems, basic knowledge, concepts and techniques of numerical programming are taught and practiced in programming tasks.<h2>content</h2>Examples of simple numerical simulations
+Floating point arithmetic and numeric calculations
+Algorithm stability
+Condition of numerical problems
+Performance and optimization (e.g. cache, pipelining, latency, throughput)
+Object Orientation and Numerical Algorithms
+Interactive visualization
+Typical algorithms of numerical problems
+Basic principles of iterative numerical algorithms
+Basic principles of programming efficient and parallelizable algorithms
+<h2>ilo</h2>Skills in the implementation of simple numerical algorithms (especially with regard to efficiency), skills in the visualization of numerical results, knowledge of the special requirements of numerical programming and the related application of computer science methods.","Numerical Programming
+","Using simple examples of algorithms, the essential problems, basic knowledge, concepts and techniques of numerical programming are taught and practiced in programming tasks.","Examples of simple numerical simulations
+Floating point arithmetic and numeric calculations
+Algorithm stability
+Condition of numerical problems
+Performance and optimization (e.g. cache, pipelining, latency, throughput)
+Object Orientation and Numerical Algorithms
+Interactive visualization
+Typical algorithms of numerical problems
+Basic principles of iterative numerical algorithms
+Basic principles of programming efficient and parallelizable algorithms
+","Skills in the implementation of simple numerical algorithms (especially with regard to efficiency), skills in the visualization of numerical results, knowledge of the special requirements of numerical programming and the related application of computer science methods."
+CAU_Germany,Inf-NNDL,"<h2>title</h2>Neural networks and deep learning<h2>summary</h2>Neural Networks and Deep Learning recently have gained strong interest (Deep Learning has been considered one of 10 breakthrough technologies by the MIT Technology Review 2013). The aim of the course is to provide a fundamental understanding of important concepts, algorithms, techniques and architectures of neural networks and deep learning.<h2>content</h2>Biological basis (neuron and networks)
+Artificial neuron models
+Artificial neural networks: Architectures and the learning problem
+Feedforward neural networks, multi-layer perceptron
+Learning in neural networks and the backpropagation algorithm
+Deep Learning: Motivation and concepts
+Convolutional neural networks
+(If time permits:) Recurrent neural networks: Long Short Term Memory (LSTM)
+(If time permits:) Unsupervised learning: Autoencoders
+(If time permits:) Generative models: Variational Autoencoder, Generative Adversarial Networks<h2>ilo</h2>After completing the course, students should
+
+have a basic overview over neural network and deep learning concepts, algorithms and architectures, suitable applications, capabilities and limitations,
+be able to apply suitable neural network and deep learning techniques to new problems,
+analyze the outcome of neural network and deep learning experiments and explore potential methods to improve performance.",Neural networks and deep learning,"Neural Networks and Deep Learning recently have gained strong interest (Deep Learning has been considered one of 10 breakthrough technologies by the MIT Technology Review 2013). The aim of the course is to provide a fundamental understanding of important concepts, algorithms, techniques and architectures of neural networks and deep learning.","Biological basis (neuron and networks)
+Artificial neuron models
+Artificial neural networks: Architectures and the learning problem
+Feedforward neural networks, multi-layer perceptron
+Learning in neural networks and the backpropagation algorithm
+Deep Learning: Motivation and concepts
+Convolutional neural networks
+(If time permits:) Recurrent neural networks: Long Short Term Memory (LSTM)
+(If time permits:) Unsupervised learning: Autoencoders
+(If time permits:) Generative models: Variational Autoencoder, Generative Adversarial Networks","After completing the course, students should
+
+have a basic overview over neural network and deep learning concepts, algorithms and architectures, suitable applications, capabilities and limitations,
+be able to apply suitable neural network and deep learning techniques to new problems,
+analyze the outcome of neural network and deep learning experiments and explore potential methods to improve performance."
+CAU_Germany,inf-EnlOpt,"<h2>title</h2>Introduction to Nonlinear Optimization<h2>summary</h2>Theory and algorithms for solving general, non-linear optimization problems with and without constraints from various fields of application.<h2>content</h2>Classification of optimization problems
+Optimality criteria for unconstrained problems
+Algorithms for unconstrained problems, gradient-based and derivative-free methods
+Algorithmic Differentiation
+Optimality criteria for problems with constraints
+Algorithms for constraint problems<h2>ilo</h2>Modeling and formalization of optimization tasks given in text form
+Classify optimization problems
+Apply optimality criteria
+Implement and apply algorithms to solve optimization tasks
+Evaluate and evaluate the results of optimization algorithms",Introduction to Nonlinear Optimization,"Theory and algorithms for solving general, non-linear optimization problems with and without constraints from various fields of application.","Classification of optimization problems
+Optimality criteria for unconstrained problems
+Algorithms for unconstrained problems, gradient-based and derivative-free methods
+Algorithmic Differentiation
+Optimality criteria for problems with constraints
+Algorithms for constraint problems","Modeling and formalization of optimization tasks given in text form
+Classify optimization problems
+Apply optimality criteria
+Implement and apply algorithms to solve optimization tasks
+Evaluate and evaluate the results of optimization algorithms"
+CAU_Germany,inf-EAeS,"<h2>title</h2>Methods for Efficient Similarity Search in Large Data Sets<h2>summary</h2>The lecture presents new techniques for similarity search, especially feature-based similarity search in databases with complexly structured objects. The treated substance is used in many (non-computer science) sciences in which data-driven exploration is becoming an increasingly important topic, such as archaeology, medicine, and other natural sciences and humanities. This data includes, in particular, multimedia objects and general Multi-attribute objects objects with spatial expansion (e.g. CAD data, geo-objects, bio-molecules, etc.) Time series and sequence data (e.g. audio sequences, video sequences, etc.)<h2>content</h2>Introduction to feature-based similarity search
+Feature rooms and distance measurements
+Algorithmic paradigms for request processing
+Index structures for feature rooms and metric spaces
+Area inquiries
+Next-neighbours inquiries
+Reverse Next Neighbors Request
+Skyline requests and Pareto optimality
+Evaluation of methods for finding similarity
+Feature extraction of spatially extended objects
+Feature extraction of time series
+Neighborhood search in network graphs<h2>ilo</h2>The students know algorithmic techniques for the efficiency and effectiveness of the presented techniques for neighborhood search and neighborhood inquiry in non-standard databases (data sets) and can apply them practically. In addition, they have understood index-based search and multi-stage request processing as well as feature extraction methods for spatial and temporal data.",Methods for Efficient Similarity Search in Large Data Sets,"The lecture presents new techniques for similarity search, especially feature-based similarity search in databases with complexly structured objects. The treated substance is used in many (non-computer science) sciences in which data-driven exploration is becoming an increasingly important topic, such as archaeology, medicine, and other natural sciences and humanities. This data includes, in particular, multimedia objects and general Multi-attribute objects objects with spatial expansion (e.g. CAD data, geo-objects, bio-molecules, etc.) Time series and sequence data (e.g. audio sequences, video sequences, etc.)","Introduction to feature-based similarity search
+Feature rooms and distance measurements
+Algorithmic paradigms for request processing
+Index structures for feature rooms and metric spaces
+Area inquiries
+Next-neighbours inquiries
+Reverse Next Neighbors Request
+Skyline requests and Pareto optimality
+Evaluation of methods for finding similarity
+Feature extraction of spatially extended objects
+Feature extraction of time series
+Neighborhood search in network graphs","The students know algorithmic techniques for the efficiency and effectiveness of the presented techniques for neighborhood search and neighborhood inquiry in non-standard databases (data sets) and can apply them practically. In addition, they have understood index-based search and multi-stage request processing as well as feature extraction methods for spatial and temporal data."
+CAU_Germany,Inf-GraphDraw ,"<h2>title</h2>Automatic Graph Drawing<h2>summary</h2>Graphs are found in numerous areas of computer science and beyond. For example, software engineers make regular use of class diagrams, automata or flow charts. Hardware design makes use of net lists and circuit diagrams. The drawing of a graph is its visual representation. The manual creation of a well-readable drawing, such as the design of a UML diagram with a software engineering tool, can be a very time consuming activity.
+
+This class covers approaches for the efficient, automatic creation of well-readable diagrams. This is an application-driven form of algorithm engineering, where cognitive psychology plays an important role. Graph drawing methods are used increasingly for example in ""auto-layout"" features of development tools.
+
+The tool stretches from theoretical foundations to practical implementations. We here make use of the Eclipse-based open source tool KIELER (Kiel Integrated Environment for Layout) and the Eclipse Layout Kernel (ELK). Both of these projects are developed at the RTSYS research group, ELK is now an official Eclipse project.<h2>content</h2>Foundations of graph theory
+Aesthetics criteria
+Tooling, usage of ELK and KIELER
+Drawing trees
+Force-based drawing
+Hierarchical graph drawing
+Planarization-based graph drawing
+Labeling approaches<h2>ilo</h2>Properly classify different types of graphs and use correct terminology for graph aspects and properties
+Explain basic graph analyses and their computational complexity
+Select and apply suitably algorithmic approaches for the automatic drawing of different types of diagrams
+Extend existing approaches for specific types of diagrams
+Evaluate graphs concerning common aesthetics criteria
+After successful completion of this module students will be able to judge for a given type of graph whether it can be drawn automatically and which algorithmic approaches are suitable. They will also be able to adapt existing drawing algorithms or to develop new approaches. Finally, students should also be able to perform a thesis project (Bachelor or Master) on the subject of graph drawing and to contribute to ELK and KIELER.",Automatic Graph Drawing,"Graphs are found in numerous areas of computer science and beyond. For example, software engineers make regular use of class diagrams, automata or flow charts. Hardware design makes use of net lists and circuit diagrams. The drawing of a graph is its visual representation. The manual creation of a well-readable drawing, such as the design of a UML diagram with a software engineering tool, can be a very time consuming activity.
+
+This class covers approaches for the efficient, automatic creation of well-readable diagrams. This is an application-driven form of algorithm engineering, where cognitive psychology plays an important role. Graph drawing methods are used increasingly for example in ""auto-layout"" features of development tools.
+
+The tool stretches from theoretical foundations to practical implementations. We here make use of the Eclipse-based open source tool KIELER (Kiel Integrated Environment for Layout) and the Eclipse Layout Kernel (ELK). Both of these projects are developed at the RTSYS research group, ELK is now an official Eclipse project.","Foundations of graph theory
+Aesthetics criteria
+Tooling, usage of ELK and KIELER
+Drawing trees
+Force-based drawing
+Hierarchical graph drawing
+Planarization-based graph drawing
+Labeling approaches","Properly classify different types of graphs and use correct terminology for graph aspects and properties
+Explain basic graph analyses and their computational complexity
+Select and apply suitably algorithmic approaches for the automatic drawing of different types of diagrams
+Extend existing approaches for specific types of diagrams
+Evaluate graphs concerning common aesthetics criteria
+After successful completion of this module students will be able to judge for a given type of graph whether it can be drawn automatically and which algorithmic approaches are suitable. They will also be able to adapt existing drawing algorithms or to develop new approaches. Finally, students should also be able to perform a thesis project (Bachelor or Master) on the subject of graph drawing and to contribute to ELK and KIELER."
+CAU_Germany,inf-TM,"<h2>title</h2>Text Mining<h2>summary</h2>The digital age and the success of the Internet in particular has led to a huge amount of publicly available documents and textual information. The task of text mining is to process this unstructured information and extract knowledge. To this end, we will present methods, algorithms, and models that support a diverse set of text mining applications, ranging from regular expressions and lexicon-based sentiment analysis, to more complex methods using machine learning, such as probabilistic topic models.
+
+<h2>content</h2>
+Foundation of linguistics Information extraction Named entities Opinion mining & sentiment analysis Preprocessing of textual data Representation of documents Word associations Topic Modeling Foundations of machine learning Document classification Clustering Sequence labeling Visualizing textual data Ethics & bias<h2>ilo</h2>
+Students are able to...
+
+understand basic concepts of text mining and their commercial application
+explain, apply, and evaluate text mining methods
+implement text mining applications in Python
+",Text Mining,"The digital age and the success of the Internet in particular has led to a huge amount of publicly available documents and textual information. The task of text mining is to process this unstructured information and extract knowledge. To this end, we will present methods, algorithms, and models that support a diverse set of text mining applications, ranging from regular expressions and lexicon-based sentiment analysis, to more complex methods using machine learning, such as probabilistic topic models.
+
+","
+Foundation of linguistics Information extraction Named entities Opinion mining & sentiment analysis Preprocessing of textual data Representation of documents Word associations Topic Modeling Foundations of machine learning Document classification Clustering Sequence labeling Visualizing textual data Ethics & bias","
+Students are able to...
+
+understand basic concepts of text mining and their commercial application
+explain, apply, and evaluate text mining methods
+implement text mining applications in Python
+"
+CAU_Germany,inf-AuLearn,"<h2>title</h2>Autonomous Learning<h2>summary</h2>Autonomous Learning research aims at understanding how autonomous systems can efficiently learn from the interaction with the environment, especially by having an integrated approach to decision making and learning, allowing systems to autonomously decide on actions, representations, hyper-parameters and model structures for the purpose of efficient learning. The term ""autonomous"" refers to the ability of the system to learn without or with only very limited external support, which includes manual intervention of humans, availability of pre-defined models or expert knowledge, and availability of large sets of sample data. Specific research topics are: Adaptation of the learning models / techniques based on observations, learning from interaction with the environment, re-using knowledge from one domain in another domain, detection of behaviour that deviates from 'usual' or expected behaviour, and learning from and with other systems of the same kind. The lecture gives an introduction to the field of autonomous learning with a particular focus on a utilisation of the different techniques within intelligent systems. Autonomous Learning is cutting edge research, which means that parts of the lecture are based on current research articles rather than on textbooks. Furthermore, a practitioner's perspective is combined with theoretical understanding of the concepts: the lecture units are combined with traditional exercises but also with practical tasks that have to be solved by making use of techniques discussed in the lecture.<h2>content</h2>
+a) Introduction and organisation
+
+b) Machine learning basics
+
+c) Reinforcement Learning
+
+d) Anomaly/Novelty Detection
+
+e) Active Learning
+
+Further (depending on time and scope), the following topics may be covered as well:
+
+f) Transfer Learning
+
+g) Model selection (hyper-parameter optimisation and evaluation)
+
+h) Collaborative Learning
+
+i) Summary and outlook (incl. meta-learning)<h2>ilo</h2>
+The overall goal of the course is to derive a basic understanding of the motivation, the general concept, and particularly important methods covering the most prominent parts of the field of autonomous learning. This includes techniques for the following aspects of machine learning:
+
+Fully autonomous learning behaviour: hyper-parameter optimisation, transfer learning, (self-)evaluation,
+self-awareness or environment-awareness with a major focus on anomaly/novelty detection
+By interaction with the environment via sensors and actuators: reinforcement learning
+By efficiently integrating humans into the learning process: active learning
+By interacting with other intelligent systems: collaborative learning
+By using all the above: meta-learning
+Particular goals are:
+
+a) Knowledge / Skills:
+
+Understanding of methods for achieving ""intelligence"" in technical systems, control of learning behaviour with minimal user interaction, continuous self-improvement of system behaviour, cooperation in learning between distributed technical systems
+
+b) Abilities:
+
+Selection and application of techniques of machine learning in technical systems under real-world conditions to control autonomous system behaviour
+
+c) Competencies:
+
+Ability to analyse autonomous learning processes and their behaviour, to determine and interpret relevant assessment parameters / Competence to plan, design and develop intelligent technical systems with the ability to learn autonomously
+",Autonomous Learning,"Autonomous Learning research aims at understanding how autonomous systems can efficiently learn from the interaction with the environment, especially by having an integrated approach to decision making and learning, allowing systems to autonomously decide on actions, representations, hyper-parameters and model structures for the purpose of efficient learning. The term ""autonomous"" refers to the ability of the system to learn without or with only very limited external support, which includes manual intervention of humans, availability of pre-defined models or expert knowledge, and availability of large sets of sample data. Specific research topics are: Adaptation of the learning models / techniques based on observations, learning from interaction with the environment, re-using knowledge from one domain in another domain, detection of behaviour that deviates from 'usual' or expected behaviour, and learning from and with other systems of the same kind. The lecture gives an introduction to the field of autonomous learning with a particular focus on a utilisation of the different techniques within intelligent systems. Autonomous Learning is cutting edge research, which means that parts of the lecture are based on current research articles rather than on textbooks. Furthermore, a practitioner's perspective is combined with theoretical understanding of the concepts: the lecture units are combined with traditional exercises but also with practical tasks that have to be solved by making use of techniques discussed in the lecture.","
+a) Introduction and organisation
+
+b) Machine learning basics
+
+c) Reinforcement Learning
+
+d) Anomaly/Novelty Detection
+
+e) Active Learning
+
+Further (depending on time and scope), the following topics may be covered as well:
+
+f) Transfer Learning
+
+g) Model selection (hyper-parameter optimisation and evaluation)
+
+h) Collaborative Learning
+
+i) Summary and outlook (incl. meta-learning)","
+The overall goal of the course is to derive a basic understanding of the motivation, the general concept, and particularly important methods covering the most prominent parts of the field of autonomous learning. This includes techniques for the following aspects of machine learning:
+
+Fully autonomous learning behaviour: hyper-parameter optimisation, transfer learning, (self-)evaluation,
+self-awareness or environment-awareness with a major focus on anomaly/novelty detection
+By interaction with the environment via sensors and actuators: reinforcement learning
+By efficiently integrating humans into the learning process: active learning
+By interacting with other intelligent systems: collaborative learning
+By using all the above: meta-learning
+Particular goals are:
+
+a) Knowledge / Skills:
+
+Understanding of methods for achieving ""intelligence"" in technical systems, control of learning behaviour with minimal user interaction, continuous self-improvement of system behaviour, cooperation in learning between distributed technical systems
+
+b) Abilities:
+
+Selection and application of techniques of machine learning in technical systems under real-world conditions to control autonomous system behaviour
+
+c) Competencies:
+
+Ability to analyse autonomous learning processes and their behaviour, to determine and interpret relevant assessment parameters / Competence to plan, design and develop intelligent technical systems with the ability to learn autonomously
+"
+CAU_Germany,inf-CI,"<h2>title</h2>Computational Intelligence<h2>summary</h2>The term ""Computational Intelligence"" (CI) describes a branch of artificial intelligence. Essentially, it summarizes three biologically motivated areas of information processing: Based on algorithms of fuzzy logic and artificial neural networks as well as on the evolutionary algorithms, the mastery of complex systems is sought and combined with other, typically biologically-inspired, processes. Originally coined in the 1990s by the Institute of Electrical and Electronics Engineers (IEEE), the term is often used synonymously with soft computing nowadays. All included sub-areas have in common that they make mechanisms of natural (i.e. in particular biological, physical or social) problem-solving strategies usable for mathematical or engineering-technical issues. This is not aimed at a direct transfer or ""technical copy"", but at an understanding and imitation of the basic mechanisms. The procedures developed in this way are in contrast to exact mathematical procedures - one rather freely follows the motto: ""Permitted is what works"".
+
+<h2>content</h2>Introduction and organization
+Complex systems: definition, environment and mastery of complexity
+Emergence and self-organization
+Fractal
+Cellular Automata
+Evolutionary algorithms
+Particle swarm optimization
+Ant algorithms
+bee algorithms
+Neural networks
+Summary<h2>ilo</h2>The aim of the event is to provide a first overview of the field of computational intelligence in theory and practice. Based on this, students should be taught a basic understanding and appropriate approaches, so that the following goals in particular are achieved:
+
+Students have a basic understanding of the complexity of technical systems and know how to master them.
+You know how seemingly complex relationships with mechanisms of computational intelligence can be easily described.
+Techniques from the field of Computational Intelligence / Soft Computing as well as their advantages and disadvantages in comparison are known.",Computational Intelligence,"The term ""Computational Intelligence"" (CI) describes a branch of artificial intelligence. Essentially, it summarizes three biologically motivated areas of information processing: Based on algorithms of fuzzy logic and artificial neural networks as well as on the evolutionary algorithms, the mastery of complex systems is sought and combined with other, typically biologically-inspired, processes. Originally coined in the 1990s by the Institute of Electrical and Electronics Engineers (IEEE), the term is often used synonymously with soft computing nowadays. All included sub-areas have in common that they make mechanisms of natural (i.e. in particular biological, physical or social) problem-solving strategies usable for mathematical or engineering-technical issues. This is not aimed at a direct transfer or ""technical copy"", but at an understanding and imitation of the basic mechanisms. The procedures developed in this way are in contrast to exact mathematical procedures - one rather freely follows the motto: ""Permitted is what works"".
+
+","Introduction and organization
+Complex systems: definition, environment and mastery of complexity
+Emergence and self-organization
+Fractal
+Cellular Automata
+Evolutionary algorithms
+Particle swarm optimization
+Ant algorithms
+bee algorithms
+Neural networks
+Summary","The aim of the event is to provide a first overview of the field of computational intelligence in theory and practice. Based on this, students should be taught a basic understanding and appropriate approaches, so that the following goals in particular are achieved:
+
+Students have a basic understanding of the complexity of technical systems and know how to master them.
+You know how seemingly complex relationships with mechanisms of computational intelligence can be easily described.
+Techniques from the field of Computational Intelligence / Soft Computing as well as their advantages and disadvantages in comparison are known."
+CAU_Germany,Inf-DigSig,"<h2>title</h2>Multimedia Signal Processing and Data Compression
+<h2>summary</h2>There will be basic features of audiovisual information processing with applications in the compression and coding of audiovisual data. The basics of digital signal processing occupy a wide space (50%). Themes:
+
+Basics of human perception (psycho-optics and psycho-acoustics)
+Basics of digital signal processing
+Basics of data compression
+Compression of multimedia data using the example of JPEG and MPEG<h2>content</h2>
+
+1) Basics of human perception
+
+Psycho-optics
+Psycho-acoustics
+2) Basics of signal processing
+
+Signal models and system models
+Continuous and discrete signals
+Continuous and discreet Fourier transformation
+Filtering of audio signals
+3) Basics of data compression
+
+Entropy codes (Huffmann Code, Arithmetic Code)
+Dictionaries (Lempel-Ziv)
+4) Application in the field of audiovisual information processing
+
+JPEG
+MPEG Video
+MPEG Audio<h2>ilo</h2>
+
+The processing of real-world signals in the computer is a central task of digital signal processing. In this lecture, the basics of continuous and discrete signals as well as their representation and processing in the time and frequency range are discussed. These basics are explained in more detail in the context of data compression of multimedia data (JPEG, MPEG).
+
+The lecture deals with the basics of signal processing (50%) as well as its use in the compression of audiovisual data (50%). The students learn the theoretical basics and apply them practically using the example of audio and video compression. Exercises are performed in Matlab/Oktav.","Multimedia Signal Processing and Data Compression
+","There will be basic features of audiovisual information processing with applications in the compression and coding of audiovisual data. The basics of digital signal processing occupy a wide space (50%). Themes:
+
+Basics of human perception (psycho-optics and psycho-acoustics)
+Basics of digital signal processing
+Basics of data compression
+Compression of multimedia data using the example of JPEG and MPEG","
+
+1) Basics of human perception
+
+Psycho-optics
+Psycho-acoustics
+2) Basics of signal processing
+
+Signal models and system models
+Continuous and discrete signals
+Continuous and discreet Fourier transformation
+Filtering of audio signals
+3) Basics of data compression
+
+Entropy codes (Huffmann Code, Arithmetic Code)
+Dictionaries (Lempel-Ziv)
+4) Application in the field of audiovisual information processing
+
+JPEG
+MPEG Video
+MPEG Audio","
+
+The processing of real-world signals in the computer is a central task of digital signal processing. In this lecture, the basics of continuous and discrete signals as well as their representation and processing in the time and frequency range are discussed. These basics are explained in more detail in the context of data compression of multimedia data (JPEG, MPEG).
+
+The lecture deals with the basics of signal processing (50%) as well as its use in the compression of audiovisual data (50%). The students learn the theoretical basics and apply them practically using the example of audio and video compression. Exercises are performed in Matlab/Oktav."
+CAU_Germany,inf-IoT,"<h2>title</h2>Internet of Things and Wireless Networks <h2>summary</h2>This course will introduce and discuss the underlying concepts and mechanisms that drive wireless networks and the Internet of Things (IoT). The lectures provide you with the required knowledge, and the labs give you a hands-on experience in developing networking and applications in the Internet of Things and exploring their real-world challenges.<h2>content</h2>
+We begin the course with an introduction to basic concepts of IoT Systems and Applications and the challenges they pose. We continue with the main course content and focus on:
+
+Wireless networking
+low-power wireless communication (NFC, BLE and 802.15.4)
+IoT networking (RPL, TSCH, and Thread)
+web-technologies for IoT such as COAP
+Operating Systems for IoT
+Security in IoT
+Selected IoT Applications
+Our lectures provide students with the required fundamentals, and exercise and projects give students a hands-on experience in developing IoT systems & applications and exploring their real-world challenges. This course offers learning experiences that involve hands-on experimentation and analysis as they reinforce student understanding of concepts and their application to real-world problems. Overall, this course provides the students the ability to understand fundamental issues in the design of methods for IoT systems and applications.<h2>ilo</h2>Knowledge and understanding: Show knowledge of basic concepts and challenges of wireless networking and the Internet of Things, low-power wireless communication, NFC, BLE and 802.15.4), IoT networking (RPL, TSCH, and Thread), Operating Systems for IoT, Security in IoT, and IoT Applications. Describe applications of the Internet of Things and the mechanisms these use to provide their services. Discuss and analyze the challenges and requirements that the different approaches have. Compare and summarize the strength and weaknesses associated with the individual mechanisms.
+Skills and abilities: Develop and evaluate small-scale wireless networks and IoT systems & applications using fundamental mechanisms introduced in the lectures. Demonstration of these software developments in advanced settings including unreliable wireless links and resource constraints (e.g., battery driven).
+Judgment and approach: Describe and analyze existing and new methods for IoT systems and application design. In particular, the system's ability for low-power wireless networking and operation under strong resource constraints.
+Lehrinhalte:
+Aim: What is the Internet of Things and its applications? How can we build reliable and resource efficient IoT systems and applications? How do its devices in the Internet of Things communicate? How do wireless networks work? These are a few questions that this course addresses. The goal of the courses is to understand the design of the Internet of Things and discuss the underlying principles and mechanisms. Our lectures provide you with the required fundamentals, and our labs give you a hands-on experience in developing IoT systems and applications and exploring their real-world challenges.
+",Internet of Things and Wireless Networks ,"This course will introduce and discuss the underlying concepts and mechanisms that drive wireless networks and the Internet of Things (IoT). The lectures provide you with the required knowledge, and the labs give you a hands-on experience in developing networking and applications in the Internet of Things and exploring their real-world challenges.","
+We begin the course with an introduction to basic concepts of IoT Systems and Applications and the challenges they pose. We continue with the main course content and focus on:
+
+Wireless networking
+low-power wireless communication (NFC, BLE and 802.15.4)
+IoT networking (RPL, TSCH, and Thread)
+web-technologies for IoT such as COAP
+Operating Systems for IoT
+Security in IoT
+Selected IoT Applications
+Our lectures provide students with the required fundamentals, and exercise and projects give students a hands-on experience in developing IoT systems & applications and exploring their real-world challenges. This course offers learning experiences that involve hands-on experimentation and analysis as they reinforce student understanding of concepts and their application to real-world problems. Overall, this course provides the students the ability to understand fundamental issues in the design of methods for IoT systems and applications.","Knowledge and understanding: Show knowledge of basic concepts and challenges of wireless networking and the Internet of Things, low-power wireless communication, NFC, BLE and 802.15.4), IoT networking (RPL, TSCH, and Thread), Operating Systems for IoT, Security in IoT, and IoT Applications. Describe applications of the Internet of Things and the mechanisms these use to provide their services. Discuss and analyze the challenges and requirements that the different approaches have. Compare and summarize the strength and weaknesses associated with the individual mechanisms.
+Skills and abilities: Develop and evaluate small-scale wireless networks and IoT systems & applications using fundamental mechanisms introduced in the lectures. Demonstration of these software developments in advanced settings including unreliable wireless links and resource constraints (e.g., battery driven).
+Judgment and approach: Describe and analyze existing and new methods for IoT systems and application design. In particular, the system's ability for low-power wireless networking and operation under strong resource constraints.
+Lehrinhalte:
+Aim: What is the Internet of Things and its applications? How can we build reliable and resource efficient IoT systems and applications? How do its devices in the Internet of Things communicate? How do wireless networks work? These are a few questions that this course addresses. The goal of the courses is to understand the design of the Internet of Things and discuss the underlying principles and mechanisms. Our lectures provide you with the required fundamentals, and our labs give you a hands-on experience in developing IoT systems and applications and exploring their real-world challenges.
+"
+CAU_Germany,Inf-CombWords,"<h2>title</h2>Combinatorics on Words<h2>summary</h2>This course is an extended introduction into the theory of combinatorics on words (aka strings or sequences). Connections to applications of string algorithms will be drawn in providing the combinatorial background to the course Algorithms on Sequences.
+<h2>content</h2>
+We consider advanced properties of periods in finite and infinite words, word equations, circular words, subword complexity, fixed point words and avoidability questions.<h2>ilo</h2>
+A successful student of this course will have an in-depth knowledge combinatorial properties of sequential structures.",Combinatorics on Words,"This course is an extended introduction into the theory of combinatorics on words (aka strings or sequences). Connections to applications of string algorithms will be drawn in providing the combinatorial background to the course Algorithms on Sequences.
+","
+We consider advanced properties of periods in finite and infinite words, word equations, circular words, subword complexity, fixed point words and avoidability questions.","
+A successful student of this course will have an in-depth knowledge combinatorial properties of sequential structures."
+CAU_Germany,WInf-eBeM,"<h2>title</h2>E-Business und E-Marketing<h2>summary</h2>In this module, important application systems and their implementation are considered as examples. In addition, the integration of subcomponents is considered. Deployment concepts are developed from a business point of view.<h2>content</h2>
+
+The subject of the event is the following areas and subsystems of electronic commerce:
+
+Web shops and eProcurement
+Customer Relationship Management Systems (CRM)
+Public administration systems (e.g. B. E-Government)
+mobile trade
+Integration of systems, e.g. web shop with CRM and merchandise management systems
+Trade between companies and marketing concepts is considered.<h2>ilo</h2>The participants have an in-depth understanding of selected sub-areas of electronic commerce and other operational application systems. The theoretical aspects known from other events are supplemented by an understanding of the practical procedure. The students have experience in the practical use of the systems and know procedures for the systematic procedure. They have developed the first business models and can understand business models that are typical of electronic commerce.
+",E-Business und E-Marketing,"In this module, important application systems and their implementation are considered as examples. In addition, the integration of subcomponents is considered. Deployment concepts are developed from a business point of view.","
+
+The subject of the event is the following areas and subsystems of electronic commerce:
+
+Web shops and eProcurement
+Customer Relationship Management Systems (CRM)
+Public administration systems (e.g. B. E-Government)
+mobile trade
+Integration of systems, e.g. web shop with CRM and merchandise management systems
+Trade between companies and marketing concepts is considered.","The participants have an in-depth understanding of selected sub-areas of electronic commerce and other operational application systems. The theoretical aspects known from other events are supplemented by an understanding of the practical procedure. The students have experience in the practical use of the systems and know procedures for the systematic procedure. They have developed the first business models and can understand business models that are typical of electronic commerce.
+"
+CAU_Germany,inf-EERP,"<h2>title</h2>Implementation of ERP systems
+<h2>summary</h2>The core task of ERP systems is the volume and value-related planning, recording and settlement of all essential business transactions of a company. ERP systems are therefore one of the central components of the IT landscape of larger companies today. Accordingly, new introductions or changes of these systems in larger companies are often highly complex and thus complex and expensive large-scale IT projects.
+
+The high value of such software for companies can also be seen from the fact that the group with the currently largest market capitalization within the German stock index DAX® is neither a car manufacturer nor a classic industrial group, but a provider of corresponding business software. In this module, using the example of its ERP system (a) the knowledge about the support of operational processes by standard software is further deepened, (b) shows with which project management procedures and methods corresponding large-scale IT projects are carried out in practice, and (c) shows how an entire ecosystem can be formed around such a software product.<h2>content</h2>Overview of standard operational software using the example of the product portfolio of SAP SE from a business point of view (ERP, analytics, business networks) and from a technical point of view (database, application, user interface, data integration, artificial intelligence)
+Mapping of common, operational processes in ERP standard software (stainable data, quantity and value flows)
+Procedures for the introduction and conversion of standard operational software using the example of large introductions of SAP® ERP software (classic, SAP® Activate/Focus Build, global rollout strategies) and organization of corresponding projects (ecosystem, project management processes)
+Strategies for the further development of standard operational software in the company (governance structures and processes)
+Trends (current situation in companies, technological innovations)<h2>ilo</h2>The students;
+
+have an in-depth understanding of the range of applications of standard operational software
+have an idea of the objectives, tasks and challenges of the introduction or Conversion of standard operational software
+know the usual procedures for large-scale IT projects","Implementation of ERP systems
+","The core task of ERP systems is the volume and value-related planning, recording and settlement of all essential business transactions of a company. ERP systems are therefore one of the central components of the IT landscape of larger companies today. Accordingly, new introductions or changes of these systems in larger companies are often highly complex and thus complex and expensive large-scale IT projects.
+
+The high value of such software for companies can also be seen from the fact that the group with the currently largest market capitalization within the German stock index DAX® is neither a car manufacturer nor a classic industrial group, but a provider of corresponding business software. In this module, using the example of its ERP system (a) the knowledge about the support of operational processes by standard software is further deepened, (b) shows with which project management procedures and methods corresponding large-scale IT projects are carried out in practice, and (c) shows how an entire ecosystem can be formed around such a software product.","Overview of standard operational software using the example of the product portfolio of SAP SE from a business point of view (ERP, analytics, business networks) and from a technical point of view (database, application, user interface, data integration, artificial intelligence)
+Mapping of common, operational processes in ERP standard software (stainable data, quantity and value flows)
+Procedures for the introduction and conversion of standard operational software using the example of large introductions of SAP® ERP software (classic, SAP® Activate/Focus Build, global rollout strategies) and organization of corresponding projects (ecosystem, project management processes)
+Strategies for the further development of standard operational software in the company (governance structures and processes)
+Trends (current situation in companies, technological innovations)","The students;
+
+have an in-depth understanding of the range of applications of standard operational software
+have an idea of the objectives, tasks and challenges of the introduction or Conversion of standard operational software
+know the usual procedures for large-scale IT projects"
