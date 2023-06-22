@@ -1,6 +1,6 @@
 
 inst_scrape :=  Durham_England Edinburgh_Scotland Glasgow_Scotland Uppsala_Sweden
-inst_pre := CAUKiel_Germany Kennesaw_USA UofT_Canada UOC_Spain VirginiaTech_USA
+inst_pre := CAU_Germany Kennesaw_USA UofT_Canada UOC_Spain VirginiaTech_USA
 inst_todo := SDSU_USA
 inst_all := $(inst_scrape) $(inst_pre) $(inst_todo)
 
@@ -37,15 +37,23 @@ Edinburgh_Scotland/$(scraped_file): Edinburgh_Scotland/institution.json $(python
 Uppsala_Sweden/$(scraped_file): Uppsala_Sweden/institution.json $(python_scrape)
 	python3 $(python_scrape) $(@D)
 
-CAUKiel_Germany: CAUKiel_Germany/$(pre_file)
+CAU_Germany: CAU_Germany/$(pre_file)
 Kennesaw_USA: Kennesaw_USA/$(pre_file)
+UOC_Spain: UOC_Spain/$(pre_file)
+UofT_Canada: UofT_Canada/$(pre_file)
 VirginiaTech_USA: VirginiaTech_USA/$(pre_file)
 
 
-CAUKiel_Germany/$(pre_file): CAUKiel_Germany/institution.json CAUKiel_Germany/$(pre_in_file) $(python_wrangle)
+CAU_Germany/$(pre_file): CAU_Germany/institution.json CAU_Germany/$(pre_in_file) $(python_wrangle)
 	python3 $(python_wrangle) $(@D)
 
 Kennesaw_USA/$(pre_file): Kennesaw_USA/institution.json Kennesaw_USA/$(pre_in_file) $(python_wrangle)
+	python3 $(python_wrangle) $(@D)
+
+UOC_Spain/$(pre_file): UOC_Spain/institution.json UOC_Spain/$(pre_in_file) $(python_wrangle)
+	python3 $(python_wrangle) $(@D)
+
+UofT_Canada/$(pre_file): UofT_Canada/institution.json UofT_Canada/$(pre_in_file) $(python_wrangle)
 	python3 $(python_wrangle) $(@D)
 
 VirginiaTech_USA/$(pre_file): VirginiaTech_USA/institution.json VirginiaTech_USA/$(pre_in_file) $(python_wrangle)
