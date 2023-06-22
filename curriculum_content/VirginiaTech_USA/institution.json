@@ -1,41 +1,11 @@
 {
     "institution": "VirginiaTech_USA",
-    "scrapeURL": "https://cs.vt.edu/Undergraduate/courses/%ELECTIVE%.html",
-    "XPath": {
-        "content": "",
-        "ilo": "",
-        "title": "//*[@id='vt_main']/div/div[1]/h1",
-        "summary": "//*[@id='vt_with_rb']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]"
-    },
-    "electives": [
-        "CS3314",
-        "CS3414",
-        "CS3654",
-        "CS3704",
-        "CS3714",
-        "CS3724",
-        "CS3744",
-        "CS3754",
-        "CS3824",
-        "CS4104",
-        "CS4114",
-        "CS4124",
-        "CS4134",
-        "CS4144",
-        "CS4234",
-        "CS4254",
-        "CS4264",
-        "CS4274",
-        "CS4284",
-        "CS4504",
-        "CS4604",
-        "CS4624",
-        "CS4644",
-        "CS4654",
-        "CS4664",
-        "CS4704",
-        "CS4784",
-        "CS4804",
-        "CS4824"
-    ]
+    "pre_scraped_file": "electives_in.csv",
+    "fields": {
+        "elective": "elective",
+        "title": "title",
+        "summary": "",
+        "content": "content",
+        "ilo": ""
+    }
 }
