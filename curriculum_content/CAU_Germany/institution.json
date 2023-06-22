@@ -1,0 +1,11 @@
+{
+    "institution": "CAU_Germany",
+    "pre_scraped_file": "electives_in.csv",
+    "fields": {
+        "elective": "Module code",
+        "title": "Module name",
+        "summary": "Course Summary",
+        "content": "Course Content",
+        "ilo": "Learning Objectives"
+    }
+}
