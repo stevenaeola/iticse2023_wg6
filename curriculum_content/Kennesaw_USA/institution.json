@@ -1,6 +1,6 @@
 {
     "institution": "Kennesaw_USA",
-    "pre_scraped_file": "courses.csv",
+    "pre_scraped_file": "electives_in.csv",
     "fields": {
         "elective": "MCode",
         "title": "MTitle",
