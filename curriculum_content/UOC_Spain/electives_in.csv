@@ -1,0 +1,2150 @@
+﻿Course,Title,Description,Contents
+05.574,Computer networks security,"This course presents the problem of security in computer networks, and more specifically in TCP/IP networks.
+
+The structure of this course follows the following model. First, the problem of security in TCP/IP networks is presented. Once we have seen the possible security problems in this type of network, we will focus on the prevention mechanisms that exist, based mainly on information filtering. Subsequently, and assuming that not all TCP/IP network prevention and protection systems are infallible, we will study the different intrusion detection mechanisms that exist. Finally we will highlight the specific protection techniques that exist. Specifically, we will introduce the basic notions of cryptography that will allow us to understand the operation of different mechanisms and applications that allow us to protect ourselves against attacks.
+
+The focus of this course assumes that the student already has basic knowledge about the operation of TCP/IP networks and the Unix work environment. Its orientation is eminently practical and implies that the student must dedicate an effort to the installation and configuration of the software, as part of the evaluable objectives of the subject.","Introduction to computer security
+
+Safety and risks
+computer attacks
+Defense and computer security
+firewall systems
+
+Types of firewall systems
+Implementation of security policies through perimeter security
+iptables
+Intrusion detection systems
+
+Cyber ​​defense and intrusion detection tools
+Management of events, alerts and incidents
+snort
+Security in the communications layers
+
+Link Layer Protection: Wireless Networks
+Network Layer Protection: IPsec
+Transport Layer Protection: TLS
+Application Layer Security
+
+SSH
+VPN
+secure email
+Apart from these contents, basic contents on encryption and authentication are also offered to allow students without knowledge of cryptographic subjects to follow the subject.
+
+Finally, in the activities of this subject, different tools are used to reinforce the theoretical knowledge acquired in a practical way. Some of these tools are:
+
+nmap
+wireshark
+iptables
+openssl
+SSH
+snort
+nessus"
+05.576,Computer networks design,"Today, large networks are a fundamental part of our environment, mainly thanks to the Internet phenomenon and the proliferation of broadband. From email or instant messaging to web services, networks are one more aspect of our lives, always present invisibly, but now unavoidable. For this reason, new specialists are needed every day to support companies that want to get the most out of their networks and use remote interconnection technologies to make the distance that separates them disappear completely. This need has also created a set of professional certifications attesting to their expertise.
+
+The ""Design of Computer Networks"" (DRC) course uses the basics of network design as a narrative thread to train students in two important aspects of network deployment in multi-branch organizations. On the one hand, the creation of redundant and scalable local area networks (LAN), and on the other hand, the basic mechanisms to achieve connectivity through different WAN technologies (Wide Area Network, Wide Area Networks).
+
+Its main particularity compared to other degree subjects is that its content is fully aligned with part of the latest version of the official Cisco syllabus for obtaining the CCNA (Cisco Certified Network Associate) professional certification, in Spanish. This is one of the most recognized in the world of professional networks and serves as an entry point for a number of specializations in the field (design, security, etc.).
+
+Specifically, within the entire agenda of this latest version of the CCNA agenda, called ""CCNA Routing & Switching"", the first module corresponds to a small part of the ""Scaling Networks"" curriculum and the rest with practically all of ""Connecting networks”. "".","Due to the characteristics of the subject, the materials that will be used throughout the DXC course are the official ones for the CCNA certification, provided within the official Cisco Systems training program, called ""Networking Academy"".
+
+The course agenda within the subject is divided into four thematic blocks, each associated with an evaluable activity, which encompass the different chapters of the materials. The first two modules correspond to the ""Scaling Networks"" part and the last two to the ""Accessing the WAN"" part.
+
+Module 1. Scalable local area networks
+
+[Optional] LAN Design: Strategies that can be used to systematically design a high-functionality network are studied, such as the hierarchical network design model and proper device selections.
+[Optional] VLAN Escalation: The implementation of inter-VLAN routing using a Layer 3 switch is discussed. Problems encountered when implementing the VTP protocol, DTP protocol, and inter-VLAN routing are also described.
+STP Protocol: The protocols used to manage redundancy in LANs are covered. In addition, some of the potential problems with such redundancy and their symptoms are covered.
+EtherChannel and HSRP protocol: The EtherChannel link aggregation mechanism is studied and emphasis is placed on the operation and configuration of the HSRP protocol (Hot Standby Router Protocol, hot standby router protocol).
+
+Module 2. Planning routing protocols
+
+Dynamic Routing – Introduces dynamic routing protocols, explores the benefits of using this class of protocols, how different routing protocols are classified, and the metrics that routing protocols use to determine the best path for network traffic.
+EIGRP – Explains the EIGRP protocol and provides basic configuration commands to enable it on a Cisco IOS router. It also explores how the routing protocol works, and provides more detail on how EIGRP determines the best path.
+EIGRP Protocol Tuning and Troubleshooting: Covers additional EIGRP tuning features and the configuration mode commands to implement them for IPv4 and IPv6.
+Single-Area OSPF – Covers the basic implementations and configurations of the OSPF link-state protocol, in its single-area mode of operation.
+Multi-Area OSPF - Instructions are provided for splitting a large single-area OSPF into multiple areas efficiently, how to configure OSPFv2 and OSPFv3, and an overview of the commands used to verify their configuration.
+OSPF Protocol Tuning and Troubleshooting - Describes the tuning functions in OSPF, the configuration mode commands that are used to implement various features for IPv4 and IPv6, and the components and commands that are used to troubleshoot OSPFv2 and OSPFv3.
+
+
+Module 3. WAN connectivity
+
+WAN Concepts – Introduces WAN standards, technologies, and purposes and covers choosing the appropriate WAN technologies, services, and devices to meet the changing business requirements of a growing business.
+Point-to-Point Connections – Covers the terms, technology, and protocols used in serial connections. Point-to-point protocols (PPP) and HDLC are introduced.
+Branch Office Connections: Frequently used broadband solutions such as cable, DSL, and wireless are introduced, as well as PPPoE (PPP over Ethernet) implementation. He also studies how to deploy VPNs (Virtual Private Networks) and the BGP protocol.
+
+Module 4. Advanced aspects of networks
+
+Access Control Lists – Explains how to configure and troubleshoot extended IPv4 ACLs and IPv6 ACLs as part of a security solution.
+Network Security and Monitoring: Details the most common LAN security threats and how to mitigate the risk. In addition, SNMP is described and how to use it to monitor a network, and how to implement local SPAN to capture and monitor traffic with port analyzers or IPS devices.
+Quality of Service: Network transmission quality, traffic characteristics, queuing algorithms, QoS models, and QoS implementation techniques are described.
+Network Evolution - Provides an introduction to emerging trends in today's networks, such as IoT, cloud, or software-defined networks.
+Network Troubleshooting – Lists general network troubleshooting procedures, methods, tools, and documentation that should be retained. Typical symptoms and causes at different layers of the OSI model are also discussed."
+05.577,Operating systems design,"Once we have seen the functionalities that the Operating System (OS) offers to users, we are in a position to analyze the different techniques and policies that make them possible. This knowledge has to allow us a better use of the operating system as end users, and provides the bases to be able to carry out a correct administration of the Operating System.
+
+This subject will present what an Operating System is, from an internal point of view. The different possibilities of managing the elements of the OS, both hardware and software, will be seen.
+
+To achieve these objectives, theoretical and practical concepts are combined. In the practical part, the source code of the Linux operating system will be studied and modified.","Module 1. Structural and functional concepts of the operating system
+
+The didactic materials of this module present the fundamental aspects for you to achieve the following objectives:
+
+Know the different internal structures that the core of an OS can have and the respective differential characteristics, and know how to differentiate them based on their specialization.
+Knowing how to identify the hardware elements necessary to implement some specific OS services.
+Know the execution modes of the processes with respect to their privileges, especially the OS kernel mode.
+Learn the reasons why the operating system needs hardware support to control the system. Some reasons have to do with efficiency and others have to do with the nature of control.
+Understand the importance of the computer's hardware support when performing certain OS functions and know what types of procedures require this support.
+Being able to differentiate the execution of normal operations from the execution of privileged instructions, and knowing what type of management of the OS services allow these instructions.
+
+Module 2. Process management
+
+In the teaching materials provided in this module, you will find the necessary tools to achieve the following objectives:
+
+Learn the concepts of process and thread of execution.
+Know the different states in which a process can be found and the reasons that cause a change of state.
+Understand the need to make context switches to take better advantage of the performance of the computer.
+Relate the number of processes that occur in the machine with the performance that is achieved from them.
+Understand the functions of the different levels of processor programming.
+Understand processor scheduling algorithms and detect the advantages and disadvantages.
+
+Module 3. Virtual memory
+
+The didactic materials of this module contain the necessary tools to achieve the following objectives:
+
+Extend the concept of virtual memory that you have learned in other subjects by describing the system hardware and software needs to efficiently implement paged virtual memory management.
+Learn about the different page load management, allocation, and replacement policies and discuss their pros and cons.
+See how memory management affects the execution of program code.
+Learn the most important aspects of memory allocation in the Linux kernel.
+
+Module 4. Input/output management
+
+In the didactic materials of this module you will find the necessary tools to achieve the following objectives:
+
+Know the functions and structure of device drivers, as well as some techniques to manage them.
+Acquire knowledge about the different implementations of the technique of storage in the intermediate memory (buffering) to adapt the speeds of the device and the processor.
+Know how to differentiate between independent and device-dependent I/O procedures.
+Know an implementation scheme of I/O procedures.
+Knowing how to apply techniques such as synchronous and asynchronous calls, device management, generic I/O operations, etc.
+Know the objectives of the layers of the I/O routines of the operating system.
+Show the complexity involved in the design of controllers (device drivers) through a concrete example.
+
+Module 5. The file system
+
+In this didactic module you will find the necessary materials to achieve the following objectives:
+
+Know how the information on the disc is structured.
+Know different alternatives to structure a file system.
+Find out what alternatives there are to organize free disk space.
+Learn about the possibilities to distribute the space allocated to files.
+Learn to identify the data structures needed in memory to perform operations related to the file system.
+Knowing what steps the operating system must take to carry out a certain operation and knowing its motivation.
+Be aware of techniques that allow you to improve the efficiency and reliability of file systems.
+Know the characteristics of the most common file systems.
+
+Module 6. Concurrency: principles and tools
+
+In the materials of this module, you will find the necessary tools to achieve the following objectives:
+
+Know and analyze examples with the different high-level synchronization tools that allow concurrent programming to be carried out with guarantees.
+Analyze real use cases on concurrent programming in Gnu/Linux.
+Analyze the problem of deadlock and indefinite wait considering the different situations, evaluating their advantages and disadvantages. Also, consider the different tools at the administrator level to manage these situations and help you make decisions."
+05.578,Computers architecture,"In this subject, the knowledge of computer architecture introduced in the Fundamentals and Structure of Computers of the Degree in Computer Engineering is deepened.
+
+The course delves into advanced concepts of computer structure: computer performance and processor pipeline. In addition, an introduction is made to the differentiating elements of multiprocessors, and their different architectures.
+
+The course has a strong practical component. The first part of the lab (Practice 1) is done using CPU architecture simulators (such as the WINDLX simulator in the Windows environment). The second part of the laboratory (Practice 2) deals with basic parallel programming issues.","The course consists of four modules that cover the proposed objectives.
+
+MODULES
+
+Short description
+
+Module 1:
+
+computer performance
+
+The different figures of merit used to evaluate the performance of computers are presented, as well as the problems that their interpretation has. Amdahl's law and its implications are presented.
+
+
+Module 2:
+
+Introduction to segmentation
+
+The main technique used today by all microprocessors to reduce program execution times is presented and analyzed. This technique is instruction execution pipeline and is based on taking advantage of instruction-level parallelism by executing more than one machine language instruction per clock cycle, while reducing processor cycle time.
+
+
+Module 3:
+
+pipelined processors
+
+ 
+
+Module 4:
+
+multiprocessors
+
+The fourth block studies multiprocessor systems based on scalar microprocessors. Study: multiprocessor systems, memory coherence, interconnection networks for multiprocessors, synchronization models and parallel programming.
+
+
+Detailed content by module and annex:
+
+
+DIDACTIC MODULES
+
+Subscript
+
+Module 1:
+
+computer performance
+
+1.1 Need to evaluate Performance.
+
+1.2 Figures of merit.
+
+1.3 Performance Evaluation Programs.
+
+1.4 Amdahl's Law.
+
+
+Module 2:
+
+Introduction to segmentation
+
+2.1 Improvements in microprocessor performance.
+
+2.2 Parallelism at the instruction level.
+
+2.3 Joint evolution of technology and architecture.
+
+Module 3:
+
+pipelined processors
+
+3.1 Segmented processors. Linear segmented processor.
+
+3.2 Example of sequential architecture.
+
+3.3 Linear segmented processor. Calculation instructions and memory access.
+
+3.4 Linear Segmented Processor Data Risk.
+
+3.5 Linear Segmented Processor. Sequence break instructions.
+
+3.6 Reduction of lost cycles due to data risks.
+
+3.7 Reduction of lost cycles due to control risks.
+
+3.8 Cycles lost due to structural risks
+
+3.9 Segmented Architecture with Multicycle Operations.
+
+3.10 Advanced Topics.
+
+
+Module 4:
+
+multiprocessors
+
+4.1 Multiprocessor systems
+
+4.2 Consistency of memory
+
+4.3 Interconnection networks for multiprocessors
+
+4.4 Synchronization and communication
+
+4.5 Parallel programming models
+
+4.5.1 Shared variables model
+
+4.5.2 Message passing model"
+05.579,Automata and grammars,"A very important part of the information available today is available in textual format: web pages, configuration files, scripts, computer programs or even natural language text. For a computer to be able to use this information, it needs to be able to interpret it according to the rules of the language in which it is written.
+
+In this subject, basic techniques are presented to describe the structure of a language, regular expressions and context-free grammars. These notations are used, for example, to describe programming languages ​​or describe text patterns for searching.
+
+In addition, the mechanisms used by computers to recognize if a sentence is correctly formed according to the structure of a language are presented. Specifically, finite automata and stacked automata are presented.
+
+In summary, this subject provides the basic tools to know how to handle textual information with a computer.","The subject is structured in three modules:
+
+1. Alphabets, words and languages
+
+1. Basic elements: alphabets, words and languages
+
+2. Operations with words
+
+3. Operations on languages
+
+4. Definition of languages
+
+This module describes the elements that make up a language and the operations to manipulate them.
+
+2. Finite automata and regular languages
+
+1. Deterministic finite automata and regular languages
+
+2. Indeterministic finite automata
+
+3. Operations with finite automata
+
+4. Minimization of finite automata
+
+5. Regular Expressions
+
+6. The motto of the bomb
+
+The simplest class of languages, regular languages, is introduced. A formalism is provided to describe these languages ​​(regular expressions) and another to recognize the words that are part of them (stack automata).
+
+3. Non-contextual grammars and stack automata
+
+1. Introductory concepts
+
+2. Derivation tree and ambiguity
+
+3. Grammar review
+
+4. Simplification of a grammar
+
+5. Normal forms
+
+6. Automata with battery
+
+7. Properties of decontextualized languages
+
+A class of more complex languages, called context-independent, is introduced. The structure of this language is described by grammars and its words are recognized by stack automata."
+05.580,Compilers,"Compilers are essential tools for any computer scientist, responsible for translating textual information from one format or language to another. For example, they act as key players in the execution process of a program: they translate the program from the high-level language used by humans into a low-level language that can be executed on a computer (such as assembler or machine code).
+
+This course introduces the basic structure of a compiler: the modules that make it up and how they communicate with each other. We will focus on the case of general purpose programming languages ​​and on the process of generating an executable from a high level program.
+
+Specifically, we will see how a source program is analyzed to obtain its components and possible errors introduced by the programmer are detected. The concept of interpreter and its relationship with compilers will also be introduced. Subsequently, it will be studied how the object code is generated and optimized from the data obtained in the analysis part to improve performance. All of this will be implemented by using compiler build tools.","The subject is structured in six modules:
+
+1. General Information
+
+1. Languages
+
+2. Basic notions
+
+3. Structure of a compiler
+
+4. Building compilers
+
+You will see an overview of the general structure of a compiler.
+
+2. Lexical analysis
+
+1. General organization
+
+2. Construction of lexical analyzers
+
+3. Specification of a lexical analyzer
+
+4. Error handling
+
+5. The entry system
+
+6. The symbol tables
+
+The only part of the compiler that interacts with the source file will be studied, converting its characters into a sequence of lexical symbols (tokens) and eliminating everything that is not necessary for its analysis (comments, line breaks...).
+
+3. Analysis
+
+1. General notions
+
+2. Top-down analysis
+
+3. Bottom-up analysis
+
+The phase in charge of verifying that the lexical symbols of the source program arrive in the correct order and that the specifications of the context-free grammar that defines the source language are met will be studied.
+
+4. Semantic analysis
+
+1. Semantic analysis
+
+2. Intermediate code generation
+
+The verification of the semantics of the source program, which depends on the context, will be studied, incorporating semantic attributes and actions in the productions of the grammar.
+
+5. Synthesis phases
+
+1. Code generation
+
+2. Code optimization
+
+The generation of code from the intermediate code will be studied, as well as everything to take into account to carry out an automatic translation and the final optimization phase.
+
+6. Interpreted languages
+
+1. Interpreters
+
+2. The abstract stack machine
+
+3. Construction of an interpreter
+
+A concrete model of architecture for interpreters based on a memory in the form of a stack will be presented. The construction process of an interpreter based on this model will be studied."
+05.581,Knowledge representation,"Intelligent systems need to use information in their decision making process. Not only the ability to store and query information is required, functionalities that can be achieved through databases or in-memory data structures. In addition to this, it is necessary to be able to relate the information and use it as a base from which to infer new knowledge.
+
+This course presents the most common representation schemes to represent knowledge in intelligent systems: ontologies, semantic networks, logical representations, frameworks, etc. It also presents fields of application where these schemes are used, such as the field of the semantic web.","The units of this subject are the following:
+
+Unit 1: Introduction to knowledge representation
+
+Section 1: Knowledge
+Section 2: Systems of representation
+Unit 2: Ontologies and semantic web
+
+Section 1: The relationship with the web
+Section 2: The Semantic Web
+Section 3: Ontologies and the web
+Section 4: Formats
+Section 5: Tools
+Section 6: Resources"
+05.583,Machine learning,"The main motivation of this course is to make machine learning known and how it is situated within Artificial Intelligence as a discipline and to understand what agents and multi-agent systems are.
+
+In Artificial Intelligence an overview of Artificial Intelligence was given and some of the so-called classical methods and techniques were presented, such as problem solving, search and knowledge-based systems, approximate reasoning techniques were also seen more advanced. .
+
+In this course, you will go much deeper into the problem of machine learning (machine learning), covering the topics of unsupervised (clustering) and supervised (classification) learning. In particular, emphasis will be placed on the most advanced algorithms, such as support vector machines, classifier sets or neural networks.","Didactic module 1. Learning
+
+1. Introduction
+1.1. Genetic algorithms for the adjustment of fuzzy systems
+1.2. A classification of learning techniques.
+1.3. bias and variance
+
+2.- Feature extraction
+2.1. Training sets and featured spaces.
+2.2. Taxonomy of feature extraction algorithms
+23. Feature Selection
+2.4. Feature Extraction
+2.4.1. Principal component analysis
+2.4.2. Linear Discriminant Analysis (ADL)
+
+3. Unsupervised learning
+3.1. Categorization algorithms: introduction
+3.2. Partitioning and fuzzy partitioning of objects
+3.3. Object hierarchies
+
+4. Supervised learning
+4.1. Methods based on categorization methods
+4.2. support vector machines
+4.3. Logical descriptions of concepts.
+4.4. decision trees
+4.5. Combination of methods
+4.6. neural networks
+
+5. Knowledge representation and learning
+5.1. inductive logic programming
+
+Didactic module 2. Agents and multi-agent systems
+
+1. Intelligent agents
+1.1. characteristics of an agent
+1.2. Deliberative agents versus reactive agents
+1.3. Agent Types
+
+2. Multi-agent systems
+2.1. Advantages of multi-agent systems
+2.2. Communication techniques
+23. Foundation for Intelligent Physical Agents
+2.4. ontologies
+2.5. Cooperation between agents"
+05.584,Data mining,"Data is the new oil. Therefore, Data Mining is a subject to apply the previous knowledge acquired to Statistics and Databases and present some new ones more specific to the field of knowledge extraction. A set of methods from Artificial Intelligence are presented, which form the essential core of the discipline known as Data Mining. The basic concepts of the mentioned subjects are very useful in this matter and will allow a better evaluation of some of the techniques that will be studied.","The didactic material of the subject is divided into six modules and a prologue that present a notable interrelationship between them. The sixth is a case study that can be used to see how the methods explained in the other modules are applied in a concrete and real case.
+
+Below you can see the modules that have to be worked on to achieve the objectives of the course.
+
+Module 1: The Data Mining process.
+
+Discovery of knowledge from data.
+The phases of the knowledge extraction process.
+Data mining tools.
+
+Module 2: Data preprocessing and feature management.
+
+Transformation of values.
+Dimensionality reduction.
+missing values.
+Feature display.
+Selection of characteristics.
+Feature engineering.
+
+Module 3: Unsupervised models
+
+Pre-eliminate concepts.
+Grouping and segmentation.
+Density-based models.
+affinity propagation.
+
+Module 4: Supervised models
+
+Proximity-based models.
+Decision trees.
+Regression models.
+
+Module 5: Evaluation of models.
+
+Evaluation of supervised classification models.
+Evaluation of supervised regression models.
+Evaluation of unsupervised models.
+
+Module 6: Case Study.
+
+Presentation of the case
+Step 1: Establish an analytical objective
+Step 2: Verify the data
+Step 3: data preprocessing
+Step 4: exploratory analysis
+Step 5: Classification
+Step 6: Reproducibility"
+05.586,Analysis and design with patterns,"This course is focused on the study of analysis and design patterns contemplated from a practical perspective. The contents are located within the object-oriented methodology, the most currently accepted, and using the UML notation for the same reason.
+
+Patterns (analysis, design, architecture...) are one of the innovations that have had the greatest impact in object-oriented development in recent years, along with the appearance of the UML language. Their main advantage is that they save time and improve quality by applying solutions (which we call patterns) that have already been widely tested by other designers.
+
+For this reason, the use of patterns is considered a basic skill that object-oriented software designers must acquire today. Now, it does not seem that this ability can be acquired in any other way than through practice; In this practice, the detailed information found in books -which are already beginning to be numerous- about patterns is usually used, and this way of working is the one that is recommended to students for their future professional work.
+
+This course provides summary descriptions of many of the most popular and currently accepted patterns, as well as some general concepts about patterns and their usage.","The didactic material of the course consists of three didactic modules:
+
+Learning Module 1: Introduction to Patterns
+
+In this module, notions of UML are given with practical examples of the different modeling techniques. Includes an analysis example and a design example.
+
+Didactic module 2: Catalog of patterns
+
+The most significant patterns are discussed and a description of patterns covering practically the entire software life cycle is provided.
+
+Learning Module 3: Pattern Development Case Study
+
+It includes the detailed development of a case study similar to the practice proposed to the students.
+
+The materials of this subject are not designed to be studied in a linear way, but once the introduction (Module 1) has been read, it is recommended to combine the study of theory (Module 2) with practice (Module 3). In the description of each activity, you will find a detailed description of which specific sections of each module must be studied in order to carry out the activity."
+05.587,Software engineering of components and distributed systems,"Ongoing advances in computing and telecommunications are changing the way software is developed. In particular, the relentless increase in the power of personal computers and mobile devices, the lowering of hardware costs, and the appearance of global coverage data networks have made possible an infrastructure that is especially conducive to the use of open and distributed systems. 
+
+These changes have caused, among other things, that the traditional methods of software design and development (seen in the subjects of Engineering and Software Analysis and design with patterns) are insufficient, since, more or less implicitly, they assume that The application to be developed will be executed in a basically centralized environment. Therefore, traditional methods are unable to naturally manage the complexity of the requirements of this new type of systems. On the other hand, the aspects closest to the analysis and specification of requirements studied in the Requirements Engineering subject do not change with respect to what was seen in previous courses and, therefore, are not repeated here.
+
+This subject serves as an introduction to software architectures as a framework for the design and development of distributed applications where the fundamentals, techniques and skills applicable to the modern definition of software architectures are studied and put into practice and knowledge is complemented. acquired in previous courses. The design of the architecture of software systems makes it possible to describe in an abstract and high-level way both the functionality of the system and many other non-functional aspects of it (distribution, reliability, security, adaptability, benefits, etc.). This system description is often defined by an architectural style, a classification of software systems into large families that follow a common structural pattern. Among the most common architectural styles for distributed systems are systems organized into microservices, multiple layers, client-server systems, or peer-to-peer systems.
+
+Application design in terms of software microservices must be further refined to accommodate and implement it on a particular distributed software technology. These architectures can be implemented using any programming paradigm (object-oriented, structured...). In our specific case, the reference language will be Java, which allows the development of distributed applications with microservices architectures. These microservices are the ones that will be used to implement and test the architectural elements described in the system architecture.
+
+Finally, some good practices in the development and production of software in distributed architectures are collected. Some of the key concepts are worked on when developing and putting into production, such as continuous delivery, DevOps culture, and deployment with containers.
+","The subject is structured into 5 main activities, each one with its specific contents:
+
+ 
+
+Activity 1: ""Distributed software architectures: a solution for every problem""
+
+ 
+
+Book ""Fundamentals of Software Architecture"" (Richards & Ford): Chapter 1. Introduction.
+Book ""Fundamentals of Software Architecture"" (Richards & Ford): Part I Foundations (Chapters 2 - 8)
+Book ""Fundamentals of Software Architecture"" (Richards & Ford): Part II Architecture Styles (Chapters 9 - 18).
+ 
+
+Activity 2: ""Hexagonal architectures and microservices design: a well-matched relationship""
+
+ 
+
+Book ""Microservices patterns"" (Richardson): Chapter 1. Section 6: ""The Microservice architecture pattern language"".
+Book ""Microservices patterns"" (Richardson): Chapter 2: ""Decomposition strategies"".
+Book ""Microservices patterns"" (Richardson): Chapter 3: ""Interprocess communication in a microservice architecture""
+Book ""Microservices patterns"" (Richardson): Chapter 5: ""Designing business logic in a microservice architecture"".
+ 
+
+Activity 3: ""From creation to interconnection of microservices""
+
+ 
+
+Book ""Microservices Patterns"" (Chris Richardson): Chapter 6: ""Developing business logic with event sourcing"". Introduction.
+Book ""Microservices Patterns"" (Chris Richardson): Chapter 6: ""Developing business logic with event sourcing"".
+Book ""Microservices patterns"" (Richardson): Chapter 7: ""Implementing queries in a microservice architecture""
+Book ""Microservices patterns"" (Richardson): Chapter 8: ""External API patterns"".
+
+Activity 4: ""Quality of distributed software: inherent, transversal and critical""
+
+ 
+
+Book ""Microservice Patterns"" (Chris Richardson): Chapter 9. ""Testing Microservices: Part 1"". Introduction.
+Book ""Microservice Patterns"" (Chris Richardson): Chapter 9. ""Testing Microservices: Part 1"".
+Book ""Microservice Patterns"" (Chris Richardson): Chapter 10. ""Testing Microservices: Part 2"".
+Book ""Software Architecture Fundamentals"" (Richards & Ford): Part I Fundamentals (Chapters 3 and 6).
+ 
+
+Activity 5: ""DevOps, CD/CI and agile culture: good practices for distributed software development""
+
+ 
+
+Book Microservice Patterns (Chris Richardson) Chapter 12 Implementation of microservices. Introduction.
+Book Microservice Patterns (Chris Richardson) Chapter 12 Implementation of microservices.
+Book ""Continuous Delivery: Reliable Software Releases Through Automated Build, Test, and Deployment (Jez Humble and Dave Farley) Part I: Chapters 1-10.
+Book ""The DevOps Handbook"" (Patrick Debois, John Willis, Jez Humble & Gene Kim): Chapters 1 - 4."
+05.588,Software developement project,"The Software Development Project course has as its main objective the development of a specific software project and is based on the practical application of the knowledge and skills obtained so far in the Degree, such as Project Management, Fundamentals of Programming, Engineering of Software, Use of Databases, and specifically the technical skills that were obtained within Software Engineering of Components and Distributed Systems.
+
+Despite the fact that the subject is based on carrying out a specific software project, the subject also covers both new theoretical aspects and others that complement the knowledge acquired up to now, such as agile software development methodologies.
+
+The effective development of the project will be achieved through a specific agile methodology (Scrum) that iteratively covers in the form of sprints all the stages of the software life cycle, that is, the specification, design, implementation, testing, deployment and delivery of the project. product to the ""supposed"" customer. In particular, in the implementation stage, Java will be used to develop the distributed software based on a microserver architecture. In addition, other technologies will support the project, such as configuration, design, testing, continuous delivery, and containerized deployment tools. All these technologies have been seen and practiced in the previous subject of Software Engineering of Distributed Components and Systems and therefore it is assumed that the students know them.
+
+Finally, the complexity of the project will require the specific development of skills related to collaborative work in small groups of students. The UOC will offer students a collaborative space where they can carry out communication between group members, share documentation and, in general, manage the project, with the support and supervision of the subject advisors.","Activity 1: ""Agile product development and conceptualization methodologies""
+
+Book ""Essential Scrum: A practical guide to the most popular agile process by Kenneth S. Rubin. Chapter 1. Introduction.
+Book ""Essential Scrum: A Practical Guide to the Most Popular Agile Process"" by Kenneth S. Rubin. Chapters 2-13.
+Book ""The agile samurai"" by Jonathan Rasmusson. Chapters 3-5.
+Book ""The agile samurai"" by Jonathan Rasmusson. Chapters 1-2, 6 and 15.
+Book ""Agile Estimating and Planning"" by Mike Cohn (supplementary material).
+Book ""Scrum - a pocket guide (3rd ed.)"" by Gunther Verheyen (supplementary material).
+Activity: First Continuous Assessment Test (PEC1).
+Activity 2: ""Product Planning""
+
+Book ""Essential Scrum: A Practical Guide to the Most Popular Agile Process"" by Kenneth S. Rubin. Chapters 15-16.
+Book ""Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth S. Rubin. Chapters 19-23.
+Article ""The new user story backlog is a map"" by Jeff Patton. https://www.jpattonassociates.com/the-new-backlog/
+Book ""User Stories Applied: For Agile Software Development"" by Kent Beck (supplementary material).
+Book ""User Story Mapping"" by Jeff Patton (supplementary material).
+Book ""Essential Scrum: A Practical Guide to the Most Popular Agile Process"" by Kenneth S. Rubin. Chapters 17 Envisioning (Product Planning) (Supplementary Material).
+Book ""Clean Code: A Handbook of Agile Software Craftsmanship"" by Robert Martin (supplementary material).
+Book ""Refactoring: Improving the Design of Existing Code"" by Martin Fowler (Supplementary Material)
+Activity: First part of the Practice (PRAC1)."
+05.591,Computer networks structure,"Today, large networks are a fundamental part of our environment, mainly thanks to the Internet phenomenon and the proliferation of broadband. From email or instant messaging to web services, networks are one more aspect of our lives, always present invisibly, but now unavoidable. For this reason, new specialists are needed every day to support companies that want to get the most out of their networks and use remote interconnection technologies to make the distance that separates them disappear completely. This need has also created a set of professional certifications attesting to their expertise.
+
+The course ""Computer Network Structure"" (ERC) focuses on learning the fundamentals of the lowest level communication protocols that allow different types of devices to communicate: Transport, Internet and Network Access. Within this, special prominence is given to the operation of Ethernet local area networks (LAN) and the creation of IP addressing schemes.
+
+Its main particularity compared to other degree subjects is that its content is fully aligned with part of the latest version of the official Cisco syllabus for obtaining the CCNA (Cisco Certified Network Associate) professional certification, in Spanish. This is one of the most recognized in the professional world of networks and serves as an entry point for a whole set of specializations in the field (design, security, etc.).
+
+Specifically, within the entire agenda of this latest version of the CCNA agenda, this course encompasses practically the entire first part of the course, called ""Introduction to Networks"" (ITN), and a part of the second, called ""Switching , Routing and Wireless Fundamentals"" (SRWE).","Due to the characteristics of the subject, the materials that will be used throughout the ERC course are the official ones for the CCNA certification, provided within the official Cisco Systems training program, called ""Networking Academy"". These materials are supplemented by the book ""Computer Networks: A Top-Down Approach,"" which is not part of the curriculum for this certification.
+
+The course syllabus within the subject is divided into four thematic blocks, or modules, which include the different chapters of the materials from the parts ""Introduction to Networks"", ""Essential Switching, Routing and Wireless"", and some sections of the book .
+
+Module 1. How do networks work?
+
+(2 weeks)
+
+Introduction to Modern Networks - Introduces the concept of a data network, providing a very general overview of the foundation for exploring the services, technologies, and issues that network professionals face when designing, developing, and maintaining data networking. modern network.
+Basic configuration of switches and network devices: Serves as an introduction to the Cisco IOS operating system. The command line structure and basic commands are shown.
+Protocols and network models: The concept of protocol and the importance of standardization processes are presented. For this, the TCP/IP and OSI communication models are explained.
+The Physical Layer: Explains how the physical layer protocols enable communications on data networks.
+
+Module 2. Ethernet networks
+
+(4 weeks)
+
+The network access layer: the functions of the data link layer and the protocols associated with it are studied.
+Switching Concepts - Explains how Layer 2 switches transmit information.
+Ethernet Switching: Describes the characteristics and operation of the Ethernet network in terms of its evolution from contention-based data communication shared media technology to today's high-bandwidth full-duplex technology.
+VLANs: This part focuses on knowing what a virtual private network (VLAN) is and how it works, as well as its implementation.
+WLAN Concepts and Configuration - Explains how wireless WLANs enable network connection, as well as configuration, basic security, and troubleshooting.
+
+Module 3. The Internet Protocol
+
+(3 weeks)
+
+The Network Layer – Discusses the role of the network layer and how it divides networks into groups of equipment to manage the flow of data packets within a network. It also examines the way in which communication between networks, routing, is facilitated.
+Resolution of IP addresses: Protocols such as ARP and ""Network Discovery"" that allow communication on a network are explained.
+Basic configuration of routers: The initial implementation of parameters in a router (router) and network devices is explained.
+IPv4 and IPv6 Addressing: The creation and assignment of IPv4 and IPv6 network and subnet addresses are explained in detail through the efficient use of segmentation.
+ICMP – Explains the use of various tools to verify network connectivity.
+
+Module 4. Routing in the Internet and the Transport layer
+
+(3 weeks)
+
+Routing Concepts – This part is covered in conjunction with the book and focuses on seeing what algorithms and protocols exist to dynamically create routing tables for a router.
+Static Routing: Configuration of IPv4 and IPv6 static routes.
+The Transport Layer: The role of the transport layer in encapsulating application data using the network layer is examined. The transport layer also includes error control functions and allows the use of different services on the same computer."
+05.592,Advanced computers architecture,"In this subject, knowledge of the advanced architectures of current computers is deepened. On the one hand, previous knowledge in Fundamentals and Structure of Computers and Computer Architecture will be expanded. On the other hand, different models of current processor architectures will be presented. Among them, high performance architectures, multicores or GPU architectures will be studied.
+
+However, not only the purely architectural aspects of these systems will be discussed, but the different programming paradigms associated with these architectures will also be presented.","The subject is made up of five modules that cover the objectives and competences previously exposed:
+
+ 
+
+Module 1: Introduction to parallel architectures.
+
+Module 2: Multiprocessors vs Multicomputers
+
+Module 3: Multi-Thread Architectures (Multi-core)
+
+Module 4: Performance in multithreaded architectures
+
+Module 5: Computer Graphics (GPU)-Based Architectures"
+05.593,Requirements engineering,"Requirements engineering is the discipline that helps us to identify, manage and maintain the set of software requirements that we want to develop. Requirements engineering takes place in the same context as software engineering (software development), so it can be seen as part of software engineering. Even so, it must be taken into account that requirements engineering requires knowledge and skills from other disciplines such as psychology, marketing or design.
+
+The purpose of this course is for future software engineers to deepen their study of the problems, techniques, and tools related to obtaining, managing, documenting, and validating/verifying the requirements of a software system. When presenting the contents of this course, we have set ourselves two main objectives:
+
+1) The discipline of requirements engineering is presented from a practical point of view, giving great importance to the techniques and tools that students will be able to apply in their professional lives.
+2) The broadest possible vision of requirements engineering is also given, looking at aspects as diverse as product management or the implementation of automated acceptance tests.
+
+This subject assumes that the student has basic notions of requirements engineering (in the case of UOC students, it will be assumed that they have taken the Software Engineering subject). Therefore, this course deepens and extends some concepts that have already been studied before, at the same time that it introduces new techniques and tools of requirements engineering.","The didactic material of the subject consists of five didactic modules:
+
+Module 1: Introduction to Requirements Engineering
+
+It introduces requirements engineering and presents the practical case that will be developed throughout the rest of the modules.
+
+Introduction to requirements engineering.
+Presentation of the practical case
+Types of requirements
+The requirements engineering process.
+Use Case Requirements
+
+Module 2: Obtaining requirements
+
+It reviews the basic requirements elicitation techniques and introduces new techniques.
+
+Requirements elicitation techniques
+requirements discovery
+legacy solutions
+Objectives and requirements
+case study
+
+Module 3: Requirements Management
+
+Describes new techniques for requirements management, especially from the point of view of managing software as a product.
+
+Factors to consider for requirements management
+Requirements estimation
+Prioritization and selection of requirements
+Management of changes in requirements.
+case study
+
+Module 4: Documentation of requirements
+
+It shows various styles of requirements documentation and how the different styles have advantages and disadvantages that make them ideal for different situations.
+
+Requirements Documentation - Overview
+Requirements Documentation Styles
+Documentation of requirements through use cases
+Documentation of the conceptual model using UML and OCL
+case study
+
+Module 5: Validation and verification of requirements
+
+Describes the process for validating and verifying the correctness of the selected requirements. First, it describes how to verify that the requirements you choose are correct (validation), and then how you can ensure that the software you develop meets these requirements (verification).
+
+Requirements validation
+Requirements verification
+Test Driven Development
+case study"
+05.594,Embedded systems,"Embedded systems are increasingly present in our lives. From network devices to industrial control systems, a wide range of devices make up what we know as an Embedded System. In this topic we want to give an overview of these systems. We will start from its definition and delve into its fields of application. The knowledge of the hardware components that constitute these systems will be deepened, we will know their programming models and the particularities that condition the development of applications for embedded systems.
+
+The main objective of the course is for the student to learn the basic programming techniques of an embedded system, have a basic knowledge of the hardware architecture that composes them and acquire skills to work with this type of device.","Module 1- Introduction to embedded systems
+In this module an introduction to embedded systems is made, the concept and its applications are presented and emphasis is placed on the development process of an embedded system.
+
+Module 2 - The hardware of an embedded system
+This module introduces the hardware architecture of an embedded system. The components that compose it are presented and their particularities are described. The objective of the module is that the student has an overview of the main hardware components that make up an embedded system.
+
+Module 3 - The software and programming models of an embedded system
+This module presents the most relevant programming models for the development of applications for embedded systems. Unlike what has been learned in other software development subjects, it will be seen that the efficiency and memory reduction used by the program is rewarded over its structuring and/or modularity.
+
+Module 4- Operating systems for embedded systems
+This module takes a hands-on approach to introduce the need for abstractions when operating with embedded systems. From the simplest approaches to real-time operating systems, the different ways to manage the resources of an embedded system are presented. Also in this module the peripheral controllers are worked on and their programming is deepened.
+
+Module 5- Validation and evaluation tools for embedded systems.
+This module introduces the tools available for an application developer to carry out their work and verify the developed software."
+05.595,Enterpreneurship,"New business opportunities appear every day to respond to previously non-existent or unsatisfied needs or to improve the existing offer. In addition, organizations increasingly value having an entrepreneurial organizational culture and encourage people who work to act as entrepreneurs in the same organization. And it has been shown that there is a positive relationship between entrepreneurship and the development of a country or region. Among other characteristics, it contributes to economic growth, is a source of innovation, favors job creation and contributes to social cohesion and dynamism.
+
+In this sense, the Entrepreneurial Initiative subject aims to promote the entrepreneurial spirit of students from the introduction to the main elements that make up the entrepreneurial process from an applied and practical approach. Firstly, we will introduce ourselves to the entrepreneurial phenomenon, analyzing various typologies and taking into account the gender perspective. Next, we will immerse ourselves in the ideation, validation, modeling and presentation of a viable and sustainable entrepreneurial project (following the sustainable development objectives) developing our capacities for initiative, innovation and teamwork.","1. Entrepreneurship and business
+
+1.1. Key concepts
+
+1.2 Entrepreneurial person and founding teams
+
+1.3 Gender and entrepreneurship
+
+1.4 Entrepreneurship in other cultures
+
+1.5 Learning to undertake
+
+1.6 Innovate and undertake. Focus method.
+
+2. The inspiring problem
+
+2.1 Trends, sectors and technologies
+
+2.2 Knowing the field that motivates us
+
+2.3 Inspiring problem
+
+2.4 Validation. interview problem
+
+3. The innovative solution
+
+3.1 Ideation. Lateral thinking and creativity.
+
+3.2 Minimum viable and prototyped product
+
+3.3 Validation. Solution Interview
+
+4. The business model
+
+4.1 The SCOPE business model
+
+4.2 Applications of the business model
+
+4.3 Other tools to work on the business model
+
+5. Numerical aspects of the entrepreneurial project
+
+5.1 Marketing and sales. demand estimate
+
+5.2 Traction. Analytics and indicators to undertake
+
+5.3 Economic and financial aspects
+
+5.4 Economic-financial plan. Agility and feasibility
+
+5.5 Financing of the initiative
+
+6. Project communication
+
+6.1 Purpose of communication
+
+6.2 Target audience
+
+6.3 Effective Presentations"
+05.596,Foundations of information systems,"The continuous innovations in information and communication technologies are transforming the corporate business world into new models, new processes and new business needs. This environment has favored the investments of the companies to be more competitive in the current market, allocating a budget to the acquisition, implementation or updating of information systems.
+
+In this topic we present the basic concepts of information systems, the types of information systems, the relevance of information systems for companies, what the first information systems were like, how they have evolved and what the systems of the system have to contribute. future. In companies
+
+We will know the main information system: Enterprise Resource Planning, today also known as basic or traditional.
+
+We will see how the incorporation of new functionalities in the evolution of ERP systems gives rise to new collaborative information systems: Customer Relationship Management (CRM), Supplier Chain Management (SCM) or Business Intelligence (BI).
+
+And a transversal theme to any company information system, its implementation. We will cover the life cycle of an implementation project, the characteristics of its different phases, the problems and what guidelines to follow to obtain a successful implementation.","The concept of information system is gradually introduced in the different didactic modules: beginning with its definition, presenting the different types of information systems that exist, showing the most important information systems for companies, and ending with a module on how to these systems are implemented. in companies it is managed.
+
+The content of the subject is divided into the following didactic modules:
+
+Module 0. Introduction to information systems in organizations
+
+the information system
+Information system management
+The typologies of information systems.
+The implementation of the information system
+information security
+
+Module 1. Business Information System
+
+Business information system concept
+Historical evolution of the ERP system
+ERP system architecture
+functional modules
+ERP system life cycle
+ERP system providers
+
+Module 2. Business Cooperation Systems
+
+Enterprise Project Management (EPM)
+Supply Chain Management (SCM)
+Customer relationship management (CRM)
+Electronic commerce (e-business)
+Business Intelligence (BI)
+Knowledge Management (KM)
+document management
+
+Module 3. Implementation of Business Information Systems
+
+Characteristics of business information systems.
+Deployment Lifecycle Phases
+Phase 1. Adoption of the system: The decision to acquire an ERP
+Phase 2. Selection of the standard solution
+Phase 3. Implementation of the solution
+Phase 4. Commissioning
+Change management
+Project management
+
+Module 4. Practical Case: Rural Tourism (Example)
+
+Presentation of the practical case
+General solution approach
+Proposed solution"
+05.597,Information systems integration,"The contents of the subject ""Information Systems Integration"" (ISI) revolve around the various meanings of the word ""integration"" in relation to organizations of all kinds, and the information systems they use. Thus, to begin with, we will see the type of problems that usually arise in organizations with little structural integration, as well as the proposals that contribute to a better business integration, mainly the definition and implementation of business processes, transversal to the classic functional ones. areas
+
+Subsequently, it will be seen how organizations have been developing and implementing new information systems as a fundamental tool for their structural and informational integration, and as a means for their progress in terms of their functional management and strategic direction, in short, for their progress. in terms of quality and competitiveness.
+
+In this line, the different integrating roles that companies pursue through the main types of business information systems implemented in recent years, from ERP systems to BI systems, through CRM and SCM systems, through for EAI projects. Finally, some of the concepts related to the implementation of information systems in organizations will be introduced from a very practical point of view.","The purpose of the didactic material is to complement the theoretical knowledge of the modules studied with practical activities that allow the student to acquire basic theoretical and practical knowledge. With this, it is intended that, once the subject is finished, the acquired competences allow the student to apply the knowledge and methodologies to other circumstances and needs, both in the educational context and in professional life.
+
+The concepts around Business Integration through Information Systems are introduced progressively and gradually throughout the different didactic modules of the subject. From a thematic point of view, the subject is broken down into 4 main didactic modules:
+
+1. Motivations and Fundamentals of Business Integration.
+
+ 2. Vertical Integration through Information Systems.
+
+ 3. Horizontal Integration through Information Systems.
+
+ 4. Implementation of Information Systems in the company."
+05.598,Use of information systems in organizations,"The subject Use of Information Systems in Organizations (USIO) has a deductive approach; that is, through the study and work of cases, the impact of Information and Communication Technologies (ICT) in organizations is analyzed. This approach allows establishing conclusions and interpretations whose purpose is to understand the efficient use of ICT in management and business decision making.
+
+The course is based on solving a case throughout the semester by working in interdisciplinary groups. The students of the Degrees in Computer Engineering (GII) and Business Administration and Management (ADE) will share a work space in which they will develop the activities of the subject. This point is very important and the student should consider it before enrolling. Unlike other subjects where there is detailed material to work on for further assessment, the USIO does not have material that the student must study in the classical sense. A group must be formed and work must be done on the approach of a case with contents of business information systems. The development must be collaborative and although some recommended readings are given, searches on the Internet or other sources must also be carried out, proposing a coherent and argued solution. It is not possible to think that there is ""the solution"" in the style of a mathematical exercise, there are several possible ones and the consultant will evaluate the different alternatives with pre-established criteria (indicated as part of the statement). Group work dynamics are usually complex and in this sense it is very important to form a cohesive group that is willing to work from the beginning.","Case title: ""PARROT""
+
+Affair:
+
+The subject Use of Information Systems in Organizations (USIO) is based on the development of a case study. We will focus on the case of LORO. It is intended to be a first approximation to the resolution of technological innovations to which companies must tend so as not to disappear in the future. The question that management teams in any organization must ask themselves is whether current products and services will continue to be marketed in the future. In the case of PARROT, a drone manufacturer, the help of a consultant is being considered to carry out a detailed study in five phases to take advantage of the disruptive technologies that are appearing in the current digital revolution.
+
+
+The topics to be studied in this case are the following:
+
+Emerging technologies according to the Gartner Hype Cycle.
+Digital Twins technology (Digital Twins) applied to an organization.
+The application of Conversational Intelligence technology to the manufacturing sector and its ethical concerns.
+Improving an organization's processes through hyperautomation and process mining
+Metaverse technology applied to a manufacturing organization.
+The students will be organized in groups to propose a detailed study to PARROT as a consultant. The case has been structured into five PECs corresponding to the five phases that the study will carry out to allow PARROT to take advantage of disruptive technologies; the first will be developed individually and the rest will be done in groups.
+
+Summary of Goals by Milestones:
+
+- PEC 1.- Reading, understanding the case. Gartner Hype Cycle analysis to detect emerging technologies to apply.
+
+Understand the case and analyze the technologies included in the Gartner Hype Cycle titled ""Hype Cycle for Mobile Robots and Drones, 2022"" published on July 19, 2022 by Dwight Klappich, to consider which 2 emerging technologies (since Innovation Trigger or Peak of Inflated Expectations ) could use Parrot, which could offer them the creation of new business models or economic growth
+
+- PEC 2.- Analysis of the application of Digital Twins Technology (Digital Twins) in an organization.
+
+Explore how PARROT could take advantage of the Digital Twins technology trend.
+
+- PEC 3.- Analysis of the application of Conversational Intelligence Technology in an organization.
+
+Analyze what possibilities of applying Conversational Intelligence such as ChatGPT to the manufacturing sector. And discuss what are the ethical concerns of using conversational intelligence like ChatGPT.
+
+- PEC 4.- Analysis of the application of Hyperautomation and Process Mining in an organization.
+
+Analyze how PARROT could carry out different initiatives to improve operational processes by applying hyperautomation, through Robotic Process Automation technology or Business Process Management Workflow Engines or Process Mining technologies
+Get Celonis certified through the 10-hour Process Mining Fundamentals course.
+
+- PEC 5.- Analysis of the application of the Metaverse in an organization.
+
+Analyze how PARROT could take advantage of the technological trend of the Metaverse."
+05.599,Functional management of IS/IT services,"This subject presents an environment that guarantees the support of IS/IT services and infrastructure in the organization, for the achievement of corporate strategies and objectives. It treats the management of IS/IT services as a set of processes and functions, provided or managed from an IT department. There are references that are useful guides in the management of these services such as ITIL, COBIT, CMMi.","Module 1. Introduction to IS/IT services.
+
+1. IS/IT services in organizations
+2. Introduction to the management of the IS/IT department
+
+Module 2. The IS/IT department
+
+1. Governance of the IS/IT department
+2. Functional area: the IS/IT department
+3. Particular organizational differences according to type of company
+
+Module 3. Construction of IS/IT services
+
+1. Management of the IS/IT service portfolio
+2. Design and transition of services
+3. Evolution and improvement of services. change management
+4. Financial management and costs of services
+
+Module 4: Provision of IS/IT services
+
+1. Customer Service Center
+2. Service requests
+3. Shipping management
+4. Availability and continuity of services
+5. Demand and capacity management
+
+Module 5: IS/IT Service Operations
+
+1. Technological environment
+2. Incident management
+3. Configuration management
+4. Security management
+
+ITIL Module: An Introduction
+
+1. Context and precedents
+2. Some key ideas
+3. Changing orientation of ITIL versions
+4. The new ITIL 4 model"
+05.600,Planning and strategic use of IS,"The mission of this course is to introduce students of Computer Engineering and other careers to the basics to understand the strategic uses of technology in organizations and the management and strategic planning of information systems. In increasingly complex environments, information and technology management represents a key aspect for the success and proper functioning of any type of organization, whether private companies or public administrations.
+
+This is a relatively new discipline, both in academic theory and research, and in professional practice. The concept of CIO (the chief executive officer responsible for company information and technology) appeared in the early 1980s and the Association for Information Systems (AIS) was established in 1994.
+
+Information systems management involves the design, effective delivery, use, and impact of information technology within organizations and on society. In the words of Keen (1987), the main focus of this course is the improvement of management design and practice (""management""), in its broadest sense; After all, ""IT management is all about management"" (Austin & Nolan, 2010).
+
+The above definitions describe the hybrid nature of this topic. Technology is not an artifact outside of its use in companies, organizations and human beings. Information systems are not only design, programming or architecture, but above all their effective implementation. And its management is not just about tactics and techniques (improving the organization and processes of the IT department), but about strategy (the relationship with the business strategy and obtaining competitive advantages). For this reason, when we say ""strategic management"", we want to emphasize the more proactive and transformative role that information and technologies have for the company and the need to align information and technology systems with the strategy of the company as a whole. In addition, the volume and relevance of IT spending is increasingly on the agenda of CEOs and the steering committee of companies and organizations.
+
+This course is designed to provide students of the Bachelor's in Computer Engineering and other programs with an introductory overview of the issues currently facing business and technology and the relationship between the two and, in particular, the role of the chief executive officer responsible for systems. and technologies:
+
+What are the main strategic decisions in information systems and how should they be considered and adopted?
+How should ICT be directed so that they are correctly aligned with the global business strategy?
+How can you ensure more productive relationships between IT departments and other departments and business units?
+What are the main contributions of information systems to support, transform and create new products, processes and even businesses?
+How information and knowledge management is transforming the way of doing business and the role of IT?
+How can IT planning provide a framework and roadmap for meeting the company's mission and vision? How can it be implanted?
+How can the IT organization be transformed with a strategic sense?
+
+Additionally, currently there is talk of ""digital transformation"", the process by which organizations have to redesign their products and services, their work processes and their relationship with customers, suppliers, partners and staff due to the irruption of the internet, mobility, cloud and big data. The director of organization and information technology (CIO, or Chief Information Officer) assumes a new role as leader, or at least, prominent partner in this transformation and there is also a greater approach of users and business managers to technologies of the information.","The learning units are the following:
+
+
+Module 1: Strategic Decisions in Information Systems and Technologies.
+
+Module 2: Information Technologies and Business Strategy.
+
+Module 3: Information Technologies and Business Processes.
+
+Module 4: Information and Knowledge Management.
+
+Module 5: Strategic Planning of Information Systems and Technologies.
+
+Module 6: Transformation of the information systems management function.
+
+
+We draw attention to the fact that some of these materials may be common to the subject of Strategic Management of Information Systems at the Master's level. At grade level, these competencies are worked on in a different way and with different levels of depth. The teaching guides that will accompany each module or other complementary materials will provide specific instructions on how to carry out an adequate follow-up of the subject."
+05.601,Cryptography,"The main objective of the Cryptography course is to train students in the field of modern cryptography. This discipline is increasingly important in the world we live in due to the increasing value of information. On the one hand, cryptographic techniques are necessary to protect the security and privacy of users when using technology and communication networks. In particular, it is important to protect users from mass surveillance activities that can be carried out illegally not only by private companies but also by some government agencies operating outside of legal circuits. On the other hand, beyond the protection of users, companies and any entity that is related to or uses technology needs mechanisms that protect their digital assets, which can sometimes be all the assets of a company. Finally, the development of cryptography also allows the birth of new relationship paradigms between people such as the creation of new virtual currencies, cryptocurrencies, which do not depend on any centralized entity to function.
+
+The subject wants to give a practical approach to cryptography, and that is why the subject is structured jointly based on both theoretical and practical content that is complemented by programming activities that allow us to know the real problems that arise in the implementation of cryptographic systems.","The contents of the subject are detailed below, grouping the different modules that make it up into thematic blocks:
+
+Unit 1: Basic concepts
+
+Basic terminology as well as the historical evolution of cryptography are studied. The most relevant historical cryptosystems are reviewed. The most relevant concepts of modular arithmetic are introduced to have a sufficient mathematical base to understand the cryptosystems and cryptographic protocols that are presented throughout the course. This block includes modules 1 and 2.
+
+    Module 1: Introduction to cryptography
+    Module 2: Mathematical Fundamentals
+
+Unit 2: Shared Key Cryptography
+
+The two large families of shared-key cryptosystems are studied: block cipher and flow cipher. For each family, its main properties are characterized and the most relevant cryptosystems are studied. On the other hand, hash functions are defined, focusing on their properties and applications and analyzing in depth one of its most relevant implementations: SHA256. This block includes modules 3 and 4.
+
+    Module 3: Symmetric Key Cryptography
+    Module 4: Hash functions
+
+Unit 3: Public Key Ciphers
+
+The characterization of the most important properties of public key cryptosystems is given, emphasizing topics such as key distribution, digital signatures, the combination between public key/symmetric key, as well as relevant aspects of the implementation of public key cryptography. . . Finally, the architecture and protocols associated with public key infrastructures (Public Key Infrastructure, PKI) are studied. This block includes modules 5 and 6.
+
+    Module 5: Public Key Cryptography
+    Module 6: Public Key Infrastructure (PKI)
+
+Unit 4: Cryptographic protocols
+
+The cryptographic primitives described throughout the course are put into practice for the development of cryptographic protocols, such as secret sharing, null-knowledge proofs, unconscious transfer, or secure multipart computing. This block includes module 7.
+
+    Module 7: Cryptographic protocols"
+05.604,Electronic commerce,"The Electronic Commerce subject aims to train students in this new discipline born as a result of widely used communication networks, such as the Internet. Despite the wide range of disciplines that are often included in the words ""e-commerce"" (new economics, marketing, law, social behavior, etc.), it is important to note that since we are dealing with a computer engineering subject, its approach is eminently technological. In any case, the fact that its focus is technological does not mean that it includes different disciplines within this aspect. Thus, we can identify three large areas of knowledge that we will focus on in this course.
+
+On the one hand we find the databases. In electronic commerce systems, the correct design and management of databases is extremely important since one of the characteristics of electronic commerce is its high degree of automation, more than in other areas. This makes databases play a very important role.
+
+Another relevant point in electronic commerce is presented by payment systems. As is well known, one of the reluctances that electronic commerce must overcome is distrust and therefore special emphasis must be placed on security.
+
+Finally, there is a part that is often forgotten, perhaps because it affects us little, or rather, it affects us positively, and that is the problem presented by electronic commerce of digital products. The ease of copying together with the precision of these implies that piracy becomes an inherent problem with this support. This problem, which often slows down the sale and distribution of products through electronic commerce, currently generates significant research efforts. We will see different possibilities to end piracy and what problems they present.
+
+The subject wants to be taught with a very practical approach, and that is why two compulsory practices have been included in the subject, in addition to the four PEC. In the first practice we will work with the basic web development technologies to launch an electronic commerce. On the other hand, in the second practice we will implement an electronic commerce system through a specialized content management tool (CMS) for electronic commerce: Prestashop.","The specific contents of the subject that are considered most important are detailed below for each of the modules:
+
+Module 1 - Introduction to electronic commerce (0.5 credits)
+
+Basic concepts and terminology of electronic commerce.
+The EDI standard.
+Legal aspects of electronic commerce.
+
+Module 2 - Security in electronic commerce (1 credit)
+
+Basic concepts of cryptography and information security.
+Specific concepts of public key cryptography.
+Security in electronic commerce: data, payments and products sold.
+Module 3 - Information Management (0.5 credits)
+
+Structure of a database for electronic commerce.
+Data analysis of an electronic commerce system.
+
+Module 4 - Electronic payment systems (1 credit)
+
+card payments
+virtual wallet systems
+Payments via SMS
+digital money
+Module 5 - Electronic copyright protection systems (1 credit)
+
+Basic concepts of copyright protection techniques for content in digital format.
+Description of a still image marking system.
+Description of a digital video marking system."
+05.607,Databases architecture,"Database Architecture is an optional subject, proposed within the Information Technologies itinerary, belonging to the Degree in Computer Engineering. The subject delves into the knowledge acquired in previous compulsory subjects on databases, such as the Use of Databases and Database Design.
+
+The course begins by studying the main drawbacks of the relational model and presents some alternative data models. Next, the main problems related to the implementation of database management systems (DBMS) are analyzed, both in centralized and distributed environments. Finally, fundamental concepts on the design of distributed databases are introduced.
+
+The Degree in Computer Engineering has as a transversal competence to acquire the learning of foreign languages ​​(specifically English). That is why some subjects have the learning material in English. This is the case of Database Architecture, given its specific characteristics (specialization subject with a model based on continuous evaluation).","The objective of this course, as explained in the first module, is to first introduce the architecture of centralized Database Management Systems (DBMS), to evolve towards distributed systems, identifying the main differences.
+
+In the second module, the limitations of the relational model will be presented to introduce the use of objects and semi-structured data, giving special relevance to the Object-Relational and XML extensions. First, the main features of standard SQL will be covered (for example, large objects, user-defined types, inheritance, references, and multivalued attributes). Next, XML standards such as XSchema, XPath, and XQuery will be covered.
+
+Distributed databases will be introduced in the third module. First, a classification of distributed databases will be explained. Next, depending on whether the distribution is desired or imposed, it will be explained how to approach the design or the integration. The design is related to the sharding of the databases (for example, horizontal, vertical, or hybrid), while the integration can be implemented as a global view, local view, peer-to-peer, or based on containers or interfaces.
+
+Module four addresses aspects of computer security in databases, addressing the three key aspects of this concept: confidentiality, integrity and availability. Aspects such as access control, application access, vulnerabilities, inference mechanisms and auditing will be covered. Emphasis will be placed on different access control systems, as well as role-based access. Aspects related to advanced data management systems will also be worked on and aspects of access control for XML will be dealt with.
+
+Within the fifth module, the concept of transaction explained in previous topics will be deepened. Based on this concept, a distinction will be made between ACID and BASE transactions. Multilevel reservations, the multiversion mechanism and time stamping will be explained. The first two mechanisms have been chosen for their wide use in commercial DBMSs, while the last one has been chosen for its wide use in distributed environments.
+
+The sixth module introduces concepts related to data recovery, which in turn are related to transactions.
+
+Finally, in the seventh module, concepts related to query optimization in distributed environments will be explained. First of all, we will analyze the syntactic optimization to continue working with the physical optimization. The concepts of intra and interparallelism will also be worked on."
+05.613,Data structures design,"In this subject the different strategies of data representation in a computer and the criteria to evaluate them are studied. Depending on the type of treatment that has to be done with this information (size, access criteria, etc.), it will be possible to select the strategy that offers an optimal balance between memory consumption and manipulation time.
+
+This course is fundamental within the field of programming, since the proper use of data structures is critical in any application that handles large volumes of information or that has very strict efficiency requirements.
+
+Previous courses in the field of programming have already introduced some basic data structures, such as lists, stacks, queues, or trees. This subject presents the concept of abstract data type (ATD) as a general model to describe a data structure and study its efficiency. Finally, the core of the course consists of learning to use each data structure properly and knowing how to select the most appropriate data structure for each situation.","The subject is structured in eight modules (module 8 of the subjects is not studied):
+
+1. Abstract data types
+containers
+contract design
+Developing a Sample Collection
+Generic or parametric types
+Library of thematic collections
+Presentation of the rest of the modules
+Study of the concept of TAD and aspects related to its definition and implementation in classes through a hierarchy.
+
+2. Algorithmic complexity
+Introduction to algorithmic complexity
+Asymptotic notation for algorithmic complexity
+Algorithmic complexity of abstract data types
+Description of the methods used to compare the cost of different programs in terms of execution times or memory consumption.
+
+3. Sequential containers
+batteries
+tails
+chained representations
+liza
+Vector representations: resizing
+Sequential Containers in the Java Collections Framework
+Study of collections of objects with sequential access (stacks, queues, lists).
+
+4. trees
+General and binary trees. Definitions and related concepts
+recursion
+general trees
+binary trees
+excursions
+An example file system
+Presentation of data structures used to represent hierarchical relationships and introduction of the concept of recursion.
+
+5. Priority queues
+The priority queue concept
+priority queue operation
+Priority queue implementations
+Priority queues in JDK libraries
+Heap Sort: The Heapsort Algorithm
+Usage example: Huffman algorithm
+Study of the design and implementation of collections where the order of access to the elements depends on their priority.
+
+6. The TAD table
+Presentation of the TAD Table
+Scatter implementation of the TAD Table
+The Joint TAD
+Application example: a symbol table for a modular language
+Tables and sets in the Java Collections Framework
+Study of the concept of dispersion, presentation of the TAD table and the strategies for its implementation.
+7. Look for trees
+search trees
+Implementation of ordered collections with binary search trees
+Multipath trees and B-trees
+Search Trees in the Java Collections Framework
+Deepening of the tree concept and its applications to represent ordered collections.
+8. Graphics
+
+(This module is not studied)
+
+The concept of graph.
+The abstract data type Graph
+Java interfaces for directed and undirected graphs
+Graph Implementation
+Example of use: TAD Academy
+Review of the concept of graphs and description of strategies to implement different types of graphs (directed or undirected, labeled or unlabeled,...).
+9. Collection Libraries
+Design of new TADs using a library of collections
+Collection Library Design
+Libraries of existing collections
+Analysis of the design of new TADs from other existing ones. Study of the considerations that affect the design of collection libraries and presentation of some existing libraries (Java Collections Framework, Java Data Structure Library, ...)."
+05.614,Introduction to mathematics for engineering,"Mastering the contents and mathematical methodology is essential to take any scientific degree. Therefore, it is necessary to understand its basic techniques and concepts (many times already covered in secondary and high school) before addressing the subjects of the career that you want to take.
+
+In this course, the basic techniques and concepts of linear algebra and calculus will be provided, to guarantee adequate preparation to pass many of the subjects of the degree.","MODULE 1: ALGEBRA BLOCK
+
+Topic 1: Numbers (0.5 credits)
+
+Topic 2: Equations (0.5 credits)
+
+Topic 3: Systems of equations (0.5 credits)
+
+Topic 4: Polynomials (0.5 credits)
+
+Topic 5: Matrices (0.5 credits)
+
+ 
+
+MODULE 2: ANALYSIS BLOCK
+
+Topic 6: Polynomial functions (0.5 credits)
+
+Topic 7: Trigonometric functions (0.5 credits)
+
+Topic 8: Exponential and logarithmic functions (0.5 credits)
+
+Topic 9: Continuity of functions (0.5 credits)
+
+Topic 10: Derivation of functions (0.75 credits)
+
+Topic 11: Integration of functions (0.75 credits)"
+05.672,Business practice,"The objective of the Practices is for the student to learn to work on a day-to-day basis in a company and apply certain skills acquired in the Computer Engineering degree, both transversal and specific. The internships in companies will be organized from the UOC, with a trainee professor, and from the company with a tutor who will guide and monitor the student.
+
+The internships will be carried out mainly online within the framework of the UOC's virtual campus. In some cases, depending on the circumstances of residence and availability of the student, they may have a face-to-face component.
+
+The tools to develop the practices will be mainly those provided by the studies, being able to receive from the company some other specific tool to develop the work. The study load for the student will be 12 ETCS, equivalent to about 300 hours of work in the company.",The content of the internships will be marked by the type of company and the projects that are being carried out at the time the student does the internship.
+22.400,Computational thinking,"This course is designed to prepare us to start in the world of programming, and to know and understand the basic concepts that will allow us to turn a specific problem into a small program that solves it.
+
+In order to do so, we will first learn to think in such a way that we can identify what kinds of problems can be solved using a computer running through a sequence of steps designed to solve the proposed problem. That is, through what is known as computational thinking, we will know the abstract concepts that determine the appropriate reasoning to be able to solve problems through programs.
+
+Next, we'll review programming languages, which have evolved very rapidly since the popularization of personal computers, and we'll also learn about other important elements of programming context and vocabulary, such as what a computer is and what its function is. basic function. .
+
+Finally, we will see how to put it into practice by developing a small program in a guided way, introducing the different concepts that make up what is known as structured programming. To do this, we will use the Processing programming language, which was created with the aim of encouraging creativity and learning to program in a simple and attractive way.","The contents of the course are grouped into two blocks:
+
+Computational thinking, or how we should think to solve a problem using a computer. In addition, the historical background, to know the context and basic vocabulary of the field of programming and what programming languages ​​are like.
+
+Step-by-step guided programming project to create a first program using the Processing language and letting our creativity fly."
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

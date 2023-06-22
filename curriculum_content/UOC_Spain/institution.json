@@ -1,11 +1,11 @@
 {
     "institution": "UOC_Spain",
-    "pre_scraped_file": "courses.csv",
+    "pre_scraped_file": "electives_in.csv",
     "fields": {
         "elective": "Course",
         "title": "Title",
         "summary": "Description",
-        "content": "",
+        "content": "Contents",
         "ilo": ""
     }
 }
