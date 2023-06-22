@@ -1,0 +1,11 @@
+{
+    "institution": "UofT_Canada",
+    "pre_scraped_file": "electives_in.csv",
+    "fields": {
+        "elective": "elective",
+        "title": "title",
+        "summary": "",
+        "content": "content",
+        "ilo": ""
+    }
+}
