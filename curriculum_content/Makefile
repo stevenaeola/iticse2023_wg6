@@ -10,11 +10,14 @@ scrape_csvs := $(foreach inst,$(inst_scrape),$(inst)/$(scraped_file))
 pre_file := electives_pre.csv
 pre_in_file := electives_in.csv
 pre_csvs := $(foreach inst,$(inst_pre),$(inst)/$(pre_file))
+all_csvs := $(scrape_csvs) $(pre_csvs)
 
 python_scrape := scraping.py
 python_wrangle := pre_wrangling.py
+python_combine := all_electives.py
 
 all: inst_scrape inst_pre
+	python3 $(python_combine) $(all_csvs)
 
 inst_scrape: $(inst_scrape)
 inst_pre: $(inst_pre)
