@@ -1,0 +1,38 @@
+﻿Title,Abbrev,Area
+Algorithms and Complexity,AL,Software
+Architecture and Organization,AR,Systems
+Artificial Intelligence,AI,Applications
+Data Management,DM,Systems
+Foundations of Programming Languages,FPL,Software
+Graphics and Interactive Techniques,GIT,Applications
+Human-Computer Interaction,HCI,Applications
+Mathematical and Statistical Foundations,MSF,Underpinning
+Networking and Communication,NC,Systems
+Operating Systems,OS,Systems
+Parallel and Distributed Computing,PDC,Systems
+Security,SEC,Systems
+"Society, Ethics and Professionalism",SEP,Underpinning
+Software Development Fundamentals,SDF,Software
+Software Engineering,SE,Software
+Specialized Platform Development,SPD,Applications
+Systems Fundamentals,SF,Systems
+medicine and dentistry,1,Non-CS application
+subjects allied to medicine,2,Non-CS application
+biological and sport sciences,3,Non-CS application
+psychology,4,Non-CS application
+veterinary sciences,5,Non-CS application
+"agriculture, food and related studies",6,Non-CS application
+physical sciences,7,Non-CS application
+mathematical sciences,9,Non-CS application
+engineering and technology,10,Non-CS application
+geographical and environmental studies,12,Non-CS application
+"architecture, building and planning",13,Non-CS application
+humanities and liberal arts,14,Non-CS application
+social sciences,15,Non-CS application
+law,16,Non-CS application
+business and management,17,Non-CS application
+communications and media,18,Non-CS application
+language and area studies,19,Non-CS application
+"historical, philosophical and religious studies",20,Non-CS application
+creative arts and design,21,Non-CS application
+education and teaching,22,Non-CS application
