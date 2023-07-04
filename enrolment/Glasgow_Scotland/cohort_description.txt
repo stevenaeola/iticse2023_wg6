@@ -1,0 +1,74 @@
+Institution
+University of Glasgow https://www.gla.ac.uk/
+
+Respondent:
+Jack Parkinson jack.parkinson@glasgow.ac.uk https://www.gla.ac.uk/schools/computing/staff/jackparkinson/
+
+Ethics status:
+Unofficial email confirmation from our local head of ethics and our university-level data protection team that the request is business as usual, still awaiting formal confirmation from ethics board just to be safe
+
+Students included:
+
+Anyone enrolled on one of our Honours-level (H-level) CS modules. Due to the structure of our institution, there are *very* few ways that that anyone enrolled on these modules will not be studying CS or a related degree as a major. H-level modules are available to 3rd and 4th year students in CS to make up 120 credits per year:
+ - 3rd year:
+    - 5 core modules (50 credits)
+    - 1 compulsory team project (30 credits)
+    - 4 electives (40 credits)
+ - 4th Year:
+    - 1 core module (10 credits)
+    - 1 compulsory individual project (40 credits)
+    - 7 elective modules (70 credits)
+    
+All elective modules can be taken in either 3rd or 4th year and are all at the same level (SCQF Level 10, COMPSCI4*).
+
+Students taking CS modules will be majoring in one of the following degrees:
+ - Computer Science (BSc or MSci)
+ - Software Engineering (BSc or MSci)
+ - Electronic & Software Engineering (BSc, BEng or MSci)
+ - Computer Science with Combined Honours (BSc or MSci)
+
+(Note that MSci is NOT a postgraduate award; these are not students taking a Masters at the university being involved in undergrad courses. MSci is an undergradaute Masters: a 5-year programme with an extra year for either placement (in SE) or a research year (CS). When taking the COMPSCI4* electives, they will still be in their undergraduate 3rd or 4th year, but may have a bit longer to go before they get their award.)
+
+Modules included: 
+
+List at https://www.gla.ac.uk/coursecatalogue/courselist/?code=REG30200000#Level%204%20(SCQF%20level%2010)
+
+Taught by the School of Computing Science COMPSCI*
+
+AND
+
+(
+  (
+   Level 4 modules COMPSCI4* apart from core or nearly core
+    - COMPSCI4009 ALGORITHMICS I (H)
+    - COMPSCI4062 CYBER SECURITY FUNDAMENTALS (H)
+    - COMPSCI4073 DATA FUNDAMENTALS (H)
+    - COMPSCI4024P INDIVIDUAL PROJECT (H) (COMBINED)
+    - COMPSCI4025P INDIVIDUAL PROJECT (H) (SINGLE)
+    - COMPSCI4014 INTERACTIVE SYSTEMS (H)
+    - COMPSCI4038 PROFESSIONAL SKILLS AND ISSUES (H)
+    - COMPSCI4015 PROFESSIONAL SOFTWARE DEVELOPMENT (H)
+    - COMPSCI4079 SOFTWARE ENGINEERING FULL YEAR INDUSTRIAL PLACEMENT H
+    - COMPSCI4046 SOFTWARE ENGINEERING SUMMER PLACEMENT (H)
+    - COMPSCI4081 SYSTEMS PROGRAMMING (H)
+    - COMPSCI4047 TEAM PROJECT (H)
+    - COMPSCI4044 TEAM PROJECT ESE (H)
+    - COMPSCI4070 TEAM PROJECT MINOR (H)
+    - COMPSCI4085P WORKPLACE ASSESSMENT YEAR 4
+    - COMPSCI4093P WORKPLACE PROJECT SUPPLEMENT
+  )
+  
+  OR
+  
+  (
+   Level 4 modules COMPSCI4* apart from modules designed for MSc bootcamp/summer school students to get them ready for their MSc
+    - COMPSCI4039 PROGRAMMING
+    - COMPSCI4084 PROGRAMMING AND SYSTEMS DEVELOPMENT (H)
+    - COMPSCI4043 SYSTEMS AND NETWORKS
+  )
+)
+
+
+Cohorts:
+
+Only one cohort is included, which will include students in each module for three years regardless of their main degree programme (which will be one of the ones listed above except in very rare cases) and regardless of their year of study.
