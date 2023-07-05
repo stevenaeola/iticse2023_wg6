@@ -124,6 +124,33 @@ BIOINFORMATICS","
 				<li>an understanding of some fundamental statistical techniques.  </li>
 				<li>an understanding of basic tree-reconstruction algorithms.  </li>
 			"
+Durham_England,COMP3467,"<h2>title</h2>COMP3467: 
+ADVANCED COMPUTER SYSTEMS<h2>summary</h2>
+			<li> To provide understanding of the relationship between hardware and software, and the design, implementation and verification of hardware and software in these situations.  </li>
+			<li>To provide understanding of how performance and security of computer systems are affected by their architecture.</li>
+		<h2>content</h2>
+			<li> Computer Architecture including current processor characteristics and designs</li>
+			<li>instruction set design</li>
+			<li>memory systems: cache design and performance</li>
+			<li>processor architecture and security</li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li> The relationship between Computer Instruction Sets and High Level Programming Languages;  </li>
+				<li> Complex performance issues of current computers, and the selection of processors for specific applications;  </li>
+			","COMP3467: 
+ADVANCED COMPUTER SYSTEMS","
+			<li> To provide understanding of the relationship between hardware and software, and the design, implementation and verification of hardware and software in these situations.  </li>
+			<li>To provide understanding of how performance and security of computer systems are affected by their architecture.</li>
+		","
+			<li> Computer Architecture including current processor characteristics and designs</li>
+			<li>instruction set design</li>
+			<li>memory systems: cache design and performance</li>
+			<li>processor architecture and security</li>
+		","
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li> The relationship between Computer Instruction Sets and High Level Programming Languages;  </li>
+				<li> Complex performance issues of current computers, and the selection of processors for specific applications;  </li>
+			"
 Durham_England,COMP3491,"<h2>title</h2>COMP3491: 
 CODES AND CRYPTOGRAPHY<h2>summary</h2>
 			<li>To give an introduction to the fundamental steps of a digital communication system: compression/decompression, encryption/decryption, error control coding/decoding </li>
