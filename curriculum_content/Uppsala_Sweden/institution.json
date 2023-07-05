@@ -2,10 +2,10 @@
     "institution": "Uppsala_Sweden",
     "scrapeURL": "https://www.uu.se/en/study/syllabus?query=%ELECTIVE%",
     "XPath": {
-        "content": "//h2[contains(text(), 'Content')]/following-sibling::text()[1]",
-        "ilo": "//h2[contains(text(), 'Learning outcomes')]/following-sibling::text()[2]",
+        "content": "//h2[contains(text(), 'Content')]/following-sibling::ul[1]", 
+        "ilo": "//h2[contains(text(), 'Learning outcomes')]/following-sibling::ul[1]",
         "title": "//h1[contains(@class, 'education-header-name')]",
-        "summary": "//h2[contains(text(), 'About the course')]/following-sibling::text()[1]"
+        "summary": ""
     },
     "electives": {
         "1DL301": "38961",
@@ -25,6 +25,6 @@
         "1DT075": "38962",
         "1DL550": "38744",
         "1DL251": "38749",
-        "1MD300": "42659"
+        "1MD300": "42659" 
     }
 }
