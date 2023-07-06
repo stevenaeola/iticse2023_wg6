@@ -1,5 +1,5 @@
 institution,elective,overview,title,summary,content,ilo
-Durham_England,COMP3421,"<h2>title</h2>COMP3421: 
+Durham_England,COMP3421,"<h2>Durham_England COMP3421</h2><h2>title</h2>COMP3421: 
 COMPUTER SCIENCE INTO SCHOOLS<h2>summary</h2>
 			<li>To develop a range of key skills in the student and to offer an early taste of teaching to those interested in pursuing it as a career or for other career pathways where public understanding of science is required.</li>
 			<li>To help students gain confidence in communicating Computer Science, develop strong organisational and interpersonal skills, and understand how to address the needs of individuals.</li>
@@ -60,7 +60,7 @@ COMPUTER SCIENCE INTO SCHOOLS","
 				<li>Will have an advanced understanding of Computer Science through having to explain to others.</li>
 				<li>Will have an advanced understanding of the problems of public perception of science.  </li>
 			"
-Durham_England,COMP3477,"<h2>title</h2>COMP3477: 
+Durham_England,COMP3477,"<h2>Durham_England COMP3477</h2><h2>title</h2>COMP3477: 
 ALGORITHMIC GAME THEORY<h2>summary</h2>
 			<li> The aim of the module is to introduce the student to the notion of a game, relevant concepts, and other basic notions and tools of game theory, as well as the main applications where such concepts are used and applied. </li>
 		<h2>content</h2>
@@ -89,7 +89,7 @@ ALGORITHMIC GAME THEORY","
 				<li>An understanding of key game theoretic notions and ideas, and their connections to computer science and economics. </li>
 				<li>An understanding of the impact of game theory and mechanism design on contemporary applications.  </li>
 			"
-Durham_England,COMP3487,"<h2>title</h2>COMP3487: 
+Durham_England,COMP3487,"<h2>Durham_England COMP3487</h2><h2>title</h2>COMP3487: 
 BIOINFORMATICS<h2>summary</h2>
 			<li>To introduce students to applications of Computer Science in Biology.</li>
 			<li>To introduce students to some important Statistical methods and algorithms.</li>
@@ -124,7 +124,7 @@ BIOINFORMATICS","
 				<li>an understanding of some fundamental statistical techniques.  </li>
 				<li>an understanding of basic tree-reconstruction algorithms.  </li>
 			"
-Durham_England,COMP3467,"<h2>title</h2>COMP3467: 
+Durham_England,COMP3467,"<h2>Durham_England COMP3467</h2><h2>title</h2>COMP3467: 
 ADVANCED COMPUTER SYSTEMS<h2>summary</h2>
 			<li> To provide understanding of the relationship between hardware and software, and the design, implementation and verification of hardware and software in these situations.  </li>
 			<li>To provide understanding of how performance and security of computer systems are affected by their architecture.</li>
@@ -151,7 +151,7 @@ ADVANCED COMPUTER SYSTEMS","
 				<li> The relationship between Computer Instruction Sets and High Level Programming Languages;  </li>
 				<li> Complex performance issues of current computers, and the selection of processors for specific applications;  </li>
 			"
-Durham_England,COMP3491,"<h2>title</h2>COMP3491: 
+Durham_England,COMP3491,"<h2>Durham_England COMP3491</h2><h2>title</h2>COMP3491: 
 CODES AND CRYPTOGRAPHY<h2>summary</h2>
 			<li>To give an introduction to the fundamental steps of a digital communication system: compression/decompression, encryption/decryption, error control coding/decoding </li>
 			<li>To give an introduction to the theoretical limitations of those steps via information theory understand the information theoretic limitations of the three domains above  </li>
@@ -178,7 +178,7 @@ CODES AND CRYPTOGRAPHY","
 				<li>an understanding of the theory and practice of data compression, cryptography, and error-correcting codes </li>
 				<li>an understanding of the main results of information theory  </li>
 			"
-Durham_England,COMP3507,"<h2>title</h2>COMP3507: 
+Durham_England,COMP3507,"<h2>Durham_England COMP3507</h2><h2>title</h2>COMP3507: 
 COMPUTATIONAL COMPLEXITY<h2>summary</h2>
 			<li>The aim of the module is to equip students with the ability to ability to formalise and reason about the complexity of computational problems as well as to identify barriers to efficient computations.</li>
 		<h2>content</h2>
@@ -213,7 +213,7 @@ COMPUTATIONAL COMPLEXITY","
 				<li>an appreciation of different ways to measure and reason about the complexity of computation;</li>
 				<li>a knowledge about various important problem solving paradigms in the broad area of algorithms and complexity.</li>
 			"
-Durham_England,COMP3517,"<h2>title</h2>COMP3517: 
+Durham_England,COMP3517,"<h2>Durham_England COMP3517</h2><h2>title</h2>COMP3517: 
 COMPUTATIONAL MODELLING IN THE HUMANITIES AND SOCIAL SCIENCES<h2>summary</h2>
 			<li>To enable students to understand and critically evaluate the application of computational modelling&nbsp;to problems in the humanities and social sciences.</li>
 			<li>To introduce students to algorithms and approaches relevant to the modelling of humanities and social science data.</li>
@@ -240,7 +240,7 @@ COMPUTATIONAL MODELLING IN THE HUMANITIES AND SOCIAL SCIENCES","
 				<li>an understanding of computational approaches to modelling text</li>
 				<li>an understanding of data mining techniques.</li>
 			"
-Durham_England,COMP3527,"<h2>title</h2>COMP3527: 
+Durham_England,COMP3527,"<h2>Durham_England COMP3527</h2><h2>title</h2>COMP3527: 
 COMPUTER VISION<h2>summary</h2>
 			<li>To enable students to critically evaluate the development of computer vision solutions across existing and emerging technology areas. </li>
 			<li>To enable students to understand and evaluate general image and video understanding themes across relevant application areas, focusing on relevant case studies.</li>
@@ -279,7 +279,7 @@ COMPUTER VISION","
 					how these are applicable to relevant industrial problems and have future potential for emerging needs in both a research and industrial setting.
 				</li>
 			"
-Durham_England,COMP3547,"<h2>title</h2>COMP3547: 
+Durham_England,COMP3547,"<h2>Durham_England COMP3547</h2><h2>title</h2>COMP3547: 
 DEEP LEARNING<h2>summary</h2>
 			<li>To enable students to be able to approach complex ill-defined problems that require deep layers of learning, and understand how this relates to learning in nature.</li>
 			<li>To equip students with the ability to use modern deep learning libraries in order to effectively design, train, and test neural networks in different applications.</li>
@@ -318,7 +318,7 @@ DEEP LEARNING","
 				<li>an understanding of statistical learning theory with deep learning approaches.</li>
 				<li>an understanding of the algorithms and approaches to design and evaluate deep neural networks.</li>
 			"
-Durham_England,COMP3557,"<h2>title</h2>COMP3557: 
+Durham_England,COMP3557,"<h2>Durham_England COMP3557</h2><h2>title</h2>COMP3557: 
 DESIGN OF ALGORITHMS AND DATA STRUCTURES<h2>summary</h2>
 			<li>The aim of the module is to equip students with the ability to design and analyse efficient algorithms and data structures.</li>
 		<h2>content</h2>
@@ -355,7 +355,7 @@ DESIGN OF ALGORITHMS AND DATA STRUCTURES","
 				<li> an ability to apply techniques and methods from the relevant topics to tackle fundamental algorithmic problems; </li>
 				<li> an ability to conduct review and self-study to further their knowledge beyond the taught material. </li>
 			"
-Durham_England,COMP3567,"<h2>title</h2>COMP3567: 
+Durham_England,COMP3567,"<h2>Durham_England COMP3567</h2><h2>title</h2>COMP3567: 
 MULTIMEDIA AND GAME DEVELOPMENT<h2>summary</h2>
 			<li>To introduce students to the methods and techniques of effective game development and the principles and practices of modern multimedia technologies.</li>
 		<h2>content</h2>
@@ -384,7 +384,7 @@ MULTIMEDIA AND GAME DEVELOPMENT","
 				<li>an understanding of using suitable programming tools to implement games.</li>
 				<li>an understanding of the technologies used in representing, processing and optimizing multimedia contents.</li>
 			"
-Durham_England,COMP3577,"<h2>title</h2>COMP3577: 
+Durham_England,COMP3577,"<h2>Durham_England COMP3577</h2><h2>title</h2>COMP3577: 
 PARALLEL SCIENTIFIC COMPUTING I<h2>summary</h2>
 			<li>Introduce scientific computing techniques for the numerical solution of problems in science and engineering</li>
 			<li>Introduce and familiarise students with parallel programming approaches in scientific computing</li>
@@ -415,7 +415,7 @@ PARALLEL SCIENTIFIC COMPUTING I","
 				<li>a knowledge and appreciation of some of the research challenges in scientific computing </li>
 				<li>understanding of basic parallelisation strategies and when to apply them</li>
 			"
-Durham_England,COMP3587,"<h2>title</h2>COMP3587: 
+Durham_England,COMP3587,"<h2>Durham_England COMP3587</h2><h2>title</h2>COMP3587: 
 PROJECT MANAGEMENT<h2>summary</h2>
 			<li>To understand and practice well established project management techniques required for the development of a significant piece of software within a team environment</li>
 		<h2>content</h2>
@@ -444,7 +444,7 @@ PROJECT MANAGEMENT","
 				<li>Evaluate leadership success</li>
 				<li>
 			</li>"
-Durham_England,COMP3607,"<h2>title</h2>COMP3607: 
+Durham_England,COMP3607,"<h2>Durham_England COMP3607</h2><h2>title</h2>COMP3607: 
 RECOMMENDER SYSTEMS<h2>summary</h2>
 			<li>Have you ever wondered how Netflix, YouTube, Amazon or Spotify make suggestions for which content next to view? </li>
 			<li>In this module, we will look at the inner workings of recommender systems;</li>
@@ -485,7 +485,7 @@ RECOMMENDER SYSTEMS","
 				<li>an in-depth knowledge of recommender system algorithms, specifically non-personalised, content-based and collaborative filtering, hybrid techniques and context-aware recommenders</li>
 				<li>an understanding of recommender system evaluation methods.</li>
 			"
-Durham_England,COMP3617,"<h2>title</h2>COMP3617: 
+Durham_England,COMP3617,"<h2>Durham_England COMP3617</h2><h2>title</h2>COMP3617: 
 VIRTUAL AND AUGMENTED REALITY<h2>summary</h2>
 			<li>This course will introduce the principles of Virtual and Augmented Reality (VR/AR) technologies including optics, displays, rendering techniques, visual perception, tracking, interaction, current challenges, applications and major hardware and software platforms.</li>
 		<h2>content</h2>
@@ -518,7 +518,7 @@ VIRTUAL AND AUGMENTED REALITY","
 				<li>On completion of the module, students will be able to demonstrate: </li>
 				<li>An in-depth knowledge of theory and techniques driving the design of Virtual and Augmented Reality hardware and software. </li>
 			"
-Durham_England,COMP3621,"<h2>title</h2>COMP3621: 
+Durham_England,COMP3621,"<h2>Durham_England COMP3621</h2><h2>title</h2>COMP3621: 
 Public Engagement in Computer Science<h2>summary</h2>
 			<li>This module is designed primarily for students studying Department of Computer Science or Natural Sciences degree programmes.</li>
 			<li>To provide experience of a research-led public engagement project in Computer Science.</li>
@@ -555,7 +555,7 @@ Public Engagement in Computer Science","
 				<li>Will be able to assess and devise appropriate ways to communicate a difficult principle or concept.</li>
 				<li>Will have gained a broad understanding of many of the key aspects of public engagement.  </li>
 			"
-Durham_England,COMP3637,"<h2>title</h2>COMP3637: 
+Durham_England,COMP3637,"<h2>Durham_England COMP3637</h2><h2>title</h2>COMP3637: 
 Compiler Design<h2>summary</h2>
 			<li>To understand how a compiler for a high-level programming language works.</li>
 			<li>Develop implementation skills for writing practical components of a compiler, including parsing, analysis, code generation, and optimisation.</li>
@@ -578,7 +578,7 @@ Compiler Design","
 		","
 				<li>An understanding of the theory and practice of compiler design.</li>
 			"
-Durham_England,COMP3647,"<h2>title</h2>COMP3647: 
+Durham_England,COMP3647,"<h2>Durham_England COMP3647</h2><h2>title</h2>COMP3647: 
 Human-AI Interaction Design<h2>summary</h2>
 			<li>To discuss how the design of Human-AI interactions may affect user experience.</li>
 			<li>To introduce methods and tools for designing interactive AI systems.</li>
@@ -617,7 +617,7 @@ Human-AI Interaction Design","
 				<li>An understanding of impacts of interactive AI system design on user experience.</li>
 				<li>An understanding of concepts and principles of Human-AI interaction design. </li>
 			"
-Durham_England,COMP3657,"<h2>title</h2>COMP3657: 
+Durham_England,COMP3657,"<h2>Durham_England COMP3657</h2><h2>title</h2>COMP3657: 
 Security Engineering<h2>summary</h2>
 			<li>To understand security protocol design and analysis, security architectures, cryptographic protocols and security considerations in various environments such as software, web and hardware infrastructures.</li>
 		<h2>content</h2>
@@ -650,7 +650,7 @@ Security Engineering","
 				<li>An understanding of operating system principles.</li>
 				<li>An understanding of programming languages and compiler design.</li>
 			"
-Durham_England,COMP3667,"<h2>title</h2>COMP3667: 
+Durham_England,COMP3667,"<h2>Durham_England COMP3667</h2><h2>title</h2>COMP3667: 
 REINFORCEMENT LEARNING<h2>summary</h2>
 			<li>To understand computational models of learning in dynamic environments.</li>
 			<li>Learning how to plan and design agents with intelligent behaviour, taking actions to control the environment and maximise cumulative future rewards. </li>
@@ -683,7 +683,7 @@ REINFORCEMENT LEARNING","
 				<li>an understanding of state-of-the-art reinforcement learning algorithms. </li>
 				<li>an understanding of the issues faced in scaling reinforcement learning approaches using deep learning. </li>
 			"
-Durham_England,COMP3677,"<h2>title</h2>COMP3677: 
+Durham_England,COMP3677,"<h2>Durham_England COMP3677</h2><h2>title</h2>COMP3677: 
 NATURAL COMPUTING ALGORITHMS<h2>summary</h2>
 			<li>To give students an understanding of how systems and phenomena that occur in the natural world can inspire the development of new computational algorithms relevant to modern-day artificial intelligence.     </li>
 			<li>To equip students with a range of natural algorithmic paradigms and techniques that can be widely applied in real-world problem solving.     </li>
@@ -720,7 +720,7 @@ NATURAL COMPUTING ALGORITHMS","
 				<li>an understanding of a range of different paradigms and algorithms inspired by systems and phenomena from the natural world     </li>
 				<li>an understanding of the data structures and methodologies required to implement these algorithms. </li>
 			"
-Durham_England,COMP4087,"<h2>title</h2>COMP4087: 
+Durham_England,COMP4087,"<h2>Durham_England COMP4087</h2><h2>title</h2>COMP4087: 
 ADVANCED ALGORITHMS<h2>summary</h2>
 			<li>To give students a deeper knowledge of algorithmic solutions for typical computer science problems.</li>
 			<li>To extend the students' knowledge of the latest advances in understanding the limits of computation and the ways of coping with computational hardness.</li>
@@ -751,7 +751,7 @@ ADVANCED ALGORITHMS","
 				<li>a critical evaluation of different approaches to the algorithmic solution for computationally hard problems</li>
 				<li>a critical awareness of some of the latest advances in research on theoretical aspects of computation</li>
 			"
-Durham_England,COMP4097,"<h2>title</h2>COMP4097: 
+Durham_England,COMP4097,"<h2>Durham_England COMP4097</h2><h2>title</h2>COMP4097: 
 ADVANCED COMPUTER GRAPHICS AND VISUALISATION<h2>summary</h2>
 			<li>The module focuses on modern, advanced techniques for realistic image synthesis and visualisation, presenting the theoretical background and practical, established algorithms for offline and real-time 3D graphics.</li>
 		<h2>content</h2>
@@ -796,7 +796,7 @@ ADVANCED COMPUTER GRAPHICS AND VISUALISATION","
 		","
 				<li>On completion of this module, students will be able to demonstrate a systematic understanding of advanced computer graphics and visualisation algorithms and techniques, and a critical awareness of how they are applicable to both current and emerging needs within the industrial and research environment. </li>
 			"
-Durham_England,COMP4107,"<h2>title</h2>COMP4107: 
+Durham_England,COMP4107,"<h2>Durham_England COMP4107</h2><h2>title</h2>COMP4107: 
 ADVANCED COMPUTER VISION<h2>summary</h2>
 			<li>To enable students to critically evaluate the development of contemporary computer vision systems utilising both existing and emerging technologies. </li>
 			<li>To enable students to study and research a number of topic themes across relevant computer vision application areas, focusing on case studies, and undertake research within these topic themes.</li>
@@ -827,7 +827,7 @@ ADVANCED COMPUTER VISION","
 				<li>On completion of this module, students will be able to demonstrate a systematic understanding of the contemporary computer vision topics presented and a
 					critical awareness of how they are applicable to both current and emerging needs within the associated industrial and research environment.  </li>
 			"
-Durham_England,COMP4117,"<h2>title</h2>COMP4117: 
+Durham_England,COMP4117,"<h2>Durham_England COMP4117</h2><h2>title</h2>COMP4117: 
 QUANTUM COMPUTING<h2>summary</h2>
 			<li>To introduce students to Quantum Information Processing and Quantum Computing with emphasis on where these may be advantageous over the classical approach. </li>
 		<h2>content</h2>
@@ -858,7 +858,7 @@ QUANTUM COMPUTING","
 				<li>an understanding of the workings of Quantum algorithms      </li>
 				<li>an understanding of the principles of Quantum networking </li>
 			"
-Durham_England,COMP4127,"<h2>title</h2>COMP4127: 
+Durham_England,COMP4127,"<h2>Durham_England COMP4127</h2><h2>title</h2>COMP4127: 
 AUTOMATED REASONING AND VERIFICATION<h2>summary</h2>
 			<li>To introduce students to Automated Reasoning through expression and solvability of problems in propositional and first-order logic.</li>
 			<li>To introduce students to Verification through expression and solvability of problems using temporal logics.</li>
@@ -905,7 +905,7 @@ AUTOMATED REASONING AND VERIFICATION","
 				<li>an understanding of the algorithms underlying verification in temporal logics.</li>
 				<li>an understanding of how a program can be proved to meet a specification through Hoare Logic.</li>
 			"
-Durham_England,COMP4137,"<h2>title</h2>COMP4137: 
+Durham_England,COMP4137,"<h2>Durham_England COMP4137</h2><h2>title</h2>COMP4137: 
 BLOCKCHAIN AND CRYPTOCURRENCIES<h2>summary</h2>
 			<li>To introduce students to an advanced topic in Computer Science that is finding application in modern technology. </li>
 			<li>To give students knowledge and understanding of the theoretical basis, security and history of cryptocurrencies. </li>
@@ -944,7 +944,7 @@ BLOCKCHAIN AND CRYPTOCURRENCIES","
 				<li>the structure and use of smart contracts in a blockchain  </li>
 				<li>an understanding of some recent developments in cryptocurrencies and blockchains  </li>
 			"
-Durham_England,COMP4157,"<h2>title</h2>COMP4157: 
+Durham_England,COMP4157,"<h2>Durham_England COMP4157</h2><h2>title</h2>COMP4157: 
 LEARNING ANALYTICS<h2>summary</h2>
 			<li>To give students a fundamental understanding of some of the core approaches and problem-solving principles for Learning Analytics (LA) and the role of LA in current and future learning settings and environments.</li>
 		<h2>content</h2>
@@ -967,7 +967,7 @@ LEARNING ANALYTICS","
 				<li>The key principles and methodologies for statistical learning analytics and visualisation, as well as the ability to evaluate and interpret where and how to apply such methods, including in the absence of complete data.</li>
 				<li>The key principles of machine learning based learning analytics, as well as the ability to evaluate and interpret where and how to apply such methods, including in the absence of complete data.</li>
 			"
-Durham_England,COMP4167,"<h2>title</h2>COMP4167: 
+Durham_England,COMP4167,"<h2>Durham_England COMP4167</h2><h2>title</h2>COMP4167: 
 NATURAL LANGUAGE PROCESSING<h2>summary</h2>
 			<li>Introduce the students to computational linguistics</li>
 			<li>Introduce the students to Language models</li>
@@ -1018,7 +1018,7 @@ NATURAL LANGUAGE PROCESSING","
 				<li>Understanding of the learning algorithms behind major NLP use cases e.g. Machine Translation, Multi-task Learning, Language Generation, ...</li>
 				<li>Understanding of the embedded bias in popular language models</li>
 			"
-Durham_England,COMP4177,"<h2>title</h2>COMP4177: 
+Durham_England,COMP4177,"<h2>Durham_England COMP4177</h2><h2>title</h2>COMP4177: 
 NETWORKS AND THEIR STRUCTURE<h2>summary</h2>
 			<li>To design structured networks to provide the communications fabric of distributed-memory multi-processors, networks-on-chips and data centre networks.</li>
 			<li>To introduce the theoretical and practical tools needed to analyse social and technological networks. 
@@ -1055,7 +1055,7 @@ NETWORKS AND THEIR STRUCTURE","
 				<li>an awareness of the main open problems of current interest </li>
 				<li>an understanding of research issues that relate to these problems, including recent developments and research trends and breaking technologies.</li>
 			"
-Durham_England,COMP4187,"<h2>title</h2>COMP4187: 
+Durham_England,COMP4187,"<h2>Durham_England COMP4187</h2><h2>title</h2>COMP4187: 
 PARALLEL SCIENTIFIC COMPUTING II<h2>summary</h2>
 			<li>Introduce advanced scientific computing techniques</li>
 			<li>Familiarise student with distributed memory programming and MPI</li>
@@ -1086,7 +1086,7 @@ PARALLEL SCIENTIFIC COMPUTING II","
 				<li>a critical awareness of the main open problems of current interest related to these areas</li>
 				<li>a comprehensive understanding of the research issues that relate to these problems, including recent developments and research trends, breaking technologies and opportunities for industrial innovation. </li>
 			"
-Durham_England,COMP4197,"<h2>title</h2>COMP4197: 
+Durham_England,COMP4197,"<h2>Durham_England COMP4197</h2><h2>title</h2>COMP4197: 
 RANDOMISED ALGORITHMS AND PROBABILISTIC METHODS<h2>summary</h2>
 			<li>The aim of the module is to equip students with the ability to design and analyse efficient probabilistic algorithms.</li>
 		<h2>content</h2>

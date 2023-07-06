@@ -56,6 +56,7 @@ def wrangle(institution_name):
                 pre_scraped_df['overview'] =  pre_scraped_df['overview'] + heading(field) + pre_scraped_df[field]
 
         electives_df = pre_scraped_df[all_fields]
+        electives_df['overview'] = heading(electives_df['institution'] + " " + electives_df['elective']) + electives_df['overview']
         electives_df = electives_df[electives_df['elective'].str.len() >0]
         electives_df.to_csv(os.path.join(path,'electives_pre.csv'), index= False)
     except OSError as err:

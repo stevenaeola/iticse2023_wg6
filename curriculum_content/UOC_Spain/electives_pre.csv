@@ -1,5 +1,5 @@
 institution,elective,overview,title,summary,content,ilo
-UOC_Spain,05.574,"<h2>title</h2>Computer networks security<h2>summary</h2>This course presents the problem of security in computer networks, and more specifically in TCP/IP networks.
+UOC_Spain,05.574,"<h2>UOC_Spain 05.574</h2><h2>title</h2>Computer networks security<h2>summary</h2>This course presents the problem of security in computer networks, and more specifically in TCP/IP networks.
 
 The structure of this course follows the following model. First, the problem of security in TCP/IP networks is presented. Once we have seen the possible security problems in this type of network, we will focus on the prevention mechanisms that exist, based mainly on information filtering. Subsequently, and assuming that not all TCP/IP network prevention and protection systems are infallible, we will study the different intrusion detection mechanisms that exist. Finally we will highlight the specific protection techniques that exist. Specifically, we will introduce the basic notions of cryptography that will allow us to understand the operation of different mechanisms and applications that allow us to protect ourselves against attacks.
 
@@ -78,7 +78,7 @@ openssl
 SSH
 snort
 nessus",
-UOC_Spain,05.576,"<h2>title</h2>Computer networks design<h2>summary</h2>Today, large networks are a fundamental part of our environment, mainly thanks to the Internet phenomenon and the proliferation of broadband. From email or instant messaging to web services, networks are one more aspect of our lives, always present invisibly, but now unavoidable. For this reason, new specialists are needed every day to support companies that want to get the most out of their networks and use remote interconnection technologies to make the distance that separates them disappear completely. This need has also created a set of professional certifications attesting to their expertise.
+UOC_Spain,05.576,"<h2>UOC_Spain 05.576</h2><h2>title</h2>Computer networks design<h2>summary</h2>Today, large networks are a fundamental part of our environment, mainly thanks to the Internet phenomenon and the proliferation of broadband. From email or instant messaging to web services, networks are one more aspect of our lives, always present invisibly, but now unavoidable. For this reason, new specialists are needed every day to support companies that want to get the most out of their networks and use remote interconnection technologies to make the distance that separates them disappear completely. This need has also created a set of professional certifications attesting to their expertise.
 
 The ""Design of Computer Networks"" (DRC) course uses the basics of network design as a narrative thread to train students in two important aspects of network deployment in multi-branch organizations. On the one hand, the creation of redundant and scalable local area networks (LAN), and on the other hand, the basic mechanisms to achieve connectivity through different WAN technologies (Wide Area Network, Wide Area Networks).
 
@@ -157,7 +157,7 @@ Network Security and Monitoring: Details the most common LAN security threats an
 Quality of Service: Network transmission quality, traffic characteristics, queuing algorithms, QoS models, and QoS implementation techniques are described.
 Network Evolution - Provides an introduction to emerging trends in today's networks, such as IoT, cloud, or software-defined networks.
 Network Troubleshooting – Lists general network troubleshooting procedures, methods, tools, and documentation that should be retained. Typical symptoms and causes at different layers of the OSI model are also discussed.",
-UOC_Spain,05.577,"<h2>title</h2>Operating systems design<h2>summary</h2>Once we have seen the functionalities that the Operating System (OS) offers to users, we are in a position to analyze the different techniques and policies that make them possible. This knowledge has to allow us a better use of the operating system as end users, and provides the bases to be able to carry out a correct administration of the Operating System.
+UOC_Spain,05.577,"<h2>UOC_Spain 05.577</h2><h2>title</h2>Operating systems design<h2>summary</h2>Once we have seen the functionalities that the Operating System (OS) offers to users, we are in a position to analyze the different techniques and policies that make them possible. This knowledge has to allow us a better use of the operating system as end users, and provides the bases to be able to carry out a correct administration of the Operating System.
 
 This subject will present what an Operating System is, from an internal point of view. The different possibilities of managing the elements of the OS, both hardware and software, will be seen.
 
@@ -290,7 +290,7 @@ In the materials of this module, you will find the necessary tools to achieve th
 Know and analyze examples with the different high-level synchronization tools that allow concurrent programming to be carried out with guarantees.
 Analyze real use cases on concurrent programming in Gnu/Linux.
 Analyze the problem of deadlock and indefinite wait considering the different situations, evaluating their advantages and disadvantages. Also, consider the different tools at the administrator level to manage these situations and help you make decisions.",
-UOC_Spain,05.578,"<h2>title</h2>Computers architecture<h2>summary</h2>In this subject, the knowledge of computer architecture introduced in the Fundamentals and Structure of Computers of the Degree in Computer Engineering is deepened.
+UOC_Spain,05.578,"<h2>UOC_Spain 05.578</h2><h2>title</h2>Computers architecture<h2>summary</h2>In this subject, the knowledge of computer architecture introduced in the Fundamentals and Structure of Computers of the Degree in Computer Engineering is deepened.
 
 The course delves into advanced concepts of computer structure: computer performance and processor pipeline. In addition, an introduction is made to the differentiating elements of multiprocessors, and their different architectures.
 
@@ -507,7 +507,7 @@ multiprocessors
 4.5.1 Shared variables model
 
 4.5.2 Message passing model",
-UOC_Spain,05.579,"<h2>title</h2>Automata and grammars<h2>summary</h2>A very important part of the information available today is available in textual format: web pages, configuration files, scripts, computer programs or even natural language text. For a computer to be able to use this information, it needs to be able to interpret it according to the rules of the language in which it is written.
+UOC_Spain,05.579,"<h2>UOC_Spain 05.579</h2><h2>title</h2>Automata and grammars<h2>summary</h2>A very important part of the information available today is available in textual format: web pages, configuration files, scripts, computer programs or even natural language text. For a computer to be able to use this information, it needs to be able to interpret it according to the rules of the language in which it is written.
 
 In this subject, basic techniques are presented to describe the structure of a language, regular expressions and context-free grammars. These notations are used, for example, to describe programming languages ​​or describe text patterns for searching.
 
@@ -612,7 +612,7 @@ The simplest class of languages, regular languages, is introduced. A formalism i
 7. Properties of decontextualized languages
 
 A class of more complex languages, called context-independent, is introduced. The structure of this language is described by grammars and its words are recognized by stack automata.",
-UOC_Spain,05.580,"<h2>title</h2>Compilers<h2>summary</h2>Compilers are essential tools for any computer scientist, responsible for translating textual information from one format or language to another. For example, they act as key players in the execution process of a program: they translate the program from the high-level language used by humans into a low-level language that can be executed on a computer (such as assembler or machine code).
+UOC_Spain,05.580,"<h2>UOC_Spain 05.580</h2><h2>title</h2>Compilers<h2>summary</h2>Compilers are essential tools for any computer scientist, responsible for translating textual information from one format or language to another. For example, they act as key players in the execution process of a program: they translate the program from the high-level language used by humans into a low-level language that can be executed on a computer (such as assembler or machine code).
 
 This course introduces the basic structure of a compiler: the modules that make it up and how they communicate with each other. We will focus on the case of general purpose programming languages ​​and on the process of generating an executable from a high level program.
 
@@ -749,7 +749,7 @@ The generation of code from the intermediate code will be studied, as well as ev
 3. Construction of an interpreter
 
 A concrete model of architecture for interpreters based on a memory in the form of a stack will be presented. The construction process of an interpreter based on this model will be studied.",
-UOC_Spain,05.581,"<h2>title</h2>Knowledge representation<h2>summary</h2>Intelligent systems need to use information in their decision making process. Not only the ability to store and query information is required, functionalities that can be achieved through databases or in-memory data structures. In addition to this, it is necessary to be able to relate the information and use it as a base from which to infer new knowledge.
+UOC_Spain,05.581,"<h2>UOC_Spain 05.581</h2><h2>title</h2>Knowledge representation<h2>summary</h2>Intelligent systems need to use information in their decision making process. Not only the ability to store and query information is required, functionalities that can be achieved through databases or in-memory data structures. In addition to this, it is necessary to be able to relate the information and use it as a base from which to infer new knowledge.
 
 This course presents the most common representation schemes to represent knowledge in intelligent systems: ontologies, semantic networks, logical representations, frameworks, etc. It also presents fields of application where these schemes are used, such as the field of the semantic web.<h2>content</h2>The units of this subject are the following:
 
@@ -780,7 +780,7 @@ Section 3: Ontologies and the web
 Section 4: Formats
 Section 5: Tools
 Section 6: Resources",
-UOC_Spain,05.583,"<h2>title</h2>Machine learning<h2>summary</h2>The main motivation of this course is to make machine learning known and how it is situated within Artificial Intelligence as a discipline and to understand what agents and multi-agent systems are.
+UOC_Spain,05.583,"<h2>UOC_Spain 05.583</h2><h2>title</h2>Machine learning<h2>summary</h2>The main motivation of this course is to make machine learning known and how it is situated within Artificial Intelligence as a discipline and to understand what agents and multi-agent systems are.
 
 In Artificial Intelligence an overview of Artificial Intelligence was given and some of the so-called classical methods and techniques were presented, such as problem solving, search and knowledge-based systems, approximate reasoning techniques were also seen more advanced. .
 
@@ -875,7 +875,7 @@ Didactic module 2. Agents and multi-agent systems
 23. Foundation for Intelligent Physical Agents
 2.4. ontologies
 2.5. Cooperation between agents",
-UOC_Spain,05.584,"<h2>title</h2>Data mining<h2>summary</h2>Data is the new oil. Therefore, Data Mining is a subject to apply the previous knowledge acquired to Statistics and Databases and present some new ones more specific to the field of knowledge extraction. A set of methods from Artificial Intelligence are presented, which form the essential core of the discipline known as Data Mining. The basic concepts of the mentioned subjects are very useful in this matter and will allow a better evaluation of some of the techniques that will be studied.<h2>content</h2>The didactic material of the subject is divided into six modules and a prologue that present a notable interrelationship between them. The sixth is a case study that can be used to see how the methods explained in the other modules are applied in a concrete and real case.
+UOC_Spain,05.584,"<h2>UOC_Spain 05.584</h2><h2>title</h2>Data mining<h2>summary</h2>Data is the new oil. Therefore, Data Mining is a subject to apply the previous knowledge acquired to Statistics and Databases and present some new ones more specific to the field of knowledge extraction. A set of methods from Artificial Intelligence are presented, which form the essential core of the discipline known as Data Mining. The basic concepts of the mentioned subjects are very useful in this matter and will allow a better evaluation of some of the techniques that will be studied.<h2>content</h2>The didactic material of the subject is divided into six modules and a prologue that present a notable interrelationship between them. The sixth is a case study that can be used to see how the methods explained in the other modules are applied in a concrete and real case.
 
 Below you can see the modules that have to be worked on to achieve the objectives of the course.
 
@@ -968,7 +968,7 @@ Step 3: data preprocessing
 Step 4: exploratory analysis
 Step 5: Classification
 Step 6: Reproducibility",
-UOC_Spain,05.586,"<h2>title</h2>Analysis and design with patterns<h2>summary</h2>This course is focused on the study of analysis and design patterns contemplated from a practical perspective. The contents are located within the object-oriented methodology, the most currently accepted, and using the UML notation for the same reason.
+UOC_Spain,05.586,"<h2>UOC_Spain 05.586</h2><h2>title</h2>Analysis and design with patterns<h2>summary</h2>This course is focused on the study of analysis and design patterns contemplated from a practical perspective. The contents are located within the object-oriented methodology, the most currently accepted, and using the UML notation for the same reason.
 
 Patterns (analysis, design, architecture...) are one of the innovations that have had the greatest impact in object-oriented development in recent years, along with the appearance of the UML language. Their main advantage is that they save time and improve quality by applying solutions (which we call patterns) that have already been widely tested by other designers.
 
@@ -1009,7 +1009,7 @@ Learning Module 3: Pattern Development Case Study
 It includes the detailed development of a case study similar to the practice proposed to the students.
 
 The materials of this subject are not designed to be studied in a linear way, but once the introduction (Module 1) has been read, it is recommended to combine the study of theory (Module 2) with practice (Module 3). In the description of each activity, you will find a detailed description of which specific sections of each module must be studied in order to carry out the activity.",
-UOC_Spain,05.587,"<h2>title</h2>Software engineering of components and distributed systems<h2>summary</h2>Ongoing advances in computing and telecommunications are changing the way software is developed. In particular, the relentless increase in the power of personal computers and mobile devices, the lowering of hardware costs, and the appearance of global coverage data networks have made possible an infrastructure that is especially conducive to the use of open and distributed systems. 
+UOC_Spain,05.587,"<h2>UOC_Spain 05.587</h2><h2>title</h2>Software engineering of components and distributed systems<h2>summary</h2>Ongoing advances in computing and telecommunications are changing the way software is developed. In particular, the relentless increase in the power of personal computers and mobile devices, the lowering of hardware costs, and the appearance of global coverage data networks have made possible an infrastructure that is especially conducive to the use of open and distributed systems. 
 
 These changes have caused, among other things, that the traditional methods of software design and development (seen in the subjects of Engineering and Software Analysis and design with patterns) are insufficient, since, more or less implicitly, they assume that The application to be developed will be executed in a basically centralized environment. Therefore, traditional methods are unable to naturally manage the complexity of the requirements of this new type of systems. On the other hand, the aspects closest to the analysis and specification of requirements studied in the Requirements Engineering subject do not change with respect to what was seen in previous courses and, therefore, are not repeated here.
 
@@ -1126,7 +1126,7 @@ Book Microservice Patterns (Chris Richardson) Chapter 12 Implementation of micro
 Book Microservice Patterns (Chris Richardson) Chapter 12 Implementation of microservices.
 Book ""Continuous Delivery: Reliable Software Releases Through Automated Build, Test, and Deployment (Jez Humble and Dave Farley) Part I: Chapters 1-10.
 Book ""The DevOps Handbook"" (Patrick Debois, John Willis, Jez Humble & Gene Kim): Chapters 1 - 4.",
-UOC_Spain,05.588,"<h2>title</h2>Software developement project<h2>summary</h2>The Software Development Project course has as its main objective the development of a specific software project and is based on the practical application of the knowledge and skills obtained so far in the Degree, such as Project Management, Fundamentals of Programming, Engineering of Software, Use of Databases, and specifically the technical skills that were obtained within Software Engineering of Components and Distributed Systems.
+UOC_Spain,05.588,"<h2>UOC_Spain 05.588</h2><h2>title</h2>Software developement project<h2>summary</h2>The Software Development Project course has as its main objective the development of a specific software project and is based on the practical application of the knowledge and skills obtained so far in the Degree, such as Project Management, Fundamentals of Programming, Engineering of Software, Use of Databases, and specifically the technical skills that were obtained within Software Engineering of Components and Distributed Systems.
 
 Despite the fact that the subject is based on carrying out a specific software project, the subject also covers both new theoretical aspects and others that complement the knowledge acquired up to now, such as agile software development methodologies.
 
@@ -1177,7 +1177,7 @@ Book ""Essential Scrum: A Practical Guide to the Most Popular Agile Process"" by
 Book ""Clean Code: A Handbook of Agile Software Craftsmanship"" by Robert Martin (supplementary material).
 Book ""Refactoring: Improving the Design of Existing Code"" by Martin Fowler (Supplementary Material)
 Activity: First part of the Practice (PRAC1).",
-UOC_Spain,05.591,"<h2>title</h2>Computer networks structure<h2>summary</h2>Today, large networks are a fundamental part of our environment, mainly thanks to the Internet phenomenon and the proliferation of broadband. From email or instant messaging to web services, networks are one more aspect of our lives, always present invisibly, but now unavoidable. For this reason, new specialists are needed every day to support companies that want to get the most out of their networks and use remote interconnection technologies to make the distance that separates them disappear completely. This need has also created a set of professional certifications attesting to their expertise.
+UOC_Spain,05.591,"<h2>UOC_Spain 05.591</h2><h2>title</h2>Computer networks structure<h2>summary</h2>Today, large networks are a fundamental part of our environment, mainly thanks to the Internet phenomenon and the proliferation of broadband. From email or instant messaging to web services, networks are one more aspect of our lives, always present invisibly, but now unavoidable. For this reason, new specialists are needed every day to support companies that want to get the most out of their networks and use remote interconnection technologies to make the distance that separates them disappear completely. This need has also created a set of professional certifications attesting to their expertise.
 
 The course ""Computer Network Structure"" (ERC) focuses on learning the fundamentals of the lowest level communication protocols that allow different types of devices to communicate: Transport, Internet and Network Access. Within this, special prominence is given to the operation of Ethernet local area networks (LAN) and the creation of IP addressing schemes.
 
@@ -1268,7 +1268,7 @@ Module 4. Routing in the Internet and the Transport layer
 Routing Concepts – This part is covered in conjunction with the book and focuses on seeing what algorithms and protocols exist to dynamically create routing tables for a router.
 Static Routing: Configuration of IPv4 and IPv6 static routes.
 The Transport Layer: The role of the transport layer in encapsulating application data using the network layer is examined. The transport layer also includes error control functions and allows the use of different services on the same computer.",
-UOC_Spain,05.592,"<h2>title</h2>Advanced computers architecture<h2>summary</h2>In this subject, knowledge of the advanced architectures of current computers is deepened. On the one hand, previous knowledge in Fundamentals and Structure of Computers and Computer Architecture will be expanded. On the other hand, different models of current processor architectures will be presented. Among them, high performance architectures, multicores or GPU architectures will be studied.
+UOC_Spain,05.592,"<h2>UOC_Spain 05.592</h2><h2>title</h2>Advanced computers architecture<h2>summary</h2>In this subject, knowledge of the advanced architectures of current computers is deepened. On the one hand, previous knowledge in Fundamentals and Structure of Computers and Computer Architecture will be expanded. On the other hand, different models of current processor architectures will be presented. Among them, high performance architectures, multicores or GPU architectures will be studied.
 
 However, not only the purely architectural aspects of these systems will be discussed, but the different programming paradigms associated with these architectures will also be presented.<h2>content</h2>The subject is made up of five modules that cover the objectives and competences previously exposed:
 
@@ -1297,7 +1297,7 @@ Module 3: Multi-Thread Architectures (Multi-core)
 Module 4: Performance in multithreaded architectures
 
 Module 5: Computer Graphics (GPU)-Based Architectures",
-UOC_Spain,05.593,"<h2>title</h2>Requirements engineering<h2>summary</h2>Requirements engineering is the discipline that helps us to identify, manage and maintain the set of software requirements that we want to develop. Requirements engineering takes place in the same context as software engineering (software development), so it can be seen as part of software engineering. Even so, it must be taken into account that requirements engineering requires knowledge and skills from other disciplines such as psychology, marketing or design.
+UOC_Spain,05.593,"<h2>UOC_Spain 05.593</h2><h2>title</h2>Requirements engineering<h2>summary</h2>Requirements engineering is the discipline that helps us to identify, manage and maintain the set of software requirements that we want to develop. Requirements engineering takes place in the same context as software engineering (software development), so it can be seen as part of software engineering. Even so, it must be taken into account that requirements engineering requires knowledge and skills from other disciplines such as psychology, marketing or design.
 
 The purpose of this course is for future software engineers to deepen their study of the problems, techniques, and tools related to obtaining, managing, documenting, and validating/verifying the requirements of a software system. When presenting the contents of this course, we have set ourselves two main objectives:
 
@@ -1410,7 +1410,7 @@ Requirements validation
 Requirements verification
 Test Driven Development
 case study",
-UOC_Spain,05.594,"<h2>title</h2>Embedded systems<h2>summary</h2>Embedded systems are increasingly present in our lives. From network devices to industrial control systems, a wide range of devices make up what we know as an Embedded System. In this topic we want to give an overview of these systems. We will start from its definition and delve into its fields of application. The knowledge of the hardware components that constitute these systems will be deepened, we will know their programming models and the particularities that condition the development of applications for embedded systems.
+UOC_Spain,05.594,"<h2>UOC_Spain 05.594</h2><h2>title</h2>Embedded systems<h2>summary</h2>Embedded systems are increasingly present in our lives. From network devices to industrial control systems, a wide range of devices make up what we know as an Embedded System. In this topic we want to give an overview of these systems. We will start from its definition and delve into its fields of application. The knowledge of the hardware components that constitute these systems will be deepened, we will know their programming models and the particularities that condition the development of applications for embedded systems.
 
 The main objective of the course is for the student to learn the basic programming techniques of an embedded system, have a basic knowledge of the hardware architecture that composes them and acquire skills to work with this type of device.<h2>content</h2>Module 1- Introduction to embedded systems
 In this module an introduction to embedded systems is made, the concept and its applications are presented and emphasis is placed on the development process of an embedded system.
@@ -1441,7 +1441,7 @@ This module takes a hands-on approach to introduce the need for abstractions whe
 
 Module 5- Validation and evaluation tools for embedded systems.
 This module introduces the tools available for an application developer to carry out their work and verify the developed software.",
-UOC_Spain,05.595,"<h2>title</h2>Enterpreneurship<h2>summary</h2>New business opportunities appear every day to respond to previously non-existent or unsatisfied needs or to improve the existing offer. In addition, organizations increasingly value having an entrepreneurial organizational culture and encourage people who work to act as entrepreneurs in the same organization. And it has been shown that there is a positive relationship between entrepreneurship and the development of a country or region. Among other characteristics, it contributes to economic growth, is a source of innovation, favors job creation and contributes to social cohesion and dynamism.
+UOC_Spain,05.595,"<h2>UOC_Spain 05.595</h2><h2>title</h2>Enterpreneurship<h2>summary</h2>New business opportunities appear every day to respond to previously non-existent or unsatisfied needs or to improve the existing offer. In addition, organizations increasingly value having an entrepreneurial organizational culture and encourage people who work to act as entrepreneurs in the same organization. And it has been shown that there is a positive relationship between entrepreneurship and the development of a country or region. Among other characteristics, it contributes to economic growth, is a source of innovation, favors job creation and contributes to social cohesion and dynamism.
 
 In this sense, the Entrepreneurial Initiative subject aims to promote the entrepreneurial spirit of students from the introduction to the main elements that make up the entrepreneurial process from an applied and practical approach. Firstly, we will introduce ourselves to the entrepreneurial phenomenon, analyzing various typologies and taking into account the gender perspective. Next, we will immerse ourselves in the ideation, validation, modeling and presentation of a viable and sustainable entrepreneurial project (following the sustainable development objectives) developing our capacities for initiative, innovation and teamwork.<h2>content</h2>1. Entrepreneurship and business
 
@@ -1562,7 +1562,7 @@ In this sense, the Entrepreneurial Initiative subject aims to promote the entrep
 6.2 Target audience
 
 6.3 Effective Presentations",
-UOC_Spain,05.596,"<h2>title</h2>Foundations of information systems<h2>summary</h2>The continuous innovations in information and communication technologies are transforming the corporate business world into new models, new processes and new business needs. This environment has favored the investments of the companies to be more competitive in the current market, allocating a budget to the acquisition, implementation or updating of information systems.
+UOC_Spain,05.596,"<h2>UOC_Spain 05.596</h2><h2>title</h2>Foundations of information systems<h2>summary</h2>The continuous innovations in information and communication technologies are transforming the corporate business world into new models, new processes and new business needs. This environment has favored the investments of the companies to be more competitive in the current market, allocating a budget to the acquisition, implementation or updating of information systems.
 
 In this topic we present the basic concepts of information systems, the types of information systems, the relevance of information systems for companies, what the first information systems were like, how they have evolved and what the systems of the system have to contribute. future. In companies
 
@@ -1671,7 +1671,7 @@ Module 4. Practical Case: Rural Tourism (Example)
 Presentation of the practical case
 General solution approach
 Proposed solution",
-UOC_Spain,05.597,"<h2>title</h2>Information systems integration<h2>summary</h2>The contents of the subject ""Information Systems Integration"" (ISI) revolve around the various meanings of the word ""integration"" in relation to organizations of all kinds, and the information systems they use. Thus, to begin with, we will see the type of problems that usually arise in organizations with little structural integration, as well as the proposals that contribute to a better business integration, mainly the definition and implementation of business processes, transversal to the classic functional ones. areas
+UOC_Spain,05.597,"<h2>UOC_Spain 05.597</h2><h2>title</h2>Information systems integration<h2>summary</h2>The contents of the subject ""Information Systems Integration"" (ISI) revolve around the various meanings of the word ""integration"" in relation to organizations of all kinds, and the information systems they use. Thus, to begin with, we will see the type of problems that usually arise in organizations with little structural integration, as well as the proposals that contribute to a better business integration, mainly the definition and implementation of business processes, transversal to the classic functional ones. areas
 
 Subsequently, it will be seen how organizations have been developing and implementing new information systems as a fundamental tool for their structural and informational integration, and as a means for their progress in terms of their functional management and strategic direction, in short, for their progress. in terms of quality and competitiveness.
 
@@ -1700,7 +1700,7 @@ The concepts around Business Integration through Information Systems are introdu
  3. Horizontal Integration through Information Systems.
 
  4. Implementation of Information Systems in the company.",
-UOC_Spain,05.598,"<h2>title</h2>Use of information systems in organizations<h2>summary</h2>The subject Use of Information Systems in Organizations (USIO) has a deductive approach; that is, through the study and work of cases, the impact of Information and Communication Technologies (ICT) in organizations is analyzed. This approach allows establishing conclusions and interpretations whose purpose is to understand the efficient use of ICT in management and business decision making.
+UOC_Spain,05.598,"<h2>UOC_Spain 05.598</h2><h2>title</h2>Use of information systems in organizations<h2>summary</h2>The subject Use of Information Systems in Organizations (USIO) has a deductive approach; that is, through the study and work of cases, the impact of Information and Communication Technologies (ICT) in organizations is analyzed. This approach allows establishing conclusions and interpretations whose purpose is to understand the efficient use of ICT in management and business decision making.
 
 The course is based on solving a case throughout the semester by working in interdisciplinary groups. The students of the Degrees in Computer Engineering (GII) and Business Administration and Management (ADE) will share a work space in which they will develop the activities of the subject. This point is very important and the student should consider it before enrolling. Unlike other subjects where there is detailed material to work on for further assessment, the USIO does not have material that the student must study in the classical sense. A group must be formed and work must be done on the approach of a case with contents of business information systems. The development must be collaborative and although some recommended readings are given, searches on the Internet or other sources must also be carried out, proposing a coherent and argued solution. It is not possible to think that there is ""the solution"" in the style of a mathematical exercise, there are several possible ones and the consultant will evaluate the different alternatives with pre-established criteria (indicated as part of the statement). Group work dynamics are usually complex and in this sense it is very important to form a cohesive group that is willing to work from the beginning.<h2>content</h2>Case title: ""PARROT""
 
@@ -1779,7 +1779,7 @@ Get Celonis certified through the 10-hour Process Mining Fundamentals course.
 - PEC 5.- Analysis of the application of the Metaverse in an organization.
 
 Analyze how PARROT could take advantage of the technological trend of the Metaverse.",
-UOC_Spain,05.599,"<h2>title</h2>Functional management of IS/IT services<h2>summary</h2>This subject presents an environment that guarantees the support of IS/IT services and infrastructure in the organization, for the achievement of corporate strategies and objectives. It treats the management of IS/IT services as a set of processes and functions, provided or managed from an IT department. There are references that are useful guides in the management of these services such as ITIL, COBIT, CMMi.<h2>content</h2>Module 1. Introduction to IS/IT services.
+UOC_Spain,05.599,"<h2>UOC_Spain 05.599</h2><h2>title</h2>Functional management of IS/IT services<h2>summary</h2>This subject presents an environment that guarantees the support of IS/IT services and infrastructure in the organization, for the achievement of corporate strategies and objectives. It treats the management of IS/IT services as a set of processes and functions, provided or managed from an IT department. There are references that are useful guides in the management of these services such as ITIL, COBIT, CMMi.<h2>content</h2>Module 1. Introduction to IS/IT services.
 
 1. IS/IT services in organizations
 2. Introduction to the management of the IS/IT department
@@ -1856,7 +1856,7 @@ ITIL Module: An Introduction
 2. Some key ideas
 3. Changing orientation of ITIL versions
 4. The new ITIL 4 model",
-UOC_Spain,05.600,"<h2>title</h2>Planning and strategic use of IS<h2>summary</h2>The mission of this course is to introduce students of Computer Engineering and other careers to the basics to understand the strategic uses of technology in organizations and the management and strategic planning of information systems. In increasingly complex environments, information and technology management represents a key aspect for the success and proper functioning of any type of organization, whether private companies or public administrations.
+UOC_Spain,05.600,"<h2>UOC_Spain 05.600</h2><h2>title</h2>Planning and strategic use of IS<h2>summary</h2>The mission of this course is to introduce students of Computer Engineering and other careers to the basics to understand the strategic uses of technology in organizations and the management and strategic planning of information systems. In increasingly complex environments, information and technology management represents a key aspect for the success and proper functioning of any type of organization, whether private companies or public administrations.
 
 This is a relatively new discipline, both in academic theory and research, and in professional practice. The concept of CIO (the chief executive officer responsible for company information and technology) appeared in the early 1980s and the Association for Information Systems (AIS) was established in 1994.
 
@@ -1925,7 +1925,7 @@ Module 6: Transformation of the information systems management function.
 
 
 We draw attention to the fact that some of these materials may be common to the subject of Strategic Management of Information Systems at the Master's level. At grade level, these competencies are worked on in a different way and with different levels of depth. The teaching guides that will accompany each module or other complementary materials will provide specific instructions on how to carry out an adequate follow-up of the subject.",
-UOC_Spain,05.601,"<h2>title</h2>Cryptography<h2>summary</h2>The main objective of the Cryptography course is to train students in the field of modern cryptography. This discipline is increasingly important in the world we live in due to the increasing value of information. On the one hand, cryptographic techniques are necessary to protect the security and privacy of users when using technology and communication networks. In particular, it is important to protect users from mass surveillance activities that can be carried out illegally not only by private companies but also by some government agencies operating outside of legal circuits. On the other hand, beyond the protection of users, companies and any entity that is related to or uses technology needs mechanisms that protect their digital assets, which can sometimes be all the assets of a company. Finally, the development of cryptography also allows the birth of new relationship paradigms between people such as the creation of new virtual currencies, cryptocurrencies, which do not depend on any centralized entity to function.
+UOC_Spain,05.601,"<h2>UOC_Spain 05.601</h2><h2>title</h2>Cryptography<h2>summary</h2>The main objective of the Cryptography course is to train students in the field of modern cryptography. This discipline is increasingly important in the world we live in due to the increasing value of information. On the one hand, cryptographic techniques are necessary to protect the security and privacy of users when using technology and communication networks. In particular, it is important to protect users from mass surveillance activities that can be carried out illegally not only by private companies but also by some government agencies operating outside of legal circuits. On the other hand, beyond the protection of users, companies and any entity that is related to or uses technology needs mechanisms that protect their digital assets, which can sometimes be all the assets of a company. Finally, the development of cryptography also allows the birth of new relationship paradigms between people such as the creation of new virtual currencies, cryptocurrencies, which do not depend on any centralized entity to function.
 
 The subject wants to give a practical approach to cryptography, and that is why the subject is structured jointly based on both theoretical and practical content that is complemented by programming activities that allow us to know the real problems that arise in the implementation of cryptographic systems.<h2>content</h2>The contents of the subject are detailed below, grouping the different modules that make it up into thematic blocks:
 
@@ -1984,7 +1984,7 @@ Unit 4: Cryptographic protocols
 The cryptographic primitives described throughout the course are put into practice for the development of cryptographic protocols, such as secret sharing, null-knowledge proofs, unconscious transfer, or secure multipart computing. This block includes module 7.
 
     Module 7: Cryptographic protocols",
-UOC_Spain,05.604,"<h2>title</h2>Electronic commerce<h2>summary</h2>The Electronic Commerce subject aims to train students in this new discipline born as a result of widely used communication networks, such as the Internet. Despite the wide range of disciplines that are often included in the words ""e-commerce"" (new economics, marketing, law, social behavior, etc.), it is important to note that since we are dealing with a computer engineering subject, its approach is eminently technological. In any case, the fact that its focus is technological does not mean that it includes different disciplines within this aspect. Thus, we can identify three large areas of knowledge that we will focus on in this course.
+UOC_Spain,05.604,"<h2>UOC_Spain 05.604</h2><h2>title</h2>Electronic commerce<h2>summary</h2>The Electronic Commerce subject aims to train students in this new discipline born as a result of widely used communication networks, such as the Internet. Despite the wide range of disciplines that are often included in the words ""e-commerce"" (new economics, marketing, law, social behavior, etc.), it is important to note that since we are dealing with a computer engineering subject, its approach is eminently technological. In any case, the fact that its focus is technological does not mean that it includes different disciplines within this aspect. Thus, we can identify three large areas of knowledge that we will focus on in this course.
 
 On the one hand we find the databases. In electronic commerce systems, the correct design and management of databases is extremely important since one of the characteristics of electronic commerce is its high degree of automation, more than in other areas. This makes databases play a very important role.
 
@@ -2057,7 +2057,7 @@ Module 5 - Electronic copyright protection systems (1 credit)
 Basic concepts of copyright protection techniques for content in digital format.
 Description of a still image marking system.
 Description of a digital video marking system.",
-UOC_Spain,05.607,"<h2>title</h2>Databases architecture<h2>summary</h2>Database Architecture is an optional subject, proposed within the Information Technologies itinerary, belonging to the Degree in Computer Engineering. The subject delves into the knowledge acquired in previous compulsory subjects on databases, such as the Use of Databases and Database Design.
+UOC_Spain,05.607,"<h2>UOC_Spain 05.607</h2><h2>title</h2>Databases architecture<h2>summary</h2>Database Architecture is an optional subject, proposed within the Information Technologies itinerary, belonging to the Degree in Computer Engineering. The subject delves into the knowledge acquired in previous compulsory subjects on databases, such as the Use of Databases and Database Design.
 
 The course begins by studying the main drawbacks of the relational model and presents some alternative data models. Next, the main problems related to the implementation of database management systems (DBMS) are analyzed, both in centralized and distributed environments. Finally, fundamental concepts on the design of distributed databases are introduced.
 
@@ -2090,7 +2090,7 @@ Within the fifth module, the concept of transaction explained in previous topics
 The sixth module introduces concepts related to data recovery, which in turn are related to transactions.
 
 Finally, in the seventh module, concepts related to query optimization in distributed environments will be explained. First of all, we will analyze the syntactic optimization to continue working with the physical optimization. The concepts of intra and interparallelism will also be worked on.",
-UOC_Spain,05.613,"<h2>title</h2>Data structures design<h2>summary</h2>In this subject the different strategies of data representation in a computer and the criteria to evaluate them are studied. Depending on the type of treatment that has to be done with this information (size, access criteria, etc.), it will be possible to select the strategy that offers an optimal balance between memory consumption and manipulation time.
+UOC_Spain,05.613,"<h2>UOC_Spain 05.613</h2><h2>title</h2>Data structures design<h2>summary</h2>In this subject the different strategies of data representation in a computer and the criteria to evaluate them are studied. Depending on the type of treatment that has to be done with this information (size, access criteria, etc.), it will be possible to select the strategy that offers an optimal balance between memory consumption and manipulation time.
 
 This course is fundamental within the field of programming, since the proper use of data structures is critical in any application that handles large volumes of information or that has very strict efficiency requirements.
 
@@ -2241,7 +2241,7 @@ Design of new TADs using a library of collections
 Collection Library Design
 Libraries of existing collections
 Analysis of the design of new TADs from other existing ones. Study of the considerations that affect the design of collection libraries and presentation of some existing libraries (Java Collections Framework, Java Data Structure Library, ...).",
-UOC_Spain,05.614,"<h2>title</h2>Introduction to mathematics for engineering<h2>summary</h2>Mastering the contents and mathematical methodology is essential to take any scientific degree. Therefore, it is necessary to understand its basic techniques and concepts (many times already covered in secondary and high school) before addressing the subjects of the career that you want to take.
+UOC_Spain,05.614,"<h2>UOC_Spain 05.614</h2><h2>title</h2>Introduction to mathematics for engineering<h2>summary</h2>Mastering the contents and mathematical methodology is essential to take any scientific degree. Therefore, it is necessary to understand its basic techniques and concepts (many times already covered in secondary and high school) before addressing the subjects of the career that you want to take.
 
 In this course, the basic techniques and concepts of linear algebra and calculus will be provided, to guarantee adequate preparation to pass many of the subjects of the degree.<h2>content</h2>MODULE 1: ALGEBRA BLOCK
 
@@ -2298,7 +2298,7 @@ Topic 9: Continuity of functions (0.5 credits)
 Topic 10: Derivation of functions (0.75 credits)
 
 Topic 11: Integration of functions (0.75 credits)",
-UOC_Spain,05.672,"<h2>title</h2>Business practice<h2>summary</h2>The objective of the Practices is for the student to learn to work on a day-to-day basis in a company and apply certain skills acquired in the Computer Engineering degree, both transversal and specific. The internships in companies will be organized from the UOC, with a trainee professor, and from the company with a tutor who will guide and monitor the student.
+UOC_Spain,05.672,"<h2>UOC_Spain 05.672</h2><h2>title</h2>Business practice<h2>summary</h2>The objective of the Practices is for the student to learn to work on a day-to-day basis in a company and apply certain skills acquired in the Computer Engineering degree, both transversal and specific. The internships in companies will be organized from the UOC, with a trainee professor, and from the company with a tutor who will guide and monitor the student.
 
 The internships will be carried out mainly online within the framework of the UOC's virtual campus. In some cases, depending on the circumstances of residence and availability of the student, they may have a face-to-face component.
 
@@ -2307,7 +2307,7 @@ The tools to develop the practices will be mainly those provided by the studies,
 The internships will be carried out mainly online within the framework of the UOC's virtual campus. In some cases, depending on the circumstances of residence and availability of the student, they may have a face-to-face component.
 
 The tools to develop the practices will be mainly those provided by the studies, being able to receive from the company some other specific tool to develop the work. The study load for the student will be 12 ETCS, equivalent to about 300 hours of work in the company.",The content of the internships will be marked by the type of company and the projects that are being carried out at the time the student does the internship.,
-UOC_Spain,22.400,"<h2>title</h2>Computational thinking<h2>summary</h2>This course is designed to prepare us to start in the world of programming, and to know and understand the basic concepts that will allow us to turn a specific problem into a small program that solves it.
+UOC_Spain,22.400,"<h2>UOC_Spain 22.400</h2><h2>title</h2>Computational thinking<h2>summary</h2>This course is designed to prepare us to start in the world of programming, and to know and understand the basic concepts that will allow us to turn a specific problem into a small program that solves it.
 
 In order to do so, we will first learn to think in such a way that we can identify what kinds of problems can be solved using a computer running through a sequence of steps designed to solve the proposed problem. That is, through what is known as computational thinking, we will know the abstract concepts that determine the appropriate reasoning to be able to solve problems through programs.
 

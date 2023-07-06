@@ -1,5 +1,5 @@
 institution,elective,overview,title,summary,content,ilo
-Edinburgh_Scotland,cxinfr08020,"<h2>title</h2>Undergraduate Course: Informatics 1 - Cognitive Science (INFR08020)<h2>summary</h2>This course is designed as a first introduction to Cognitive Science. It will provide a selective but representative overview of the subject, suitable for all interested students, including students on the Cognitive Science degrees and external students.<br>
+Edinburgh_Scotland,cxinfr08020,"<h2>Edinburgh_Scotland cxinfr08020</h2><h2>title</h2>Undergraduate Course: Informatics 1 - Cognitive Science (INFR08020)<h2>summary</h2>This course is designed as a first introduction to Cognitive Science. It will provide a selective but representative overview of the subject, suitable for all interested students, including students on the Cognitive Science degrees and external students.<br>
 <br>
 The aim of the lecturing team is to present a unified view of the field, based on a computational approach to analysing cognition. The material is organized by cognitive function (e.g., language, vision), rather than by subdiscipline (e.g., psychology, neuroscience).<br>
 <br>
@@ -82,7 +82,7 @@ Note that this course is intended to give a high-level introduction to the topic
     
     
 ",
-Edinburgh_Scotland,cxinfr08010,"<h2>title</h2>Undergraduate Course: Informatics 2D - Reasoning and Agents (INFR08010)<h2>summary</h2>This course focuses on approaches relating to representation, reasoning and planning for solving real world inference. The course illustrates the importance of (i) using a smart representation of knowledge such that it is conducive to efficient reasoning, and (ii) the need for exploiting task constraints for intelligent search and planning. The notion of representing action, space and time is formalized in the context of agents capable of sensing the environment and taking actions that affect the current state. There is also a strong emphasis on the ability to deal with uncertain data in real world scenarios and hence, the planning and reasoning methods are extended to include inference in probabilistic domains.<h2>content</h2>
+Edinburgh_Scotland,cxinfr08010,"<h2>Edinburgh_Scotland cxinfr08010</h2><h2>title</h2>Undergraduate Course: Informatics 2D - Reasoning and Agents (INFR08010)<h2>summary</h2>This course focuses on approaches relating to representation, reasoning and planning for solving real world inference. The course illustrates the importance of (i) using a smart representation of knowledge such that it is conducive to efficient reasoning, and (ii) the need for exploiting task constraints for intelligent search and planning. The notion of representing action, space and time is formalized in the context of agents capable of sensing the environment and taking actions that affect the current state. There is also a strong emphasis on the ability to deal with uncertain data in real world scenarios and hence, the planning and reasoning methods are extended to include inference in probabilistic domains.<h2>content</h2>
     
     1.  Intelligent Agents: Introduction<br>
 * Nature of agents, performance measures and environments<br>
@@ -157,7 +157,7 @@ Relevant QAA Computing Curriculum Sections:  Artificial Intelligence, Human-Comp
     
     
 ",
-Edinburgh_Scotland,cxinfr08033,"<h2>title</h2>Undergraduate Course: Informatics Experiential Learning (Level 8) (INFR08033)<h2>summary</h2><h2>content</h2>Informatics Experiential Learning is available only with permission to students participating in one of the School's approved IEL activities. Please see the IEL Information Page at https://uoe.sharepoint.com/sites/IEL2 for the current year's approved activities and how to apply.<br>
+Edinburgh_Scotland,cxinfr08033,"<h2>Edinburgh_Scotland cxinfr08033</h2><h2>title</h2>Undergraduate Course: Informatics Experiential Learning (Level 8) (INFR08033)<h2>summary</h2><h2>content</h2>Informatics Experiential Learning is available only with permission to students participating in one of the School's approved IEL activities. Please see the IEL Information Page at https://uoe.sharepoint.com/sites/IEL2 for the current year's approved activities and how to apply.<br>
 <br>
 This course forms part of the Student-Led Individually Created Course (SLICC) University-wide framework for self-designed experiential learning, where students reflect throughout their chosen extra-curricular experience, by the development of an e-portfolio to provide evidence of their learning. As a participating student, undertaking a SLICC will enable students to create a unique learning experience, while demonstrating their learning and academic achievement against defined learning outcomes. <br>
 <br>
@@ -166,7 +166,7 @@ This level 8 course will require students to demonstrate the development of thei
 This course forms part of the Student-Led Individually Created Course (SLICC) University-wide framework for self-designed experiential learning, where students reflect throughout their chosen extra-curricular experience, by the development of an e-portfolio to provide evidence of their learning. As a participating student, undertaking a SLICC will enable students to create a unique learning experience, while demonstrating their learning and academic achievement against defined learning outcomes. <br>
 <br>
 This level 8 course will require students to demonstrate the development of their skills and understanding in terms of critical analysis, application, reflection, recognising and developing your skills and mindsets, and evaluation within a defined context of their learning experience. This course will also enable students to demonstrate your ability to exercise autonomy and initiative at a professional level in practice and/or in a subject/discipline (or other approved) area.",
-Edinburgh_Scotland,cxinfr10052,"<h2>title</h2>Undergraduate Course: Algorithms and Data Structures (INFR10052)<h2>summary</h2>The course aims to provide general techniques for the design of efficient algorithms and, in parallel, develop appropriate mathematical tools for analysing their performance. In this, it broadens and deepens the study of algorithms and data structures initiated in INF2. The focus is on algorithms, more than data structures. Along the way, problem solving skills are exercised and developed.<h2>content</h2>
+Edinburgh_Scotland,cxinfr10052,"<h2>Edinburgh_Scotland cxinfr10052</h2><h2>title</h2>Undergraduate Course: Algorithms and Data Structures (INFR10052)<h2>summary</h2>The course aims to provide general techniques for the design of efficient algorithms and, in parallel, develop appropriate mathematical tools for analysing their performance. In this, it broadens and deepens the study of algorithms and data structures initiated in INF2. The focus is on algorithms, more than data structures. Along the way, problem solving skills are exercised and developed.<h2>content</h2>
     
     Introductory concepts<br>
 Review of CS2. Models of computation; time and space complexity; upper and lower bounds, big-O and big-Omega notation; average and worst case analysis.<br>
@@ -219,7 +219,7 @@ Relevant QAA Computing Curriculum Sections: Data Structures and Algorithms
     
     
 ",
-Edinburgh_Scotland,cxinfr10057,"<h2>title</h2>Undergraduate Course: Software Testing (INFR10057)<h2>summary</h2>This course further develops the introduction to testing in Informatics 2 - Software Engineering and Professional Practice. The course develops skills to select and apply a testing strategy and testing techniques that are appropriate to a particular development process, software system, or component. Class members will become capable users of test tools; will be able to assess the effectiveness of their testing activity; and will be able provide evidence to justify their evaluation. The course is assessed by portfolio demonstrating the achievement of the learning outcomes. This course is based on the IEEE Software Engineering 2004 Software Testing syllabus.<h2>content</h2>
+Edinburgh_Scotland,cxinfr10057,"<h2>Edinburgh_Scotland cxinfr10057</h2><h2>title</h2>Undergraduate Course: Software Testing (INFR10057)<h2>summary</h2>This course further develops the introduction to testing in Informatics 2 - Software Engineering and Professional Practice. The course develops skills to select and apply a testing strategy and testing techniques that are appropriate to a particular development process, software system, or component. Class members will become capable users of test tools; will be able to assess the effectiveness of their testing activity; and will be able provide evidence to justify their evaluation. The course is assessed by portfolio demonstrating the achievement of the learning outcomes. This course is based on the IEEE Software Engineering 2004 Software Testing syllabus.<h2>content</h2>
     
     Software testing is embedded in all software development processes and in recent years with the widespread adoption of DevOps and Continuous Integration, Delivery and Deployment, testing tools, automated testing, and the use of operational data in testing have become increasingly important.  <br>
 <br>
@@ -278,7 +278,7 @@ Each week there will be a group meeting, around 1-2 hours of recorded material c
     
     
 ",
-Edinburgh_Scotland,cxinfr10059,"<h2>title</h2>Undergraduate Course: Introduction to Theoretical Computer Science (INFR10059)<h2>summary</h2>This course introduces the fundamental concepts of the theory of computer science, which include some of the greatest intellectual advances of the last century: what does `computing' mean? Are all `computers' basically the same? Can we tell whether our programs are `correct' - and what does `correct' mean, anyway? Can we solve problems in reasonable time, and can we tell whether we can?<br>
+Edinburgh_Scotland,cxinfr10059,"<h2>Edinburgh_Scotland cxinfr10059</h2><h2>title</h2>Undergraduate Course: Introduction to Theoretical Computer Science (INFR10059)<h2>summary</h2>This course introduces the fundamental concepts of the theory of computer science, which include some of the greatest intellectual advances of the last century: what does `computing' mean? Are all `computers' basically the same? Can we tell whether our programs are `correct' - and what does `correct' mean, anyway? Can we solve problems in reasonable time, and can we tell whether we can?<br>
 The course concentrates primarily on conceptual understanding, but adds enough detail to allow students to go on to further courses, and illustrates how the fundamental concepts are reflected throughout the discipline.<br>
 <br>
 <h2>content</h2>
@@ -305,7 +305,7 @@ The third section takes brief look at a different way of seeing computation. Has
     
     
 ",
-Edinburgh_Scotland,cxinfr10061,"<h2>title</h2>Undergraduate Course: Elements of Programming Languages (INFR10061)<h2>summary</h2>Programming languages are unique forms of communication that play a dual role: not only as ways for programmers to instruct machines, but as ways for programmers to talk to each other about computation. Paradoxically, they are among the most permanent features of the computing landscape (Fortran, for example, is still widely used 60 years since its invention), and among the most energetic and innovative, with new programming languages introduced every few months, often aiming to simplify Web programming, parallel, or distributed computing.<br>
+Edinburgh_Scotland,cxinfr10061,"<h2>Edinburgh_Scotland cxinfr10061</h2><h2>title</h2>Undergraduate Course: Elements of Programming Languages (INFR10061)<h2>summary</h2>Programming languages are unique forms of communication that play a dual role: not only as ways for programmers to instruct machines, but as ways for programmers to talk to each other about computation. Paradoxically, they are among the most permanent features of the computing landscape (Fortran, for example, is still widely used 60 years since its invention), and among the most energetic and innovative, with new programming languages introduced every few months, often aiming to simplify Web programming, parallel, or distributed computing.<br>
 <br>
 Although few computer scientists will ever design a new, general-purpose language like Java or C++, all computer scientists need the ability to learn new languages quickly, recognise and use (or avoid misusing) common language features, and even design new domain-specific languages for restricted problem domains. The design of programming languages involves many subtle choices and tradeoffs among performance, convenience, and elegance. <br>
 <br>
@@ -348,7 +348,7 @@ This course covers the essential programming structures for managing data and co
     
     
 ",
-Edinburgh_Scotland,cxinfr10064,"<h2>title</h2>Undergraduate Course: Software Design and Modelling (INFR10064)<h2>summary</h2>This course introduces the design and modelling of software systems using object-oriented techniques. We start by exploring the use of modelling in software development. Students learn to document designs in the Unified Modeling Language, UML, with emphasis on class, sequence and state diagrams and the Object Constraint Language, OCL. We use modern model-driven development tools and discuss their strengths and weaknesses. We study criteria that make one design better than another in context and introduce design principles and patterns that capture good practice.<h2>content</h2>
+Edinburgh_Scotland,cxinfr10064,"<h2>Edinburgh_Scotland cxinfr10064</h2><h2>title</h2>Undergraduate Course: Software Design and Modelling (INFR10064)<h2>summary</h2>This course introduces the design and modelling of software systems using object-oriented techniques. We start by exploring the use of modelling in software development. Students learn to document designs in the Unified Modeling Language, UML, with emphasis on class, sequence and state diagrams and the Object Constraint Language, OCL. We use modern model-driven development tools and discuss their strengths and weaknesses. We study criteria that make one design better than another in context and introduce design principles and patterns that capture good practice.<h2>content</h2>
     
     The course begins by placing design and modelling in the context of the various software engineering processes in widespread use today. Via labs, lectures and self-study using readings, videos and formative exercises, it teaches students to produce (initially straightforward) designs and to document them using UML models, both on paper and with an appropriate tool. We discuss the different affordances of these modes and how models may be used (i) purely informally, (ii) as reviewed documentation for designs, and/or (iii) in model-driven development in which models are formal artefacts and code may be generated from them.<br>
 <br>
@@ -367,7 +367,7 @@ Finally we turn to practical model-driven development: how can the cost-benefit 
     
     
 ",
-Edinburgh_Scotland,cxinfr10065,"<h2>title</h2>Undergraduate Course: Compiling Techniques (INFR10065)<h2>summary</h2>This course describes the phases of a modern programming language compiler with an emphasis on widely-used techniques. The course project will require students to implement a complete compiler from scratch for a simple programming language, targeting a real machine assembly such as RISC-V. <br>
+Edinburgh_Scotland,cxinfr10065,"<h2>Edinburgh_Scotland cxinfr10065</h2><h2>title</h2>Undergraduate Course: Compiling Techniques (INFR10065)<h2>summary</h2>This course describes the phases of a modern programming language compiler with an emphasis on widely-used techniques. The course project will require students to implement a complete compiler from scratch for a simple programming language, targeting a real machine assembly such as RISC-V. <br>
 <br>
 Students will also learn about implementing a compiler pass in a real compiler framework.<h2>content</h2>
     
@@ -406,7 +406,7 @@ Students will also learn about implementing a compiler pass in a real compiler f
     
     
 ",
-Edinburgh_Scotland,cxinfr10074,"<h2>title</h2>Undergraduate Course: Computer Communications and Networks (INFR10074)<h2>summary</h2>This is a comprehensive first course in Computer Communications and Networks, focusing on fundamental concepts, principles and techniques. The course will introduce basic networking concepts, including: protocol, network architecture, reference models, layering, service, interface, multiplexing, switching and standards. An overview of digital communication from the perspective of computer networking will also be provided. <br>
+Edinburgh_Scotland,cxinfr10074,"<h2>Edinburgh_Scotland cxinfr10074</h2><h2>title</h2>Undergraduate Course: Computer Communications and Networks (INFR10074)<h2>summary</h2>This is a comprehensive first course in Computer Communications and Networks, focusing on fundamental concepts, principles and techniques. The course will introduce basic networking concepts, including: protocol, network architecture, reference models, layering, service, interface, multiplexing, switching and standards. An overview of digital communication from the perspective of computer networking will also be provided. <br>
 <br>
 Topics covered in this course include: Internet (TCP/IP) architecture and protocols, network applications, congestion/flow/error control, routing and internetworking, data link protocols, error detection and correction, channel allocation and multiple access protocols, communication media and selected topics in wireless and data centre networks. It will cover recent advances in network control and management architectures by introducing the concepts of software-defined networking (SDN) and network (function) virtualisation. <br>
 <br>
@@ -449,7 +449,7 @@ Students taking this course will gain hands-on experience in network programming
     
     
 ",
-Edinburgh_Scotland,cxinfr10076,"<h2>title</h2>Undergraduate Course: Computer Architecture and Design (INFR10076)<h2>summary</h2>In this course you will learn how to design a computer and understand the performance characteristics of computers. You will first acquire a working knowledge of digital design, through the Verilog Hardware Description Language, along with a good theoretical grounding in the design of the key components of a microprocessor. You will have an opportunity to learn, both theoretically and practically, how the Quantitative Approach to computer architecture enables computer architects to analyse and optimize microprocessors to maximize performance. Along the way you will design real hardware, and later in the course you will apply your recently-acquired knowledge of quantitative computer architecture to analyse a simulated system and optimize its performance.<h2>content</h2>
+Edinburgh_Scotland,cxinfr10076,"<h2>Edinburgh_Scotland cxinfr10076</h2><h2>title</h2>Undergraduate Course: Computer Architecture and Design (INFR10076)<h2>summary</h2>In this course you will learn how to design a computer and understand the performance characteristics of computers. You will first acquire a working knowledge of digital design, through the Verilog Hardware Description Language, along with a good theoretical grounding in the design of the key components of a microprocessor. You will have an opportunity to learn, both theoretically and practically, how the Quantitative Approach to computer architecture enables computer architects to analyse and optimize microprocessors to maximize performance. Along the way you will design real hardware, and later in the course you will apply your recently-acquired knowledge of quantitative computer architecture to analyse a simulated system and optimize its performance.<h2>content</h2>
     
     This new course presents a logical re-factoring of a sub-set of the material previously contained in the UG3 Computer Architecture and Computer Design courses. The aim of this course is to give students a comparatively deep understanding of computer architecture, to an intermediate level, together with a solid understanding of techniques used to design the logical building blocks from which a computer is constructed. We consider an intermediate level in computer architecture to extend up to the point where students have a good understanding of instruction set architecture, single-issue in-order pipelined execution of instructions, superscalar out-of-order execution, and the memory hierarchies required by those processors. Within a processor, we explore the principles and practice of arithmetic and logic unit design, of the caches from which memory hierarchies are constructed, and the memory and logic gate technologies from which computers are constructed. Throughout the course, there is a strong emphasis on the Quantitative Approach to computer architecture; this informs not only the theoretical topics but also the practical assignments, which always embody some element of the quantitative approach.<br>
 <br>
@@ -514,7 +514,7 @@ Error detection and correction schemes; parity, Hamming codes, SECDED.<br>
     
     
 ",
-Edinburgh_Scotland,cxinfr10079,"<h2>title</h2>Undergraduate Course: Operating Systems (INFR10079)<h2>summary</h2>This course provides an introduction to the design and implementation of modern general-purpose operating systems. It concentrates on the operating system kernel with the emphasis being on concepts that lead to practical implementations. Throughout the course reference is made to a number of widely-adopted general-purpose operating systems (including Linux, Windows, and OS X) to illustrate real implementations. An educational operating system is used for the coursework.<br>
+Edinburgh_Scotland,cxinfr10079,"<h2>Edinburgh_Scotland cxinfr10079</h2><h2>title</h2>Undergraduate Course: Operating Systems (INFR10079)<h2>summary</h2>This course provides an introduction to the design and implementation of modern general-purpose operating systems. It concentrates on the operating system kernel with the emphasis being on concepts that lead to practical implementations. Throughout the course reference is made to a number of widely-adopted general-purpose operating systems (including Linux, Windows, and OS X) to illustrate real implementations. An educational operating system is used for the coursework.<br>
 <br>
 This course is a required pre-requisite for the optional fourth-year course Internet of Things: Systems, Security, and the Cloud.<br>
 <br>
@@ -603,7 +603,7 @@ Relevant QAA Computing Curriculum Sections: Operating Systems<br>
     
     
 ",
-Edinburgh_Scotland,cxinfr10080,"<h2>title</h2>Undergraduate Course: Introduction to Databases (INFR10080)<h2>summary</h2>Data is one of the most important assets of any enterprise and plays a central role in many aspects of everyday life, from healthcare, to education, to commerce. In order to be turned into meaningful information that enables and supports decision making, data must be stored, maintained, processed and analysed. Database management systems are complex software programs that allow their users to perform these tasks in an efficient and reliable way. This course is an introduction to the principles underlying the design and implementation of relational databases and database management systems.<br>
+Edinburgh_Scotland,cxinfr10080,"<h2>Edinburgh_Scotland cxinfr10080</h2><h2>title</h2>Undergraduate Course: Introduction to Databases (INFR10080)<h2>summary</h2>Data is one of the most important assets of any enterprise and plays a central role in many aspects of everyday life, from healthcare, to education, to commerce. In order to be turned into meaningful information that enables and supports decision making, data must be stored, maintained, processed and analysed. Database management systems are complex software programs that allow their users to perform these tasks in an efficient and reliable way. This course is an introduction to the principles underlying the design and implementation of relational databases and database management systems.<br>
 <br>
 * This course replaces ""Database Systems"" (INFR10070) from academic year 2020/21. *<h2>content</h2>
     
@@ -648,7 +648,7 @@ Syllabus (advanced topics, if time allows)<br>
     
     
 ",
-Edinburgh_Scotland,cxinfr10085,"<h2>title</h2>Undergraduate Course: Introduction to Mobile Robotics (INFR10085)<h2>summary</h2>A mobile robot is a machine controlled by software that uses sensors and other technology to identify its surroundings and move around its environment. This course provides a general understanding of mobile robotics and related concepts, covering topics such as sensing, computer vision (i.e., visual perception), state estimation (e.g., localisation and mapping) and motion planning. The emphasis is on algorithms, probabilistic reasoning, optimization, inference mechanisms, and behavior strategies, as opposed to electromechanical systems design. Practically useful tools and simulators for developing real robotic systems will also be covered in this course. More course information can be found on its corresponding LEARN page here: https://www.learn.ed.ac.uk/ultra/courses/_99697_1/cl/outline<br>
+Edinburgh_Scotland,cxinfr10085,"<h2>Edinburgh_Scotland cxinfr10085</h2><h2>title</h2>Undergraduate Course: Introduction to Mobile Robotics (INFR10085)<h2>summary</h2>A mobile robot is a machine controlled by software that uses sensors and other technology to identify its surroundings and move around its environment. This course provides a general understanding of mobile robotics and related concepts, covering topics such as sensing, computer vision (i.e., visual perception), state estimation (e.g., localisation and mapping) and motion planning. The emphasis is on algorithms, probabilistic reasoning, optimization, inference mechanisms, and behavior strategies, as opposed to electromechanical systems design. Practically useful tools and simulators for developing real robotic systems will also be covered in this course. More course information can be found on its corresponding LEARN page here: https://www.learn.ed.ac.uk/ultra/courses/_99697_1/cl/outline<br>
 <br>
 At the end of the course, students will develop sufficient skills in the analysis of predominant mobile robots, being able to understand the visual perception and navigation system for a self-driving car.<h2>content</h2>
     
@@ -701,7 +701,7 @@ but will include many of the following topics:<br>
     
     
 ",
-Edinburgh_Scotland,cxinfr10086,"<h2>title</h2>Undergraduate Course: Machine Learning (INFR10086)<h2>summary</h2>***This course is a replacement for Introductory Applied Machine Learning (INFR10069)***<br>
+Edinburgh_Scotland,cxinfr10086,"<h2>Edinburgh_Scotland cxinfr10086</h2><h2>title</h2>Undergraduate Course: Machine Learning (INFR10086)<h2>summary</h2>***This course is a replacement for Introductory Applied Machine Learning (INFR10069)***<br>
 <br>
 Since the early days of AI, researchers have been interested in making computers learn, rather than simply programming them to do tasks. This is the field of machine learning.  The main area that will be discussed is supervised learning, which is concerned with learning to predict an output, given in-puts. A second area of study is unsupervised learning, where we wish to discover the structure in a set of patterns, i.e. there is no output ""teacher signal"".<br>
 <br>
@@ -744,7 +744,7 @@ To support these topics we will also cover: <br>
     
     
 ",
-Edinburgh_Scotland,cxinfr10054,"<h2>title</h2>Undergraduate Course: Computational Cognitive Science (INFR10054)<h2>summary</h2>This course aims to introduce students to the basic concepts and methodology needed to implement and analyse computational models of cognition. It considers the fundamental issues of using a computational approach to explore and model cognition. In particular, we explore the way that computational models relate to, are tested against, and illuminate psychological theories and data.<br>
+Edinburgh_Scotland,cxinfr10054,"<h2>Edinburgh_Scotland cxinfr10054</h2><h2>title</h2>Undergraduate Course: Computational Cognitive Science (INFR10054)<h2>summary</h2>This course aims to introduce students to the basic concepts and methodology needed to implement and analyse computational models of cognition. It considers the fundamental issues of using a computational approach to explore and model cognition. In particular, we explore the way that computational models relate to, are tested against, and illuminate psychological theories and data.<br>
 <br>
 The course will introduce both symbolic and subsymbolic modelling methodologies, and provide practical experience with implementing models. The symbolic part will focus on cognitive architectures,while the subsymbolic part will introduce probabilistic models.<h2>content</h2>
     
@@ -787,7 +787,7 @@ The course will introduce both symbolic and subsymbolic modelling methodologies,
     
     
 ",
-Edinburgh_Scotland,cxinfr10078,"<h2>title</h2>Undergraduate Course: Foundations of Natural Language Processing (INFR10078)<h2>summary</h2>***This course replaces Foundations of Natural Language Processing (INFR09028).***<br>
+Edinburgh_Scotland,cxinfr10078,"<h2>Edinburgh_Scotland cxinfr10078</h2><h2>title</h2>Undergraduate Course: Foundations of Natural Language Processing (INFR10078)<h2>summary</h2>***This course replaces Foundations of Natural Language Processing (INFR09028).***<br>
 <br>
 This course covers some of the linguistic and algorithmic foundations of natural language processing (NLP). It builds on algorithmic and data science concepts developed in second year courses, applying these to NLP problems.  It also equips students for more advanced NLP courses in year 4. The course is strongly empirical, using corpus data to illustrate both core linguistic concepts and algorithms, including language modeling, part of speech tagging, syntactic processing, the syntax-semantics interface, and aspects of semantic and pragmatic processing. The theoretical study of linguistic concepts and the application of algorithms to corpora in the empirical analysis of those concepts will be interleaved throughout the course.<br>
 <h2>content</h2>
@@ -874,7 +874,7 @@ This course covers some of the linguistic and algorithmic foundations of natural
     
     
 ",
-Edinburgh_Scotland,cxinfr10087,"<h2>title</h2>Undergraduate Course: Automated Reasoning (INFR10087)<h2>summary</h2>**This course replaces the Level 9 Automated Reasoning INFR09042 10 credit course from 2022-23**<br>
+Edinburgh_Scotland,cxinfr10087,"<h2>Edinburgh_Scotland cxinfr10087</h2><h2>title</h2>Undergraduate Course: Automated Reasoning (INFR10087)<h2>summary</h2>**This course replaces the Level 9 Automated Reasoning INFR09042 10 credit course from 2022-23**<br>
 <br>
 Automated Reasoning covers the theory, implementation and applications of logic-based reasoning via computers. It is one of the oldest subfields of Artificial Intelligence, originating in the mid-1950s when it was first used to reason about propositional logic. Since then, it has been applied to domains ranging from the formalisation of advanced mathematics to the formal verification of software and hardware systems.<br>
 <br>
@@ -917,7 +917,7 @@ The assignment will be a combination of basic to intermediate representation and
     
     
 ",
-Edinburgh_Scotland,cxinfr11017,"<h2>title</h2>Postgraduate Course: Human-Computer Interaction (Level 11) (INFR11017)<h2>summary</h2>The design and implementation of efficient, effective and user friendly computer systems, including software objects and physical internet-enabled things, depends upon understanding both the technology and its users. Only then can designers be confident that these information appliances will be properly matched to the skills, knowledge and needs of their users. The study of Human-Computer Interaction (HCI) seeks to combine perspectives and methods of enquiry drawn from disciplines such as Interaction Design, Psychology and Sociology with the tools, techniques and technologies of Computer Science to create an approach to design which is both relevant and practical.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11017,"<h2>Edinburgh_Scotland cxinfr11017</h2><h2>title</h2>Postgraduate Course: Human-Computer Interaction (Level 11) (INFR11017)<h2>summary</h2>The design and implementation of efficient, effective and user friendly computer systems, including software objects and physical internet-enabled things, depends upon understanding both the technology and its users. Only then can designers be confident that these information appliances will be properly matched to the skills, knowledge and needs of their users. The study of Human-Computer Interaction (HCI) seeks to combine perspectives and methods of enquiry drawn from disciplines such as Interaction Design, Psychology and Sociology with the tools, techniques and technologies of Computer Science to create an approach to design which is both relevant and practical.<h2>content</h2>
     
     * Background -- the development and scope of HCI. Practical goals. <br>
 * HCI relevant issues in human perception, memory and thinking processes. <br>
@@ -946,7 +946,7 @@ Relevant QAA Computing Curriculum Sections: Human-Computer Interaction (HCI), In
     
     
 ",
-Edinburgh_Scotland,cxinfr11088,"<h2>title</h2>Postgraduate Course: Extreme Computing (INFR11088)<h2>summary</h2>Extreme Computing deals with the principles, systems and algorithms behind Web-scale problem solving. This touches upon the technologies and techniques used by companies such as Google, Facebook, Amazon, and Microsoft, using warehouse-scale computing and massive datasets. The course will be in three parts: the principles behind extreme computing (cloud computing, scaling, performance, etc.), supporting infrastructure (distributed file systems, replication, Web services etc.) and algorithms (Map/Reduce, case studies from Natural Language Processing, data processing, machine learning, data streaming).<h2>content</h2>
+Edinburgh_Scotland,cxinfr11088,"<h2>Edinburgh_Scotland cxinfr11088</h2><h2>title</h2>Postgraduate Course: Extreme Computing (INFR11088)<h2>summary</h2>Extreme Computing deals with the principles, systems and algorithms behind Web-scale problem solving. This touches upon the technologies and techniques used by companies such as Google, Facebook, Amazon, and Microsoft, using warehouse-scale computing and massive datasets. The course will be in three parts: the principles behind extreme computing (cloud computing, scaling, performance, etc.), supporting infrastructure (distributed file systems, replication, Web services etc.) and algorithms (Map/Reduce, case studies from Natural Language Processing, data processing, machine learning, data streaming).<h2>content</h2>
     
     The course is to be conceptually split into three main areas, with each area not necessarily accounting for an equal portion of the syllabus. The three areas and the material covered in each area are as follows:<br>
  <br>
@@ -973,7 +973,7 @@ The course will also deal with the legal, social, ethical, and professional issu
     
     
 ",
-Edinburgh_Scotland,cxinfr11098,"<h2>title</h2>Postgraduate Course: Secure Programming (INFR11098)<h2>summary</h2>This course studies the principles and practices of secure programming. Secure programming means writing programs in a safe fashion, to avoid vulnerabilities that can be exploited by attackers. It also means using security features provided by libraries, such as authentication and encryption, appropriately and effectively. A range of programming platforms will be considered, ranging from low-level (e.g. Android OS), through web programming (e.g., JavaScript and Python) to high-level large-scale languages (e.g., Java). New and emerging language-based security mechanisms will be examined, including ways of specifying and enforcing security policies statically and dynamically (e.g., to enforce access controls or information flow policies).<h2>content</h2>
+Edinburgh_Scotland,cxinfr11098,"<h2>Edinburgh_Scotland cxinfr11098</h2><h2>title</h2>Postgraduate Course: Secure Programming (INFR11098)<h2>summary</h2>This course studies the principles and practices of secure programming. Secure programming means writing programs in a safe fashion, to avoid vulnerabilities that can be exploited by attackers. It also means using security features provided by libraries, such as authentication and encryption, appropriately and effectively. A range of programming platforms will be considered, ranging from low-level (e.g. Android OS), through web programming (e.g., JavaScript and Python) to high-level large-scale languages (e.g., Java). New and emerging language-based security mechanisms will be examined, including ways of specifying and enforcing security policies statically and dynamically (e.g., to enforce access controls or information flow policies).<h2>content</h2>
     
     - Security maintainance of deployed software systems, including ""penetrate-and-patch"", vulnerability enumeration (CVE IDs) and classification (CWE taxonomy).<br>
 - Secure programming techniques and common pitfalls, covering input validation, output filtering, use of cryptography and authentication. Standards such as the OWASP guidelines and the CERT Secure Coding Standards.<br>
@@ -1002,7 +1002,7 @@ Edinburgh_Scotland,cxinfr11098,"<h2>title</h2>Postgraduate Course: Secure Progra
     
     
 ",
-Edinburgh_Scotland,cxinfr11114,"<h2>title</h2>Undergraduate Course: Types and Semantics for Programming Languages (INFR11114)<h2>summary</h2>Type systems and semantics are mathematical tools for precisely describing aspects of programming language. A type system imposes constraints on programs in order to guarantee their safe execution, whilst a semantics specifies what a program will do when executed. This course gives an introduction to the main ideas and methods of type systems and semantics. This enables a deeper understanding of existing programming languages, as well as the ability to design and specify new language features.  The course also introduces relevant parts of logic and discrete mathematics used to describe types and semantics.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11114,"<h2>Edinburgh_Scotland cxinfr11114</h2><h2>title</h2>Undergraduate Course: Types and Semantics for Programming Languages (INFR11114)<h2>summary</h2>Type systems and semantics are mathematical tools for precisely describing aspects of programming language. A type system imposes constraints on programs in order to guarantee their safe execution, whilst a semantics specifies what a program will do when executed. This course gives an introduction to the main ideas and methods of type systems and semantics. This enables a deeper understanding of existing programming languages, as well as the ability to design and specify new language features.  The course also introduces relevant parts of logic and discrete mathematics used to describe types and semantics.<h2>content</h2>
     
     -	Inductive definitions and proof by induction<br>
 -	Products, sums, unit, empty, and implication.<br>
@@ -1037,7 +1037,7 @@ Relevant QAA Computing Curriculum Sections: Comparative Programming Languages, C
     
     
 ",
-Edinburgh_Scotland,cxinfr11130,"<h2>title</h2>Undergraduate Course: Machine Learning and Pattern Recognition (INFR11130)<h2>summary</h2>Machine learning is a field devoted to developing algorithms that adapt their behaviour to data, providing useful representations of the data and/or predictions. This course covers some fundamental theoretical concepts in machine learning, and common patterns for implementing methods in practice. The intended audience are those wanting the background required to begin research and development of machine learning methods.<br>
+Edinburgh_Scotland,cxinfr11130,"<h2>Edinburgh_Scotland cxinfr11130</h2><h2>title</h2>Undergraduate Course: Machine Learning and Pattern Recognition (INFR11130)<h2>summary</h2>Machine learning is a field devoted to developing algorithms that adapt their behaviour to data, providing useful representations of the data and/or predictions. This course covers some fundamental theoretical concepts in machine learning, and common patterns for implementing methods in practice. The intended audience are those wanting the background required to begin research and development of machine learning methods.<br>
 <br>
 This is an advanced course. Students should not choose this class without the required background (see ""Other Requirements"" box); students without this background are strongly advised to take a more practical-based course, such as Applied Machine Learning (INFR11211).<h2>content</h2>
     
@@ -1090,7 +1090,7 @@ To support these topics we will also cover:<br>
     
     
 ",
-Edinburgh_Scotland,cxinfr11161,"<h2>title</h2>Undergraduate Course: Natural Computing (INFR11161)<h2>summary</h2>This module teaches you about bio-inspired algorithms for optimisation and search problems. The algorithms are based on simulated evolution (including Genetic algorithms and Genetic programming), particle swarm optimisation, ant colony optimisation as well as systems made of membranes or biochemical reactions among molecules. These techniques are useful for searching very large spaces. For example, they can be used to search large parameter spaces in engineering design and spaces of possible schedules in scheduling. However, they can also be used to search for rules and rule sets, for data mining, for good feed-forward or recurrent neural nets and so on. The idea of evolving, rather than designing, algorithms and controllers is especially appealing in AI. In a similar way it is tempting to use the intrinsic dynamics of real systems consisting e.g. of quadrillions of molecules to perform computations for us. The course includes technical discussions about the applicability and a number of practical applications of the algorithms.<br>
+Edinburgh_Scotland,cxinfr11161,"<h2>Edinburgh_Scotland cxinfr11161</h2><h2>title</h2>Undergraduate Course: Natural Computing (INFR11161)<h2>summary</h2>This module teaches you about bio-inspired algorithms for optimisation and search problems. The algorithms are based on simulated evolution (including Genetic algorithms and Genetic programming), particle swarm optimisation, ant colony optimisation as well as systems made of membranes or biochemical reactions among molecules. These techniques are useful for searching very large spaces. For example, they can be used to search large parameter spaces in engineering design and spaces of possible schedules in scheduling. However, they can also be used to search for rules and rule sets, for data mining, for good feed-forward or recurrent neural nets and so on. The idea of evolving, rather than designing, algorithms and controllers is especially appealing in AI. In a similar way it is tempting to use the intrinsic dynamics of real systems consisting e.g. of quadrillions of molecules to perform computations for us. The course includes technical discussions about the applicability and a number of practical applications of the algorithms.<br>
 <br>
 In this module, students will learn about<br>
 <br>
@@ -1151,7 +1151,7 @@ Relevant QAA Computing Curriculum Sections: Artificial Intelligence, Data Struct
     
     
 ",
-Edinburgh_Scotland,cxinfr11201,"<h2>title</h2>Undergraduate Course: Randomized Algorithms (INFR11201)<h2>summary</h2>This course is about randomness as a resource in algorithms and computation. The course introduces basic mathematical models and techniques and applies them to the design and analysis of various randomized algorithms. We will also cover a variety of applications of probabilistic ideas and randomization in several areas of computer science.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11201,"<h2>Edinburgh_Scotland cxinfr11201</h2><h2>title</h2>Undergraduate Course: Randomized Algorithms (INFR11201)<h2>summary</h2>This course is about randomness as a resource in algorithms and computation. The course introduces basic mathematical models and techniques and applies them to the design and analysis of various randomized algorithms. We will also cover a variety of applications of probabilistic ideas and randomization in several areas of computer science.<h2>content</h2>
     
     1) Introduction, review of discrete probability, and elementary examples including randomized algorithms for checking identities, matrix multiplication verification, minimum cut in graphs.<br>
 <br>
@@ -1186,7 +1186,7 @@ Edinburgh_Scotland,cxinfr11201,"<h2>title</h2>Undergraduate Course: Randomized A
     
     
 ",
-Edinburgh_Scotland,cxinfr11213,"<h2>title</h2>Postgraduate Course: Advanced Robotics (INFR11213)<h2>summary</h2>***This course replaces Robotics: Science and Systems (INFR11092)***<br>
+Edinburgh_Scotland,cxinfr11213,"<h2>Edinburgh_Scotland cxinfr11213</h2><h2>title</h2>Postgraduate Course: Advanced Robotics (INFR11213)<h2>summary</h2>***This course replaces Robotics: Science and Systems (INFR11092)***<br>
 <br>
 Robotics is about turning high level goals into plans for action, i.e. robots sense the environment and produce physical motions and interactions with the environment to achieve a goal. In this course, stu-dents will learn the major algorithmic techniques and practical skills in robotics that can be applied and transferred to many real-world applications, such as manipulation of surgical robotics and robot as-sembly in automobile and manufacturing. <br>
 <br>
@@ -1219,7 +1219,7 @@ Lectures on these topics will be complemented by labs that exercise knowledge of
     
     
 ",
-Edinburgh_Scotland,cxinfr11217,"<h2>title</h2>Undergraduate Course: Advanced Database Systems (UG) (INFR11217)<h2>summary</h2>This course follows the delivery and assessment of Advanced Database Systems (INFR11199) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11199 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11217,"<h2>Edinburgh_Scotland cxinfr11217</h2><h2>title</h2>Undergraduate Course: Advanced Database Systems (UG) (INFR11217)<h2>summary</h2>This course follows the delivery and assessment of Advanced Database Systems (INFR11199) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11199 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Advanced Database Systems (INFR11199) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11199 instead.
     
@@ -1230,7 +1230,7 @@ Edinburgh_Scotland,cxinfr11217,"<h2>title</h2>Undergraduate Course: Advanced Dat
     
     
 ",
-Edinburgh_Scotland,cxinfr11218,"<h2>title</h2>Undergraduate Course: Algorithmic Game Theory and its Applications (UG) (INFR11218)<h2>summary</h2>This course follows the delivery and assessment of Algorithmic Game Theory and its Applications (INFR11020) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11020 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11218,"<h2>Edinburgh_Scotland cxinfr11218</h2><h2>title</h2>Undergraduate Course: Algorithmic Game Theory and its Applications (UG) (INFR11218)<h2>summary</h2>This course follows the delivery and assessment of Algorithmic Game Theory and its Applications (INFR11020) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11020 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Algorithmic Game Theory and its Applications (INFR11020) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11020 instead.
     
@@ -1241,7 +1241,7 @@ Edinburgh_Scotland,cxinfr11218,"<h2>title</h2>Undergraduate Course: Algorithmic 
     
     
 ",
-Edinburgh_Scotland,cxinfr11220,"<h2>title</h2>Undergraduate Course: Computer Graphics (Level 11) (UG) (INFR11220)<h2>summary</h2>This course follows the delivery and assessment of Computer Graphics (Level 11) (INFR11021) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11021 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11220,"<h2>Edinburgh_Scotland cxinfr11220</h2><h2>title</h2>Undergraduate Course: Computer Graphics (Level 11) (UG) (INFR11220)<h2>summary</h2>This course follows the delivery and assessment of Computer Graphics (Level 11) (INFR11021) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11021 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Computer Graphics (Level 11) (INFR11021) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11021 instead.
     
@@ -1252,7 +1252,7 @@ Edinburgh_Scotland,cxinfr11220,"<h2>title</h2>Undergraduate Course: Computer Gra
     
     
 ",
-Edinburgh_Scotland,cxinfr11221,"<h2>title</h2>Undergraduate Course: Introduction to Modern Cryptography (UG) (INFR11221)<h2>summary</h2>This course follows the delivery and assessment of Introduction to Modern Cryptography (INFR11131) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11131 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11221,"<h2>Edinburgh_Scotland cxinfr11221</h2><h2>title</h2>Undergraduate Course: Introduction to Modern Cryptography (UG) (INFR11221)<h2>summary</h2>This course follows the delivery and assessment of Introduction to Modern Cryptography (INFR11131) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11131 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Introduction to Modern Cryptography (INFR11131) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11131 instead.
     
@@ -1263,7 +1263,7 @@ Edinburgh_Scotland,cxinfr11221,"<h2>title</h2>Undergraduate Course: Introduction
     
     
 ",
-Edinburgh_Scotland,cxinfr11222,"<h2>title</h2>Undergraduate Course: Introduction to Quantum Computing (UG) (INFR11222)<h2>summary</h2>This course follows the delivery and assessment of Introduction to Quantum Computing (INFR11099) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11099 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11222,"<h2>Edinburgh_Scotland cxinfr11222</h2><h2>title</h2>Undergraduate Course: Introduction to Quantum Computing (UG) (INFR11222)<h2>summary</h2>This course follows the delivery and assessment of Introduction to Quantum Computing (INFR11099) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11099 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Introduction to Quantum Computing (INFR11099) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11099 instead.
     
@@ -1274,7 +1274,7 @@ Edinburgh_Scotland,cxinfr11222,"<h2>title</h2>Undergraduate Course: Introduction
     
     
 ",
-Edinburgh_Scotland,cxinfr11223,"<h2>title</h2>Undergraduate Course: Machine Learning Practical (UG) (INFR11223)<h2>summary</h2>This course follows the delivery and assessment of Machine Learning Practical (INFR11132) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11132 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11223,"<h2>Edinburgh_Scotland cxinfr11223</h2><h2>title</h2>Undergraduate Course: Machine Learning Practical (UG) (INFR11223)<h2>summary</h2>This course follows the delivery and assessment of Machine Learning Practical (INFR11132) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11132 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Machine Learning Practical (INFR11132) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11132 instead.
     
@@ -1285,7 +1285,7 @@ Edinburgh_Scotland,cxinfr11223,"<h2>title</h2>Undergraduate Course: Machine Lear
     
     
 ",
-Edinburgh_Scotland,cxinfr11224,"<h2>title</h2>Undergraduate Course: Machine Learning Theory (UG) (INFR11224)<h2>summary</h2>This course follows the delivery and assessment of Machine Learning Theory (INFR11202) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11202 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11224,"<h2>Edinburgh_Scotland cxinfr11224</h2><h2>title</h2>Undergraduate Course: Machine Learning Theory (UG) (INFR11224)<h2>summary</h2>This course follows the delivery and assessment of Machine Learning Theory (INFR11202) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11202 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Machine Learning Theory (INFR11202) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11202 instead.
     
@@ -1296,7 +1296,7 @@ Edinburgh_Scotland,cxinfr11224,"<h2>title</h2>Undergraduate Course: Machine Lear
     
     
 ",
-Edinburgh_Scotland,cxinfr11226,"<h2>title</h2>Undergraduate Course: Parallel Programming Languages and Systems (Level 11) (UG) (INFR11226)<h2>summary</h2>This course follows the delivery and assessment of Parallel Programming Languages and Systems (Level 11) (INFR11023) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11023 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11226,"<h2>Edinburgh_Scotland cxinfr11226</h2><h2>title</h2>Undergraduate Course: Parallel Programming Languages and Systems (Level 11) (UG) (INFR11226)<h2>summary</h2>This course follows the delivery and assessment of Parallel Programming Languages and Systems (Level 11) (INFR11023) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11023 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Parallel Programming Languages and Systems (Level 11) (INFR11023) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11023 instead.
     
@@ -1307,7 +1307,7 @@ Edinburgh_Scotland,cxinfr11226,"<h2>title</h2>Undergraduate Course: Parallel Pro
     
     
 ",
-Edinburgh_Scotland,cxinfr11227,"<h2>title</h2>Undergraduate Course: Quantum Cyber Security (UG) (INFR11227)<h2>summary</h2>This course follows the delivery and assessment of Quantum Cyber Security (INFR11187) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11187 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11227,"<h2>Edinburgh_Scotland cxinfr11227</h2><h2>title</h2>Undergraduate Course: Quantum Cyber Security (UG) (INFR11227)<h2>summary</h2>This course follows the delivery and assessment of Quantum Cyber Security (INFR11187) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11187 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Quantum Cyber Security (INFR11187) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11187 instead.
     
@@ -1318,7 +1318,7 @@ Edinburgh_Scotland,cxinfr11227,"<h2>title</h2>Undergraduate Course: Quantum Cybe
     
     
 ",
-Edinburgh_Scotland,cxinfr11228,"<h2>title</h2>Undergraduate Course: Security Engineering (UG) (INFR11228)<h2>summary</h2>This course follows the delivery and assessment of Security Engineering (INFR11208) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11208 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11228,"<h2>Edinburgh_Scotland cxinfr11228</h2><h2>title</h2>Undergraduate Course: Security Engineering (UG) (INFR11228)<h2>summary</h2>This course follows the delivery and assessment of Security Engineering (INFR11208) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11208 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Security Engineering (INFR11208) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11208 instead.
     
@@ -1329,7 +1329,7 @@ Edinburgh_Scotland,cxinfr11228,"<h2>title</h2>Undergraduate Course: Security Eng
     
     
 ",
-Edinburgh_Scotland,cxinfr11229,"<h2>title</h2>Undergraduate Course: Text Technologies for Data Science (UG) (INFR11229)<h2>summary</h2>This course follows the delivery and assessment of Text Technologies for Data Science (INFR11145) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11145 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11229,"<h2>Edinburgh_Scotland cxinfr11229</h2><h2>title</h2>Undergraduate Course: Text Technologies for Data Science (UG) (INFR11229)<h2>summary</h2>This course follows the delivery and assessment of Text Technologies for Data Science (INFR11145) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11145 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Text Technologies for Data Science (INFR11145) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11145 instead.
     
@@ -1340,7 +1340,7 @@ Edinburgh_Scotland,cxinfr11229,"<h2>title</h2>Undergraduate Course: Text Technol
     
     
 ",
-Edinburgh_Scotland,cxinfr11235,"<h2>title</h2>Postgraduate Course: Probabilistic Modelling and Reasoning (UG) (INFR11235)<h2>summary</h2>This course follows the delivery and assessment of Probabilistic Modelling and Reasoning (INFR11134) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11134 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11235,"<h2>Edinburgh_Scotland cxinfr11235</h2><h2>title</h2>Postgraduate Course: Probabilistic Modelling and Reasoning (UG) (INFR11235)<h2>summary</h2>This course follows the delivery and assessment of Probabilistic Modelling and Reasoning (INFR11134) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11134 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Probabilistic Modelling and Reasoning (INFR11134) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11134 instead.
     
@@ -1351,7 +1351,7 @@ Edinburgh_Scotland,cxinfr11235,"<h2>title</h2>Postgraduate Course: Probabilistic
     
     
 ",
-Edinburgh_Scotland,cxinfr11238,"<h2>title</h2>Undergraduate Course: Blockchains and Distributed Ledgers (UG) (INFR11238)<h2>summary</h2>This course follows the delivery and assessment of Blockchains and Distributed Ledgers (INFR11144) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11144 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11238,"<h2>Edinburgh_Scotland cxinfr11238</h2><h2>title</h2>Undergraduate Course: Blockchains and Distributed Ledgers (UG) (INFR11238)<h2>summary</h2>This course follows the delivery and assessment of Blockchains and Distributed Ledgers (INFR11144) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11144 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Blockchains and Distributed Ledgers (INFR11144) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11144 instead.
     
@@ -1362,7 +1362,7 @@ Edinburgh_Scotland,cxinfr11238,"<h2>title</h2>Undergraduate Course: Blockchains 
     
     
 ",
-Edinburgh_Scotland,cxinfr11239,"<h2>title</h2>Undergraduate Course: Principles and Design of IoT Systems (UG) (INFR11239)<h2>summary</h2>This course follows the delivery and assessment of Principles and Design of IoT Systems (INFR11150) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11150 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11239,"<h2>Edinburgh_Scotland cxinfr11239</h2><h2>title</h2>Undergraduate Course: Principles and Design of IoT Systems (UG) (INFR11239)<h2>summary</h2>This course follows the delivery and assessment of Principles and Design of IoT Systems (INFR11150) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11150 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Principles and Design of IoT Systems (INFR11150) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11150 instead.
     
@@ -1373,7 +1373,7 @@ Edinburgh_Scotland,cxinfr11239,"<h2>title</h2>Undergraduate Course: Principles a
     
     
 ",
-Edinburgh_Scotland,cxinfr10077,"<h2>title</h2>Undergraduate Course: Computing in the Classroom (INFR10077)<h2>summary</h2>This course will give fourth year students to opportunity to make a positive contribution to the local community by sharing the knowledge of Informatics with school pupils and teachers. They will work with teachers to design appropriate teaching material and practical projects for computing education in schools, communicate effectively with young people and instil in them passion for computing disciplines, and support them in developing skills necessary in an increasingly digital society. Students will gain a critical understanding of the theory and practice of computer science pedagogy as appropriate for different stages of school learners. In addition, studying this course will enable students to develop a range of communication and organisational skills in a high pressure but supported real world setting. The course offers an in-depth, sustained experience in the classroom to students contemplating a career in education.<h2>content</h2>
+Edinburgh_Scotland,cxinfr10077,"<h2>Edinburgh_Scotland cxinfr10077</h2><h2>title</h2>Undergraduate Course: Computing in the Classroom (INFR10077)<h2>summary</h2>This course will give fourth year students to opportunity to make a positive contribution to the local community by sharing the knowledge of Informatics with school pupils and teachers. They will work with teachers to design appropriate teaching material and practical projects for computing education in schools, communicate effectively with young people and instil in them passion for computing disciplines, and support them in developing skills necessary in an increasingly digital society. Students will gain a critical understanding of the theory and practice of computer science pedagogy as appropriate for different stages of school learners. In addition, studying this course will enable students to develop a range of communication and organisational skills in a high pressure but supported real world setting. The course offers an in-depth, sustained experience in the classroom to students contemplating a career in education.<h2>content</h2>
     
     Students will contribute to the teaching of computer science and data science in primary/secondary/special schools in Scotland. This could include a diverse range of activities including creating online materials, teaching classes online, developing software to support live events, and where appropriate, visiting classrooms. They will be supported by primary and secondary teachers and by academic mentors from the School of Informatics and School of Education.<br>
  <br>
@@ -1422,7 +1422,7 @@ Oral Presentation (to be assessed at the end of semester 2) (20%): The student w
     
     
 ",
-Edinburgh_Scotland,cxinfr11160,"<h2>title</h2>Undergraduate Course: Bioinformatics 1 (INFR11160)<h2>summary</h2>**This course replaces Bioinformatics 1 (INFR11016)**<br>
+Edinburgh_Scotland,cxinfr11160,"<h2>Edinburgh_Scotland cxinfr11160</h2><h2>title</h2>Undergraduate Course: Bioinformatics 1 (INFR11160)<h2>summary</h2>**This course replaces Bioinformatics 1 (INFR11016)**<br>
 <br>
 This course introduces the discipline of Bioinformatics to students from both physical science and life science backgrounds. Bioinformatics is an inter-disciplinary subject that develops and implements novel methodologies and tools for analysing and learning from biological data. These data are increasingly large and complex as a result of significant technological developments and their application at scale in biological and biomedical application areas.<br>
 <br>
@@ -1445,7 +1445,7 @@ This course will involve practical work both in workshop/tutorial sessions and i
     
     
 ",
-Edinburgh_Scotland,cxinfr11209,"<h2>title</h2>Undergraduate Course: Computational Neuroscience (INFR11209)<h2>summary</h2>In this course we study computation in neural systems. We will consider problems such as: <br>
+Edinburgh_Scotland,cxinfr11209,"<h2>Edinburgh_Scotland cxinfr11209</h2><h2>title</h2>Undergraduate Course: Computational Neuroscience (INFR11209)<h2>summary</h2>In this course we study computation in neural systems. We will consider problems such as: <br>
  <br>
 How do neurons work and how do they communicate with one another? <br>
  <br>
@@ -1496,7 +1496,7 @@ The course will be delivered through lectures and computer labs.
     
     
 ",
-Edinburgh_Scotland,cxinfr11219,"<h2>title</h2>Undergraduate Course: Automatic Speech Recognition (UG) (INFR11219)<h2>summary</h2>This course follows the delivery and assessment of Automatic Speech Recognition (INFR11033) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11033 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11219,"<h2>Edinburgh_Scotland cxinfr11219</h2><h2>title</h2>Undergraduate Course: Automatic Speech Recognition (UG) (INFR11219)<h2>summary</h2>This course follows the delivery and assessment of Automatic Speech Recognition (INFR11033) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11033 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Automatic Speech Recognition (INFR11033) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11033 instead.
     
@@ -1507,7 +1507,7 @@ Edinburgh_Scotland,cxinfr11219,"<h2>title</h2>Undergraduate Course: Automatic Sp
     
     
 ",
-Edinburgh_Scotland,cxinfr11225,"<h2>title</h2>Undergraduate Course: Natural Language Understanding, Generation, and Machine Translation (UG) (INFR11225)<h2>summary</h2>This course follows the delivery and assessment of Natural Language Understanding, Generation, and Machine Translation (INFR11157) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11157 instead.<h2>content</h2>
+Edinburgh_Scotland,cxinfr11225,"<h2>Edinburgh_Scotland cxinfr11225</h2><h2>title</h2>Undergraduate Course: Natural Language Understanding, Generation, and Machine Translation (UG) (INFR11225)<h2>summary</h2>This course follows the delivery and assessment of Natural Language Understanding, Generation, and Machine Translation (INFR11157) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11157 instead.<h2>content</h2>
     
     This course follows the delivery and assessment of Natural Language Understanding, Generation, and Machine Translation (INFR11157) exactly. Undergraduate students must register for this course, while MSc students must register for INFR11157 instead.
     

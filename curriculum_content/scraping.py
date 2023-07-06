@@ -88,7 +88,7 @@ def scrape(institution_name):
 #            full_file = open("Page" + elective, "w")
 #            full_file.write(full_page)
 #            full_file.close()
-            overview = ""
+            overview = heading(institution_name + " " + elective)
             overview_dictionary = {}
             for overview_field in overview_fields:
                 overview_dictionary[overview_field] = ""
