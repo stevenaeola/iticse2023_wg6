@@ -1,0 +1,963 @@
+,institution,elective,overview,title,summary,content,ilo
+4,Durham_England,COMP3491,"<h2>Durham_England COMP3491</h2><h2>title</h2>COMP3491: 
+CODES AND CRYPTOGRAPHY<h2>summary</h2>
+			<li>To give an introduction to the fundamental steps of a digital communication system: compression/decompression, encryption/decryption, error control coding/decoding </li>
+			<li>To give an introduction to the theoretical limitations of those steps via information theory understand the information theoretic limitations of the three domains above  </li>
+		<h2>content</h2>
+			<li>Data compression: lossless compression such as Huffman and Lempel-Ziv, lossy compression such as transform coding and wavelet compression </li>
+			<li>Cryptography: block ciphers, hash functions, public key cryptography, signature schemes, lattice-based cryptography  </li>
+			<li>Error-correcting codes: linear codes including Hamming codes, BCH and Reed-Solomon codes, code-based cryptography</li>
+			<li>Information Theory: Entropy, channel capacity, data compression, information-theoretic cryptography </li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an understanding of the theory and practice of data compression, cryptography, and error-correcting codes </li>
+				<li>an understanding of the main results of information theory  </li>
+			","COMP3491: 
+CODES AND CRYPTOGRAPHY","
+			<li>To give an introduction to the fundamental steps of a digital communication system: compression/decompression, encryption/decryption, error control coding/decoding </li>
+			<li>To give an introduction to the theoretical limitations of those steps via information theory understand the information theoretic limitations of the three domains above  </li>
+		","
+			<li>Data compression: lossless compression such as Huffman and Lempel-Ziv, lossy compression such as transform coding and wavelet compression </li>
+			<li>Cryptography: block ciphers, hash functions, public key cryptography, signature schemes, lattice-based cryptography  </li>
+			<li>Error-correcting codes: linear codes including Hamming codes, BCH and Reed-Solomon codes, code-based cryptography</li>
+			<li>Information Theory: Entropy, channel capacity, data compression, information-theoretic cryptography </li>
+		","
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an understanding of the theory and practice of data compression, cryptography, and error-correcting codes </li>
+				<li>an understanding of the main results of information theory  </li>
+			"
+6,Durham_England,COMP3517,"<h2>Durham_England COMP3517</h2><h2>title</h2>COMP3517: 
+COMPUTATIONAL MODELLING IN THE HUMANITIES AND SOCIAL SCIENCES<h2>summary</h2>
+			<li>To enable students to understand and critically evaluate the application of computational modelling&nbsp;to problems in the humanities and social sciences.</li>
+			<li>To introduce students to algorithms and approaches relevant to the modelling of humanities and social science data.</li>
+		<h2>content</h2>
+			<li>Computational models of text and language</li>
+			<li>Text and data mining</li>
+			<li>Critical evaluation of computational models</li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an understanding of how computational modelling can be applied to humanities and social science research</li>
+				<li>an understanding of computational approaches to modelling text</li>
+				<li>an understanding of data mining techniques.</li>
+			","COMP3517: 
+COMPUTATIONAL MODELLING IN THE HUMANITIES AND SOCIAL SCIENCES","
+			<li>To enable students to understand and critically evaluate the application of computational modelling&nbsp;to problems in the humanities and social sciences.</li>
+			<li>To introduce students to algorithms and approaches relevant to the modelling of humanities and social science data.</li>
+		","
+			<li>Computational models of text and language</li>
+			<li>Text and data mining</li>
+			<li>Critical evaluation of computational models</li>
+		","
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an understanding of how computational modelling can be applied to humanities and social science research</li>
+				<li>an understanding of computational approaches to modelling text</li>
+				<li>an understanding of data mining techniques.</li>
+			"
+27,Durham_England,COMP4157,"<h2>Durham_England COMP4157</h2><h2>title</h2>COMP4157: 
+LEARNING ANALYTICS<h2>summary</h2>
+			<li>To give students a fundamental understanding of some of the core approaches and problem-solving principles for Learning Analytics (LA) and the role of LA in current and future learning settings and environments.</li>
+		<h2>content</h2>
+			<li>Statistical Learning Analytics and visualisation: data pre-processing; methods for tackling learning analytics based on statistical approaches; the types of LA that can be done with such approaches - e.g. descriptive and beyond. Visualisation of LA data for different stakeholders - e.g. learner, teacher, administrator, etc. </li>
+			<li>Ethics of Learner Data Usage: discussions on ethical considerations of using learner data, starting from societal view, laws involved, (common) practice, future practice. Algorithmic perspectives, such as (expanded) sensitivity analysis.</li>
+			<li>Machine Learning based Learning Analytics: shallow and deep Machine Learning methods for LA; numerical versus textual data analytical methods for LA; combined methods; sentiment analysis for LA; the types of LA that can be done with such approaches - e.g. descriptive, diagnostic, predictive, prescriptive.</li>
+		<h2>ilo</h2>
+				<li>The key principles and methodologies of data pre-processing for learning analytics, as well as the ability to evaluate and interpret where and how to apply such methods, including in the absence of complete data.</li>
+				<li>The key principles and methodologies for statistical learning analytics and visualisation, as well as the ability to evaluate and interpret where and how to apply such methods, including in the absence of complete data.</li>
+				<li>The key principles of machine learning based learning analytics, as well as the ability to evaluate and interpret where and how to apply such methods, including in the absence of complete data.</li>
+			","COMP4157: 
+LEARNING ANALYTICS","
+			<li>To give students a fundamental understanding of some of the core approaches and problem-solving principles for Learning Analytics (LA) and the role of LA in current and future learning settings and environments.</li>
+		","
+			<li>Statistical Learning Analytics and visualisation: data pre-processing; methods for tackling learning analytics based on statistical approaches; the types of LA that can be done with such approaches - e.g. descriptive and beyond. Visualisation of LA data for different stakeholders - e.g. learner, teacher, administrator, etc. </li>
+			<li>Ethics of Learner Data Usage: discussions on ethical considerations of using learner data, starting from societal view, laws involved, (common) practice, future practice. Algorithmic perspectives, such as (expanded) sensitivity analysis.</li>
+			<li>Machine Learning based Learning Analytics: shallow and deep Machine Learning methods for LA; numerical versus textual data analytical methods for LA; combined methods; sentiment analysis for LA; the types of LA that can be done with such approaches - e.g. descriptive, diagnostic, predictive, prescriptive.</li>
+		","
+				<li>The key principles and methodologies of data pre-processing for learning analytics, as well as the ability to evaluate and interpret where and how to apply such methods, including in the absence of complete data.</li>
+				<li>The key principles and methodologies for statistical learning analytics and visualisation, as well as the ability to evaluate and interpret where and how to apply such methods, including in the absence of complete data.</li>
+				<li>The key principles of machine learning based learning analytics, as well as the ability to evaluate and interpret where and how to apply such methods, including in the absence of complete data.</li>
+			"
+29,Durham_England,COMP4177,"<h2>Durham_England COMP4177</h2><h2>title</h2>COMP4177: 
+NETWORKS AND THEIR STRUCTURE<h2>summary</h2>
+			<li>To design structured networks to provide the communications fabric of distributed-memory multi-processors, networks-on-chips and data centre networks.</li>
+			<li>To introduce the theoretical and practical tools needed to analyse social and technological networks. 
+  </li>
+		<h2>content</h2>
+			<li>Core aspects of interconnection networks: topology; routing; switching; flow control; packets; technology.</li>
+			<li>Graph theory: degree; cuts; bisections; paths; diameter; embeddings; automorphisms; symmetry.</li>
+			<li>Topologies: hypercubes; tori; k-ary n-cubes; cube-connected cycles.</li>
+			<li>Performance: traffic patterns; throughput; latency; path diversity; packaging; routing algorithms.</li>
+			<li>Modelling networks to make comparisons and predictions: random graphs; Milgram's small world experiment; Watts-Strogatz model; Kleinberg model.  </li>
+			<li>Centrality measures: finding influential nodes in networks; using centrality measures to understand the community structure of networks.  </li>
+			<li>Epidemics: how contagions spread in networks; models of diffusion; SIR model; epidemic threshold; SIS model.</li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an in-depth knowledge of the state-of-the-art in interconnection networks and network science</li>
+				<li>an awareness of the main open problems of current interest </li>
+				<li>an understanding of research issues that relate to these problems, including recent developments and research trends and breaking technologies.</li>
+			","COMP4177: 
+NETWORKS AND THEIR STRUCTURE","
+			<li>To design structured networks to provide the communications fabric of distributed-memory multi-processors, networks-on-chips and data centre networks.</li>
+			<li>To introduce the theoretical and practical tools needed to analyse social and technological networks. 
+  </li>
+		","
+			<li>Core aspects of interconnection networks: topology; routing; switching; flow control; packets; technology.</li>
+			<li>Graph theory: degree; cuts; bisections; paths; diameter; embeddings; automorphisms; symmetry.</li>
+			<li>Topologies: hypercubes; tori; k-ary n-cubes; cube-connected cycles.</li>
+			<li>Performance: traffic patterns; throughput; latency; path diversity; packaging; routing algorithms.</li>
+			<li>Modelling networks to make comparisons and predictions: random graphs; Milgram's small world experiment; Watts-Strogatz model; Kleinberg model.  </li>
+			<li>Centrality measures: finding influential nodes in networks; using centrality measures to understand the community structure of networks.  </li>
+			<li>Epidemics: how contagions spread in networks; models of diffusion; SIR model; epidemic threshold; SIS model.</li>
+		","
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li>an in-depth knowledge of the state-of-the-art in interconnection networks and network science</li>
+				<li>an awareness of the main open problems of current interest </li>
+				<li>an understanding of research issues that relate to these problems, including recent developments and research trends and breaking technologies.</li>
+			"
+82,Glasgow_Scotland,COMPSCI4064,"<h2>Glasgow_Scotland COMPSCI4064</h2><h2>title</h2>Big Data: Systems, Programming, and Management (H) COMPSCI4064<h2>summary</h2><p id=""_COMPSCI40640""><span id=""_COMPSCI40641"">Big Da</span><span id=""_COMPSCI40642"">ta is nowadays manifested in a </span><span id=""_COMPSCI40643"">very large number of environments and application fields pertaining to our education, entertainment, health, public governance, enterprising, etc. The course will endow students with the understanding of the new challenges big data introduces and the currently available solutions. These include (i) challenges pertaining to the modelling, accessing, and storing of big data, (ii) an understanding of the fundamentals of systems designed to store and access big data, and (iii) programming paradigms for efficient scalable access to big data.</span></p><h2>content</h2><p id=""_COMPSCI406427""><span id=""_COMPSCI406428"">The course aims to endow students with:</span></p><p id=""_COMPSCI406429""><span id=""_COMPSCI406430"">An understanding of the new challenges posed by the advent for big data, as they refer to its modelling, storage, and access, paying particular emphasis on the impact of the desiderata of scalability and efficiency in big data infrastructures.</span></p><p id=""_COMPSCI406431""><span id=""_COMPSCI406432"">Exposure to a number of different cloud </span><span id=""_COMPSCI406433"">data stores</span><span id=""_COMPSCI406434"">&nbsp;and their design and implementation details, showing how they can achieve efficiency and scalability, while also addressing design trade-offs and their impacts.</span></p><p id=""_COMPSCI406435""><span id=""_COMPSCI406436"">Familiarity with </span><span id=""_COMPSCI406437"">modern </span><span id=""_COMPSCI406438"">programming paradigm</span><span id=""_COMPSCI406439"">s (e.g., MapReduce, RDDs, etc.)</span><span id=""_COMPSCI406440"">, so to enable them to write programs which can execute in massively parallel infrastructures in the cloud.</span></p><p id=""_COMPSCI406441""><span id=""_COMPSCI406442"">The ability to understand the internals of </span><span id=""_COMPSCI406443"">(</span><span id=""_COMPSCI406444"">NoSQL</span><span id=""_COMPSCI406445"">)</span><span id=""_COMPSCI406446"">&nbsp;cloud </span><span id=""_COMPSCI406447"">data </span><span id=""_COMPSCI406448"">storage systems and the ability to enrich these systems with additional functionality.</span></p><h2>ilo</h2><p id=""_COMPSCI406450""><span id=""_COMPSCI406451"">By the end of this course students will be able to:</span></p><p id=""_COMPSCI406452""><span id=""_COMPSCI406453"">1. </span><span id=""_COMPSCI406454"">Design</span><span id=""_COMPSCI406455"">,</span><span id=""_COMPSCI406456"">&nbsp;employ </span><span id=""_COMPSCI406457"">and evaluate </span><span id=""_COMPSCI406458"">programs to access big data repositories in a massively parallel manner</span><span id=""_COMPSCI406459"">;</span></p><p id=""_COMPSCI406460""><span id=""_COMPSCI406461"">2. </span><span id=""_COMPSCI406462"">D</span><span id=""_COMPSCI406463"">escribe and </span><span id=""_COMPSCI406464"">contrast</span><span id=""_COMPSCI406465"">&nbsp;the internals of the design and implementation</span><span id=""_COMPSCI406466"">&nbsp;of current cloud </span><span id=""_COMPSCI406467"">data storage </span><span id=""_COMPSCI406468"">and processing </span><span id=""_COMPSCI406469"">systems; </span></p><p id=""_COMPSCI406470""><span id=""_COMPSCI406471"">3. </span><span id=""_COMPSCI406472"">Identify and discuss </span><span id=""_COMPSCI406473"">issues related to the scalability and efficiency challenges when processing complex queries</span><span id=""_COMPSCI406474"">/algorithms</span><span id=""_COMPSCI406475"">&nbsp;against big data systems</span><span id=""_COMPSCI406476"">, and propose ways of addressing said challenges;</span></p><p id=""_COMPSCI406477""><span id=""_COMPSCI406478"">4. </span><span id=""_COMPSCI406479"">D</span><span id=""_COMPSCI406480"">emonstrate that they have mastered the required background knowledge to pursue graduate studies in the fields of cloud systems and big data.</span></p>","Big Data: Systems, Programming, and Management (H) COMPSCI4064","<p id=""_COMPSCI40640""><span id=""_COMPSCI40641"">Big Da</span><span id=""_COMPSCI40642"">ta is nowadays manifested in a </span><span id=""_COMPSCI40643"">very large number of environments and application fields pertaining to our education, entertainment, health, public governance, enterprising, etc. The course will endow students with the understanding of the new challenges big data introduces and the currently available solutions. These include (i) challenges pertaining to the modelling, accessing, and storing of big data, (ii) an understanding of the fundamentals of systems designed to store and access big data, and (iii) programming paradigms for efficient scalable access to big data.</span></p>","<p id=""_COMPSCI406427""><span id=""_COMPSCI406428"">The course aims to endow students with:</span></p><p id=""_COMPSCI406429""><span id=""_COMPSCI406430"">An understanding of the new challenges posed by the advent for big data, as they refer to its modelling, storage, and access, paying particular emphasis on the impact of the desiderata of scalability and efficiency in big data infrastructures.</span></p><p id=""_COMPSCI406431""><span id=""_COMPSCI406432"">Exposure to a number of different cloud </span><span id=""_COMPSCI406433"">data stores</span><span id=""_COMPSCI406434"">&nbsp;and their design and implementation details, showing how they can achieve efficiency and scalability, while also addressing design trade-offs and their impacts.</span></p><p id=""_COMPSCI406435""><span id=""_COMPSCI406436"">Familiarity with </span><span id=""_COMPSCI406437"">modern </span><span id=""_COMPSCI406438"">programming paradigm</span><span id=""_COMPSCI406439"">s (e.g., MapReduce, RDDs, etc.)</span><span id=""_COMPSCI406440"">, so to enable them to write programs which can execute in massively parallel infrastructures in the cloud.</span></p><p id=""_COMPSCI406441""><span id=""_COMPSCI406442"">The ability to understand the internals of </span><span id=""_COMPSCI406443"">(</span><span id=""_COMPSCI406444"">NoSQL</span><span id=""_COMPSCI406445"">)</span><span id=""_COMPSCI406446"">&nbsp;cloud </span><span id=""_COMPSCI406447"">data </span><span id=""_COMPSCI406448"">storage systems and the ability to enrich these systems with additional functionality.</span></p>","<p id=""_COMPSCI406450""><span id=""_COMPSCI406451"">By the end of this course students will be able to:</span></p><p id=""_COMPSCI406452""><span id=""_COMPSCI406453"">1. </span><span id=""_COMPSCI406454"">Design</span><span id=""_COMPSCI406455"">,</span><span id=""_COMPSCI406456"">&nbsp;employ </span><span id=""_COMPSCI406457"">and evaluate </span><span id=""_COMPSCI406458"">programs to access big data repositories in a massively parallel manner</span><span id=""_COMPSCI406459"">;</span></p><p id=""_COMPSCI406460""><span id=""_COMPSCI406461"">2. </span><span id=""_COMPSCI406462"">D</span><span id=""_COMPSCI406463"">escribe and </span><span id=""_COMPSCI406464"">contrast</span><span id=""_COMPSCI406465"">&nbsp;the internals of the design and implementation</span><span id=""_COMPSCI406466"">&nbsp;of current cloud </span><span id=""_COMPSCI406467"">data storage </span><span id=""_COMPSCI406468"">and processing </span><span id=""_COMPSCI406469"">systems; </span></p><p id=""_COMPSCI406470""><span id=""_COMPSCI406471"">3. </span><span id=""_COMPSCI406472"">Identify and discuss </span><span id=""_COMPSCI406473"">issues related to the scalability and efficiency challenges when processing complex queries</span><span id=""_COMPSCI406474"">/algorithms</span><span id=""_COMPSCI406475"">&nbsp;against big data systems</span><span id=""_COMPSCI406476"">, and propose ways of addressing said challenges;</span></p><p id=""_COMPSCI406477""><span id=""_COMPSCI406478"">4. </span><span id=""_COMPSCI406479"">D</span><span id=""_COMPSCI406480"">emonstrate that they have mastered the required background knowledge to pursue graduate studies in the fields of cloud systems and big data.</span></p>"
+84,Glasgow_Scotland,COMPSCI4080,"<h2>Glasgow_Scotland COMPSCI4080</h2><h2>title</h2>Computational Social Intelligence (H) COMPSCI4080<h2>summary</h2><p id=""_COMPSCI40800""><span id=""_COMPSCI40801"">The course introduces the core methodologies behind automatic approaches </span><span id=""_COMPSCI40802"">aimed at making</span><span id=""_COMPSCI40803"">&nbsp;sense of social and psychological aspects of human behaviour. </span><span id=""_COMPSCI40804"">In particular, the course shows 1) how to design and organise the observation of human behaviour in view of the application of automatic approaches, 2) how to apply psychometric instruments for the quantitative analysis of social and psychological phenomena, and 3) how to apply basic statistical techniques</span><span id=""_COMPSCI40805"">&nbsp;to human behaviour analysis and understanding</span><span id=""_COMPSCI40806"">. The course is interdisciplinary and it requires the acquisition of both computing and </span><span id=""_COMPSCI40807"">social </span><span id=""_COMPSCI40808"">psychological notions.</span><span id=""_COMPSCI40809"">&nbsp;</span><span id=""_COMPSCI408010"">The application areas to which the course is relevant include, </span><span id=""_COMPSCI408011"">e.g.</span><span id=""_COMPSCI408012"">, social robotics, user experience analysis, social media analytics, surveillance </span><span id=""_COMPSCI408013"">and</span><span id=""_COMPSCI408014"">&nbsp;e-health</span><span id=""_COMPSCI408015"">&nbsp;(the list is not exhaustive)</span><span id=""_COMPSCI408016"">.</span></p><h2>content</h2><p id=""_COMPSCI408033""><span id=""_COMPSCI408034"">The aim of the course is to introduce the students to the main computational methodologies </span><span id=""_COMPSCI408035"">for automatic</span><span id=""_COMPSCI408036"">&nbsp;</span><span id=""_COMPSCI408037"">analysis </span><span id=""_COMPSCI408038"">of human behaviour. </span><span id=""_COMPSCI408039"">In particular the course teaches how to design and organise the observation of human behaviour in view </span><span id=""_COMPSCI408040"">of the application of </span><span id=""_COMPSCI408041"">computational approaches</span><span id=""_COMPSCI408042"">. Furthermore, it shows how to quantify social and psychological phenomena through the </span><span id=""_COMPSCI408043"">application</span><span id=""_COMPSCI408044"">&nbsp;of </span><span id=""_COMPSCI408045"">standard psychometric questionnaires. Finally, it introduces basic methodologies - based on machine learning and statistics - aimed at mapping beh</span><span id=""_COMPSCI408046"">avioural observations into high-</span><span id=""_COMPSCI408047"">level interpretations of human behaviour</span><span id=""_COMPSCI408048"">&nbsp;that take into account social and psychological </span><span id=""_COMPSCI408049"">aspects of human-human and human-machine interactions</span><span id=""_COMPSCI408050"">.</span></p><h2>ilo</h2><p id=""_COMPSCI408052""><span id=""_COMPSCI408053"">By the end</span><span id=""_COMPSCI408054"">&nbsp;of this </span><span id=""_COMPSCI408055"">course, the students will be </span><span id=""_COMPSCI408056"">able to:</span></p><p id=""_COMPSCI408057""><span id=""_COMPSCI408058"">1. </span><span id=""_COMPSCI408059"">Design and organise the collection of behavioural data in view of the application of statistical and computational methodologies</span><span id=""_COMPSCI408060"">&nbsp;for human behaviour understanding</span><span id=""_COMPSCI408061"">;</span></p><p id=""_COMPSCI408062""><span id=""_COMPSCI408063"">2. </span><span id=""_COMPSCI408064"">Measure social and psychological </span><span id=""_COMPSCI408065"">constructs</span><span id=""_COMPSCI408066"">&nbsp;- in quantitative terms - through the adoption of standard psychometric questionnaires;</span><span id=""_COMPSCI408067"">&nbsp;</span></p><p id=""_COMPSCI408068""><span id=""_COMPSCI408069"">3. </span><span id=""_COMPSCI408070"">Apply </span><span id=""_COMPSCI408071"">basic </span><span id=""_COMPSCI408072"">statistical methodologies (</span><span id=""_COMPSCI408073"">e.g., </span><span id=""_COMPSCI408074"">k-Means and Naïve Bayes Classifier) to </span><span id=""_COMPSCI408075"">automatically </span><span id=""_COMPSCI408076"">map behavioural observations into social and psychological constructs.</span></p>",Computational Social Intelligence (H) COMPSCI4080,"<p id=""_COMPSCI40800""><span id=""_COMPSCI40801"">The course introduces the core methodologies behind automatic approaches </span><span id=""_COMPSCI40802"">aimed at making</span><span id=""_COMPSCI40803"">&nbsp;sense of social and psychological aspects of human behaviour. </span><span id=""_COMPSCI40804"">In particular, the course shows 1) how to design and organise the observation of human behaviour in view of the application of automatic approaches, 2) how to apply psychometric instruments for the quantitative analysis of social and psychological phenomena, and 3) how to apply basic statistical techniques</span><span id=""_COMPSCI40805"">&nbsp;to human behaviour analysis and understanding</span><span id=""_COMPSCI40806"">. The course is interdisciplinary and it requires the acquisition of both computing and </span><span id=""_COMPSCI40807"">social </span><span id=""_COMPSCI40808"">psychological notions.</span><span id=""_COMPSCI40809"">&nbsp;</span><span id=""_COMPSCI408010"">The application areas to which the course is relevant include, </span><span id=""_COMPSCI408011"">e.g.</span><span id=""_COMPSCI408012"">, social robotics, user experience analysis, social media analytics, surveillance </span><span id=""_COMPSCI408013"">and</span><span id=""_COMPSCI408014"">&nbsp;e-health</span><span id=""_COMPSCI408015"">&nbsp;(the list is not exhaustive)</span><span id=""_COMPSCI408016"">.</span></p>","<p id=""_COMPSCI408033""><span id=""_COMPSCI408034"">The aim of the course is to introduce the students to the main computational methodologies </span><span id=""_COMPSCI408035"">for automatic</span><span id=""_COMPSCI408036"">&nbsp;</span><span id=""_COMPSCI408037"">analysis </span><span id=""_COMPSCI408038"">of human behaviour. </span><span id=""_COMPSCI408039"">In particular the course teaches how to design and organise the observation of human behaviour in view </span><span id=""_COMPSCI408040"">of the application of </span><span id=""_COMPSCI408041"">computational approaches</span><span id=""_COMPSCI408042"">. Furthermore, it shows how to quantify social and psychological phenomena through the </span><span id=""_COMPSCI408043"">application</span><span id=""_COMPSCI408044"">&nbsp;of </span><span id=""_COMPSCI408045"">standard psychometric questionnaires. Finally, it introduces basic methodologies - based on machine learning and statistics - aimed at mapping beh</span><span id=""_COMPSCI408046"">avioural observations into high-</span><span id=""_COMPSCI408047"">level interpretations of human behaviour</span><span id=""_COMPSCI408048"">&nbsp;that take into account social and psychological </span><span id=""_COMPSCI408049"">aspects of human-human and human-machine interactions</span><span id=""_COMPSCI408050"">.</span></p>","<p id=""_COMPSCI408052""><span id=""_COMPSCI408053"">By the end</span><span id=""_COMPSCI408054"">&nbsp;of this </span><span id=""_COMPSCI408055"">course, the students will be </span><span id=""_COMPSCI408056"">able to:</span></p><p id=""_COMPSCI408057""><span id=""_COMPSCI408058"">1. </span><span id=""_COMPSCI408059"">Design and organise the collection of behavioural data in view of the application of statistical and computational methodologies</span><span id=""_COMPSCI408060"">&nbsp;for human behaviour understanding</span><span id=""_COMPSCI408061"">;</span></p><p id=""_COMPSCI408062""><span id=""_COMPSCI408063"">2. </span><span id=""_COMPSCI408064"">Measure social and psychological </span><span id=""_COMPSCI408065"">constructs</span><span id=""_COMPSCI408066"">&nbsp;- in quantitative terms - through the adoption of standard psychometric questionnaires;</span><span id=""_COMPSCI408067"">&nbsp;</span></p><p id=""_COMPSCI408068""><span id=""_COMPSCI408069"">3. </span><span id=""_COMPSCI408070"">Apply </span><span id=""_COMPSCI408071"">basic </span><span id=""_COMPSCI408072"">statistical methodologies (</span><span id=""_COMPSCI408073"">e.g., </span><span id=""_COMPSCI408074"">k-Means and Naïve Bayes Classifier) to </span><span id=""_COMPSCI408075"">automatically </span><span id=""_COMPSCI408076"">map behavioural observations into social and psychological constructs.</span></p>"
+87,Glasgow_Scotland,COMPSCI4013,"<h2>Glasgow_Scotland COMPSCI4013</h2><h2>title</h2>Database Systems (H) COMPSCI4013<h2>summary</h2><p id=""_COMPSCI40130""><span id=""_COMPSCI40131"">From the basic skills derived in CS</span><span id=""_COMPSCI40132"">1F</span><span id=""_COMPSCI40133"">, to develop the software engineering and database administration skills required for designing, creating, running and developing a relational database application and its associated application software suite. </span></p><p id=""_COMPSCI40134""><span id=""_COMPSCI40135"">Understanding of how conventional programming languages </span><span id=""_COMPSCI40136"">(e.g., Java/JDBC) </span><span id=""_COMPSCI40137"">interact with databases;</span></p><p id=""_COMPSCI40138""><span id=""_COMPSCI40139"">Understanding of the fundamental concepts, functional dependency and normalization theories and methods of the relational data model;</span></p><p id=""_COMPSCI401310""><span id=""_COMPSCI401311"">Understanding the principles of database indexing, file structures, hash-based file structures, tree-based indexes;</span></p><p id=""_COMPSCI401312""><span id=""_COMPSCI401313"">Understanding the cost-based query optimization methods;</span></p><p id=""_COMPSCI401314""><span id=""_COMPSCI401315"">Understanding the principles of selection selectivity and joint selectivity using histograms in query optimization;</span></p><p id=""_COMPSCI401316""><span id=""_COMPSCI401317"">Introduction to data analytics tasks and advanced methods &amp; techniques.</span></p><h2>content</h2><p id=""_COMPSCI401355""><span id=""_COMPSCI401356"">From the basic skills derived in CS1</span><span id=""_COMPSCI401357"">F</span><span id=""_COMPSCI401358"">, to develop the software engineering and database administration skills required for designing, creating, running and developing a relational database application and its associated application software suite. </span></p><p id=""_COMPSCI401359""><span id=""_COMPSCI401360"">Understanding of how conventional programming languages interact with databases;</span></p><p id=""_COMPSCI401361""><span id=""_COMPSCI401362"">Understanding of the fundamental concepts, functional dependency and normalization theories and methods of the relational data model;</span></p><p id=""_COMPSCI401363""><span id=""_COMPSCI401364"">Understanding the principles of database indexing, file structures, hash-based file structures, tree-based indexes;</span></p><p id=""_COMPSCI401365""><span id=""_COMPSCI401366"">Understanding the cost-based query optimization methods;</span></p><p id=""_COMPSCI401367""><span id=""_COMPSCI401368"">Understanding the principles of selection selectivity and joint selectivity using histograms in query optimization;</span></p><p id=""_COMPSCI401369""><span id=""_COMPSCI401370"">Introduction to data analytics tasks and advanced methods &amp; techniques.</span></p><h2>ilo</h2><p id=""_COMPSCI401372""><span id=""_COMPSCI401373"">By the end of the course students will be able to:</span></p><p id=""_COMPSCI401374""><span id=""_COMPSCI401375"">1. </span><span id=""_COMPSCI401376"">Demonstrate competence in performing sophisticated queries and updates against an existing RDBMS using most of the advanced features of SQL standard;</span></p><p id=""_COMPSCI401377""><span id=""_COMPSCI401378"">2. </span><span id=""_COMPSCI401379"">Demonstrate skills in designing, writing, changing and testing programs </span><span id=""_COMPSCI401380"">(</span><span id=""_COMPSCI401381"">e.g., Java/JDBC</span><span id=""_COMPSCI401382"">) </span><span id=""_COMPSCI401383"">that use an RDB</span><span id=""_COMPSCI401384"">MS</span><span id=""_COMPSCI401385"">;</span></p><p id=""_COMPSCI401386""><span id=""_COMPSCI401387"">3. </span><span id=""_COMPSCI401388"">Interpret and optimize SQL queries based on the principles of the cost-based query optimization;</span></p><p id=""_COMPSCI401389""><span id=""_COMPSCI401390"">4. </span><span id=""_COMPSCI401391"">Provide an explanation of the database indexing techniques including File Hashing, Search Trees, Multi-level Indexes, B Trees and B+ Trees;</span></p><p id=""_COMPSCI401392""><span id=""_COMPSCI401393"">5. </span><span id=""_COMPSCI401394"">Specify advanced constraints on the DB scheme </span><span id=""_COMPSCI401395"">based on Functional Dependencies &amp; Normalization</span><span id=""_COMPSCI401396"">;</span></p><p id=""_COMPSCI401397""><span id=""_COMPSCI401398"">6. </span><span id=""_COMPSCI401399"">Appreciate </span><span id=""_COMPSCI4013100"">Data analytics and aggregation tasks and t</span><span id=""_COMPSCI4013101"">echniques</span><span id=""_COMPSCI4013102"">;</span></p><p id=""_COMPSCI4013103""><span id=""_COMPSCI4013104"">7. </span><span id=""_COMPSCI4013105"">Provide an explanation of the selection selectivity and join selectivity using histograms for query optimization.</span></p>",Database Systems (H) COMPSCI4013,"<p id=""_COMPSCI40130""><span id=""_COMPSCI40131"">From the basic skills derived in CS</span><span id=""_COMPSCI40132"">1F</span><span id=""_COMPSCI40133"">, to develop the software engineering and database administration skills required for designing, creating, running and developing a relational database application and its associated application software suite. </span></p><p id=""_COMPSCI40134""><span id=""_COMPSCI40135"">Understanding of how conventional programming languages </span><span id=""_COMPSCI40136"">(e.g., Java/JDBC) </span><span id=""_COMPSCI40137"">interact with databases;</span></p><p id=""_COMPSCI40138""><span id=""_COMPSCI40139"">Understanding of the fundamental concepts, functional dependency and normalization theories and methods of the relational data model;</span></p><p id=""_COMPSCI401310""><span id=""_COMPSCI401311"">Understanding the principles of database indexing, file structures, hash-based file structures, tree-based indexes;</span></p><p id=""_COMPSCI401312""><span id=""_COMPSCI401313"">Understanding the cost-based query optimization methods;</span></p><p id=""_COMPSCI401314""><span id=""_COMPSCI401315"">Understanding the principles of selection selectivity and joint selectivity using histograms in query optimization;</span></p><p id=""_COMPSCI401316""><span id=""_COMPSCI401317"">Introduction to data analytics tasks and advanced methods &amp; techniques.</span></p>","<p id=""_COMPSCI401355""><span id=""_COMPSCI401356"">From the basic skills derived in CS1</span><span id=""_COMPSCI401357"">F</span><span id=""_COMPSCI401358"">, to develop the software engineering and database administration skills required for designing, creating, running and developing a relational database application and its associated application software suite. </span></p><p id=""_COMPSCI401359""><span id=""_COMPSCI401360"">Understanding of how conventional programming languages interact with databases;</span></p><p id=""_COMPSCI401361""><span id=""_COMPSCI401362"">Understanding of the fundamental concepts, functional dependency and normalization theories and methods of the relational data model;</span></p><p id=""_COMPSCI401363""><span id=""_COMPSCI401364"">Understanding the principles of database indexing, file structures, hash-based file structures, tree-based indexes;</span></p><p id=""_COMPSCI401365""><span id=""_COMPSCI401366"">Understanding the cost-based query optimization methods;</span></p><p id=""_COMPSCI401367""><span id=""_COMPSCI401368"">Understanding the principles of selection selectivity and joint selectivity using histograms in query optimization;</span></p><p id=""_COMPSCI401369""><span id=""_COMPSCI401370"">Introduction to data analytics tasks and advanced methods &amp; techniques.</span></p>","<p id=""_COMPSCI401372""><span id=""_COMPSCI401373"">By the end of the course students will be able to:</span></p><p id=""_COMPSCI401374""><span id=""_COMPSCI401375"">1. </span><span id=""_COMPSCI401376"">Demonstrate competence in performing sophisticated queries and updates against an existing RDBMS using most of the advanced features of SQL standard;</span></p><p id=""_COMPSCI401377""><span id=""_COMPSCI401378"">2. </span><span id=""_COMPSCI401379"">Demonstrate skills in designing, writing, changing and testing programs </span><span id=""_COMPSCI401380"">(</span><span id=""_COMPSCI401381"">e.g., Java/JDBC</span><span id=""_COMPSCI401382"">) </span><span id=""_COMPSCI401383"">that use an RDB</span><span id=""_COMPSCI401384"">MS</span><span id=""_COMPSCI401385"">;</span></p><p id=""_COMPSCI401386""><span id=""_COMPSCI401387"">3. </span><span id=""_COMPSCI401388"">Interpret and optimize SQL queries based on the principles of the cost-based query optimization;</span></p><p id=""_COMPSCI401389""><span id=""_COMPSCI401390"">4. </span><span id=""_COMPSCI401391"">Provide an explanation of the database indexing techniques including File Hashing, Search Trees, Multi-level Indexes, B Trees and B+ Trees;</span></p><p id=""_COMPSCI401392""><span id=""_COMPSCI401393"">5. </span><span id=""_COMPSCI401394"">Specify advanced constraints on the DB scheme </span><span id=""_COMPSCI401395"">based on Functional Dependencies &amp; Normalization</span><span id=""_COMPSCI401396"">;</span></p><p id=""_COMPSCI401397""><span id=""_COMPSCI401398"">6. </span><span id=""_COMPSCI401399"">Appreciate </span><span id=""_COMPSCI4013100"">Data analytics and aggregation tasks and t</span><span id=""_COMPSCI4013101"">echniques</span><span id=""_COMPSCI4013102"">;</span></p><p id=""_COMPSCI4013103""><span id=""_COMPSCI4013104"">7. </span><span id=""_COMPSCI4013105"">Provide an explanation of the selection selectivity and join selectivity using histograms for query optimization.</span></p>"
+91,Glasgow_Scotland,COMPSCI4069,"<h2>Glasgow_Scotland COMPSCI4069</h2><h2>title</h2>Information Retrieval (H) COMPSCI4069<h2>summary</h2><p id=""_COMPSCI40690""><span id=""_COMPSCI40691"">To present students with an in-depth examination of the theoretical and practical issues involved in providing tools to access large collections of documents, especially in the context of the World Wide Web.</span></p><p id=""_COMPSCI40692""><span id=""_COMPSCI40693"">To present students with the practical engineering issues raised by the design and implementation of an information retrieval system.</span></p><h2>content</h2><p id=""_COMPSCI406928""><span id=""_COMPSCI406929"">To present students with an in-depth examination of the theoretical and practical issues involved in providing tools to access large collections of documents, especially in the context of the World Wide Web.</span></p><p id=""_COMPSCI406930""><span id=""_COMPSCI406931"">To present students with the practical engineering issues raised by the design and implementation of an information retrieval system.</span></p><h2>ilo</h2><p id=""_COMPSCI406934""><span id=""_COMPSCI406935"">By the end of the course students will be able to:</span></p><p id=""_COMPSCI406936""><span id=""_COMPSCI406937"">1. </span><span id=""_COMPSCI406938"">Implement a standard information retrieval (IR) system;</span></p><p id=""_COMPSCI406939""><span id=""_COMPSCI406940"">2. </span><span id=""_COMPSCI406941"">Discuss the theoretical basis behind the standard models of IR (e.g. Boolean, Vector-space, and Probabilistic models);</span></p><p id=""_COMPSCI406942""><span id=""_COMPSCI406943"">3. </span><span id=""_COMPSCI406944"">Discuss how an IR system should be evaluated in terms of the system's performance and the user's satisfaction with the system;</span></p><p id=""_COMPSCI406945""><span id=""_COMPSCI406946"">4. </span><span id=""_COMPSCI406947"">Describe the techniques in organising information;</span></p><p id=""_COMPSCI406948""><span id=""_COMPSCI406949"">5. </span><span id=""_COMPSCI406950"">Describe the techniques involved in retrieving information from the World Wide Web;</span></p><p id=""_COMPSCI406951""><span id=""_COMPSCI406952"">6. </span><span id=""_COMPSCI406953"">Describe the practical engineering issues raised by the implementation of a search engine for the Web</span><span id=""_COMPSCI406954"">.</span></p>",Information Retrieval (H) COMPSCI4069,"<p id=""_COMPSCI40690""><span id=""_COMPSCI40691"">To present students with an in-depth examination of the theoretical and practical issues involved in providing tools to access large collections of documents, especially in the context of the World Wide Web.</span></p><p id=""_COMPSCI40692""><span id=""_COMPSCI40693"">To present students with the practical engineering issues raised by the design and implementation of an information retrieval system.</span></p>","<p id=""_COMPSCI406928""><span id=""_COMPSCI406929"">To present students with an in-depth examination of the theoretical and practical issues involved in providing tools to access large collections of documents, especially in the context of the World Wide Web.</span></p><p id=""_COMPSCI406930""><span id=""_COMPSCI406931"">To present students with the practical engineering issues raised by the design and implementation of an information retrieval system.</span></p>","<p id=""_COMPSCI406934""><span id=""_COMPSCI406935"">By the end of the course students will be able to:</span></p><p id=""_COMPSCI406936""><span id=""_COMPSCI406937"">1. </span><span id=""_COMPSCI406938"">Implement a standard information retrieval (IR) system;</span></p><p id=""_COMPSCI406939""><span id=""_COMPSCI406940"">2. </span><span id=""_COMPSCI406941"">Discuss the theoretical basis behind the standard models of IR (e.g. Boolean, Vector-space, and Probabilistic models);</span></p><p id=""_COMPSCI406942""><span id=""_COMPSCI406943"">3. </span><span id=""_COMPSCI406944"">Discuss how an IR system should be evaluated in terms of the system's performance and the user's satisfaction with the system;</span></p><p id=""_COMPSCI406945""><span id=""_COMPSCI406946"">4. </span><span id=""_COMPSCI406947"">Describe the techniques in organising information;</span></p><p id=""_COMPSCI406948""><span id=""_COMPSCI406949"">5. </span><span id=""_COMPSCI406950"">Describe the techniques involved in retrieving information from the World Wide Web;</span></p><p id=""_COMPSCI406951""><span id=""_COMPSCI406952"">6. </span><span id=""_COMPSCI406953"">Describe the practical engineering issues raised by the implementation of a search engine for the Web</span><span id=""_COMPSCI406954"">.</span></p>"
+100,Glasgow_Scotland,COMPSCI4087,"<h2>Glasgow_Scotland COMPSCI4087</h2><h2>title</h2>Startup Growth Engineering (H) COMPSCI4087<h2>summary</h2><p id=""_COMPSCI40870""><span id=""_COMPSCI40871"">Start-up Growth Engineering comprises the techniques and best practices applied by the world's most successful tech companies to exponentially grow from the start-up phase into large-scale organisations, with millions of users.  These techniques have been distilled from best practices employed across start-ups in the Silicon Valley and elsewhere.   Start-up Growth Engineering moves beyond traditional product development and marketing activities into an integrated, scientific approach to introducing a new product idea into a market and driving viral user growth.    </span></p><p id=""_COMPSCI40872"">&nbsp;</p><p id=""_COMPSCI40873""><span id=""_COMPSCI40874"">The Start-up Growth Engineering course combines theory with a large number of practical examples taken from well-known organisations.  It equips students with the skills to employ their software engineering and product development skills more effectively, in a real-world environment.</span></p><h2>content</h2><p id=""_COMPSCI408740""><span id=""_COMPSCI408741"">To familiarise students with the fundamental techniques used by tech companies to drive exponential user growth, including user retention techniques, the different types of compounding growth mechanisms, and optimization techniques.</span></p><p id=""_COMPSCI408742"">&nbsp;</p><p id=""_COMPSCI408743""><span id=""_COMPSCI408744"">To equip students with the analytical and strategy skills necessary to analyse real-world start-up growth trajectories and construct predictive and optimisation models to drive user growth.    </span></p><p id=""_COMPSCI408745"">&nbsp;</p><p id=""_COMPSCI408746""><span id=""_COMPSCI408747"">To enable students to apply these techniques in team situations and to gain an understanding of the typical Growth Engineering team structures and processes employed in Silicon Valley and other leading start-up incubation areas</span><span id=""_COMPSCI408748"">.</span></p><h2>ilo</h2><p id=""_COMPSCI408750""><span id=""_COMPSCI408751"">By the end of this course students will be able to:</span></p><p id=""_COMPSCI408752""><span id=""_COMPSCI408753"">1. </span><span id=""_COMPSCI408754"">explain and apply the techniques used to create viral user growth in tech companies;</span></p><p id=""_COMPSCI408755""><span id=""_COMPSCI408756"">2. </span><span id=""_COMPSCI408757"">create a growth strategy for a start-up, designed to drive exponential growth.</span></p><p id=""_COMPSCI408758""><span id=""_COMPSCI408759"">3. </span><span id=""_COMPSCI408760"">explain the key metrics involved in driving start-up exponential growth, and how to optimise those metrics;</span></p><p id=""_COMPSCI408761""><span id=""_COMPSCI408762"">4. </span><span id=""_COMPSCI408763"">qualitatively and quantitatively predict the growth performance of a product or start-up based on current growth metrics</span></p><p id=""_COMPSCI408764""><span id=""_COMPSCI408765"">5. </span><span id=""_COMPSCI408766"">analyse and explain why some start-ups grow into very large-scale organisations, while others with similar products fail;</span></p><p id=""_COMPSCI408767""><span id=""_COMPSCI408768"">6. </span><span id=""_COMPSCI408769"">explain how growth teams are configured inside leading start-ups and the development models used by them.</span></p>",Startup Growth Engineering (H) COMPSCI4087,"<p id=""_COMPSCI40870""><span id=""_COMPSCI40871"">Start-up Growth Engineering comprises the techniques and best practices applied by the world's most successful tech companies to exponentially grow from the start-up phase into large-scale organisations, with millions of users.  These techniques have been distilled from best practices employed across start-ups in the Silicon Valley and elsewhere.   Start-up Growth Engineering moves beyond traditional product development and marketing activities into an integrated, scientific approach to introducing a new product idea into a market and driving viral user growth.    </span></p><p id=""_COMPSCI40872"">&nbsp;</p><p id=""_COMPSCI40873""><span id=""_COMPSCI40874"">The Start-up Growth Engineering course combines theory with a large number of practical examples taken from well-known organisations.  It equips students with the skills to employ their software engineering and product development skills more effectively, in a real-world environment.</span></p>","<p id=""_COMPSCI408740""><span id=""_COMPSCI408741"">To familiarise students with the fundamental techniques used by tech companies to drive exponential user growth, including user retention techniques, the different types of compounding growth mechanisms, and optimization techniques.</span></p><p id=""_COMPSCI408742"">&nbsp;</p><p id=""_COMPSCI408743""><span id=""_COMPSCI408744"">To equip students with the analytical and strategy skills necessary to analyse real-world start-up growth trajectories and construct predictive and optimisation models to drive user growth.    </span></p><p id=""_COMPSCI408745"">&nbsp;</p><p id=""_COMPSCI408746""><span id=""_COMPSCI408747"">To enable students to apply these techniques in team situations and to gain an understanding of the typical Growth Engineering team structures and processes employed in Silicon Valley and other leading start-up incubation areas</span><span id=""_COMPSCI408748"">.</span></p>","<p id=""_COMPSCI408750""><span id=""_COMPSCI408751"">By the end of this course students will be able to:</span></p><p id=""_COMPSCI408752""><span id=""_COMPSCI408753"">1. </span><span id=""_COMPSCI408754"">explain and apply the techniques used to create viral user growth in tech companies;</span></p><p id=""_COMPSCI408755""><span id=""_COMPSCI408756"">2. </span><span id=""_COMPSCI408757"">create a growth strategy for a start-up, designed to drive exponential growth.</span></p><p id=""_COMPSCI408758""><span id=""_COMPSCI408759"">3. </span><span id=""_COMPSCI408760"">explain the key metrics involved in driving start-up exponential growth, and how to optimise those metrics;</span></p><p id=""_COMPSCI408761""><span id=""_COMPSCI408762"">4. </span><span id=""_COMPSCI408763"">qualitatively and quantitatively predict the growth performance of a product or start-up based on current growth metrics</span></p><p id=""_COMPSCI408764""><span id=""_COMPSCI408765"">5. </span><span id=""_COMPSCI408766"">analyse and explain why some start-ups grow into very large-scale organisations, while others with similar products fail;</span></p><p id=""_COMPSCI408767""><span id=""_COMPSCI408768"">6. </span><span id=""_COMPSCI408769"">explain how growth teams are configured inside leading start-ups and the development models used by them.</span></p>"
+101,Glasgow_Scotland,COMPSCI4074,"<h2>Glasgow_Scotland COMPSCI4074</h2><h2>title</h2>Text as Data - An Introduction to Document Analytics (H) COMPSCI4074<h2>summary</h2><p id=""_COMPSCI40740""><span id=""_COMPSCI40741"">This course will introduce stochastic notions necessary for analysing text/documents, in both unsupervised and supervised approaches.</span><span id=""_COMPSCI40742"">&nbsp;</span><span id=""_COMPSCI40743"">The course is designed to be applied in nature, using various text analytics examples, and introducing students to various toolkits for document processing (e.g. Weka/Spark Mlib).</span></p><h2>content</h2><p id=""_COMPSCI407418""><span id=""_COMPSCI407419"">This course aims to introduce students to </span><span id=""_COMPSCI407420"">language modelling, geometric interpretations of documents, information theory, network models and in general the use of </span><span id=""_COMPSCI407421"">stochastic thinking (including building on the probability theory learned during the </span><span id=""_COMPSCI407422"">Data Fundamentals</span><span id=""_COMPSCI407423"">&nbsp;c</span><span id=""_COMPSCI407424"">ourse). This is</span><span id=""_COMPSCI407425"">&nbsp;illustrated through </span><span id=""_COMPSCI407426"">a number of</span><span id=""_COMPSCI407427"">&nbsp;supervised and unsupervised text processing and analytics approaches</span><span id=""_COMPSCI407428"">&nbsp;as well as their applications such as bibliometric analysis, web link analysis, and social media analytics</span><span id=""_COMPSCI407429"">. </span><span id=""_COMPSCI407430"">&nbsp;</span><span id=""_COMPSCI407431"">The course is designed to be applied in nature, using text analytics as an example, and introducing students to various toolkits for document processing (e.g. Weka/Spark </span><span id=""_COMPSCI407432"">Mlib</span><span id=""_COMPSCI407433"">).</span></p><h2>ilo</h2><p id=""_COMPSCI407436""><span id=""_COMPSCI407437"">By the end of this course students will be able to:</span></p><p id=""_COMPSCI407438""><span id=""_COMPSCI407439"">1. </span><span id=""_COMPSCI407440"">Describe classical models</span><span id=""_COMPSCI407441"">&nbsp;for textual representations</span><span id=""_COMPSCI407442"">&nbsp;such as the vector space, network graphs, language modelling.</span></p><p id=""_COMPSCI407443""><span id=""_COMPSCI407444"">2. </span><span id=""_COMPSCI407445"">Identify potential applications of text analytics in practice.  </span></p><p id=""_COMPSCI407446""><span id=""_COMPSCI407447"">3. </span><span id=""_COMPSCI407448"">Describe various common techniques for regression, classification, clustering and topic modelling, and select the appropriate machine learning task for a potential document processing application.</span></p><p id=""_COMPSCI407449""><span id=""_COMPSCI407450"">4. </span><span id=""_COMPSCI407451"">Represent data as features to serve as input to machine learning models. </span></p><p id=""_COMPSCI407452""><span id=""_COMPSCI407453"">5. </span><span id=""_COMPSCI407454"">Assess machine learning model quality in terms</span><span id=""_COMPSCI407455"">&nbsp;of relevant error metrics for</span><span id=""_COMPSCI407456"">&nbsp;document processing tasks, in an appropriate experimental design.</span></p><p id=""_COMPSCI407457""><span id=""_COMPSCI407458"">6. </span><span id=""_COMPSCI407459"">Deploy unsupervised and machine learned approaches for document/text analytics tasks.</span></p>",Text as Data - An Introduction to Document Analytics (H) COMPSCI4074,"<p id=""_COMPSCI40740""><span id=""_COMPSCI40741"">This course will introduce stochastic notions necessary for analysing text/documents, in both unsupervised and supervised approaches.</span><span id=""_COMPSCI40742"">&nbsp;</span><span id=""_COMPSCI40743"">The course is designed to be applied in nature, using various text analytics examples, and introducing students to various toolkits for document processing (e.g. Weka/Spark Mlib).</span></p>","<p id=""_COMPSCI407418""><span id=""_COMPSCI407419"">This course aims to introduce students to </span><span id=""_COMPSCI407420"">language modelling, geometric interpretations of documents, information theory, network models and in general the use of </span><span id=""_COMPSCI407421"">stochastic thinking (including building on the probability theory learned during the </span><span id=""_COMPSCI407422"">Data Fundamentals</span><span id=""_COMPSCI407423"">&nbsp;c</span><span id=""_COMPSCI407424"">ourse). This is</span><span id=""_COMPSCI407425"">&nbsp;illustrated through </span><span id=""_COMPSCI407426"">a number of</span><span id=""_COMPSCI407427"">&nbsp;supervised and unsupervised text processing and analytics approaches</span><span id=""_COMPSCI407428"">&nbsp;as well as their applications such as bibliometric analysis, web link analysis, and social media analytics</span><span id=""_COMPSCI407429"">. </span><span id=""_COMPSCI407430"">&nbsp;</span><span id=""_COMPSCI407431"">The course is designed to be applied in nature, using text analytics as an example, and introducing students to various toolkits for document processing (e.g. Weka/Spark </span><span id=""_COMPSCI407432"">Mlib</span><span id=""_COMPSCI407433"">).</span></p>","<p id=""_COMPSCI407436""><span id=""_COMPSCI407437"">By the end of this course students will be able to:</span></p><p id=""_COMPSCI407438""><span id=""_COMPSCI407439"">1. </span><span id=""_COMPSCI407440"">Describe classical models</span><span id=""_COMPSCI407441"">&nbsp;for textual representations</span><span id=""_COMPSCI407442"">&nbsp;such as the vector space, network graphs, language modelling.</span></p><p id=""_COMPSCI407443""><span id=""_COMPSCI407444"">2. </span><span id=""_COMPSCI407445"">Identify potential applications of text analytics in practice.  </span></p><p id=""_COMPSCI407446""><span id=""_COMPSCI407447"">3. </span><span id=""_COMPSCI407448"">Describe various common techniques for regression, classification, clustering and topic modelling, and select the appropriate machine learning task for a potential document processing application.</span></p><p id=""_COMPSCI407449""><span id=""_COMPSCI407450"">4. </span><span id=""_COMPSCI407451"">Represent data as features to serve as input to machine learning models. </span></p><p id=""_COMPSCI407452""><span id=""_COMPSCI407453"">5. </span><span id=""_COMPSCI407454"">Assess machine learning model quality in terms</span><span id=""_COMPSCI407455"">&nbsp;of relevant error metrics for</span><span id=""_COMPSCI407456"">&nbsp;document processing tasks, in an appropriate experimental design.</span></p><p id=""_COMPSCI407457""><span id=""_COMPSCI407458"">6. </span><span id=""_COMPSCI407459"">Deploy unsupervised and machine learned approaches for document/text analytics tasks.</span></p>"
+103,Glasgow_Scotland,COMPSCI4077,"<h2>Glasgow_Scotland COMPSCI4077</h2><h2>title</h2>Web Science (H) COMPSCI4077<h2>summary</h2><p id=""_COMPSCI40770""><span id=""_COMPSCI40771"">Web Science is the study of the World Wide Web (WWW), its components, facets and characteristics and the impact it has on both society and technology. The World Wide Web changed the way in which we create information, communicate and interact. New models of social networks (LinkedIn, Facebook, etc.) create opportunities, which were not </span><span id=""_COMPSCI40772"">available</span><span id=""_COMPSCI40773"">&nbsp;before. Exploiting such data and networks for the benefit of individuals and organizations has become a key in our knowledge society.</span></p><h2>content</h2><p id=""_COMPSCI407717""><span id=""_COMPSCI407718"">The objective of </span><span id=""_COMPSCI407719"">this course</span><span id=""_COMPSCI407720"">&nbsp;is to </span><span id=""_COMPSCI407721"">introduce students to the field of web science and critically examine methodologies and techniques used in the field.</span></p><h2>ilo</h2><p id=""_COMPSCI407727""><span id=""_COMPSCI407728"">By the end of this course students will be able to:</span></p><p id=""_COMPSCI407729""><span id=""_COMPSCI407730"">1. </span><span id=""_COMPSCI407731"">Skills to analyse and implement technical solutions on social web applications</span></p><p id=""_COMPSCI407732""><span id=""_COMPSCI407733"">2. </span><span id=""_COMPSCI407734"">Describe the techniques employed in developing advertising models on the web</span></p><p id=""_COMPSCI407735""><span id=""_COMPSCI407736"">3. </span><span id=""_COMPSCI407737"">Describe the techniques needed to analyse social networks</span></p><p id=""_COMPSCI407738""><span id=""_COMPSCI407739"">4. </span><span id=""_COMPSCI407740"">Ability to understand and rationalise privacy threats and mitigation strategies in online communities</span></p><p id=""_COMPSCI407741""><span id=""_COMPSCI407742"">5. </span><span id=""_COMPSCI407743"">Describe</span><span id=""_COMPSCI407744"">&nbsp;methodologies to conduct large scale data analysis</span><span id=""_COMPSCI407745"">&nbsp;to analyse user behaviour on the web,</span><span id=""_COMPSCI407746"">&nbsp;to predict user demographics and purchase behaviours</span></p><p id=""_COMPSCI407747""><span id=""_COMPSCI407748"">6. </span><span id=""_COMPSCI407749"">Describe</span><span id=""_COMPSCI407750"">&nbsp;sentiment and emotion extraction techniques</span><span id=""_COMPSCI407751"">&nbsp;and employ them.</span></p>",Web Science (H) COMPSCI4077,"<p id=""_COMPSCI40770""><span id=""_COMPSCI40771"">Web Science is the study of the World Wide Web (WWW), its components, facets and characteristics and the impact it has on both society and technology. The World Wide Web changed the way in which we create information, communicate and interact. New models of social networks (LinkedIn, Facebook, etc.) create opportunities, which were not </span><span id=""_COMPSCI40772"">available</span><span id=""_COMPSCI40773"">&nbsp;before. Exploiting such data and networks for the benefit of individuals and organizations has become a key in our knowledge society.</span></p>","<p id=""_COMPSCI407717""><span id=""_COMPSCI407718"">The objective of </span><span id=""_COMPSCI407719"">this course</span><span id=""_COMPSCI407720"">&nbsp;is to </span><span id=""_COMPSCI407721"">introduce students to the field of web science and critically examine methodologies and techniques used in the field.</span></p>","<p id=""_COMPSCI407727""><span id=""_COMPSCI407728"">By the end of this course students will be able to:</span></p><p id=""_COMPSCI407729""><span id=""_COMPSCI407730"">1. </span><span id=""_COMPSCI407731"">Skills to analyse and implement technical solutions on social web applications</span></p><p id=""_COMPSCI407732""><span id=""_COMPSCI407733"">2. </span><span id=""_COMPSCI407734"">Describe the techniques employed in developing advertising models on the web</span></p><p id=""_COMPSCI407735""><span id=""_COMPSCI407736"">3. </span><span id=""_COMPSCI407737"">Describe the techniques needed to analyse social networks</span></p><p id=""_COMPSCI407738""><span id=""_COMPSCI407739"">4. </span><span id=""_COMPSCI407740"">Ability to understand and rationalise privacy threats and mitigation strategies in online communities</span></p><p id=""_COMPSCI407741""><span id=""_COMPSCI407742"">5. </span><span id=""_COMPSCI407743"">Describe</span><span id=""_COMPSCI407744"">&nbsp;methodologies to conduct large scale data analysis</span><span id=""_COMPSCI407745"">&nbsp;to analyse user behaviour on the web,</span><span id=""_COMPSCI407746"">&nbsp;to predict user demographics and purchase behaviours</span></p><p id=""_COMPSCI407747""><span id=""_COMPSCI407748"">6. </span><span id=""_COMPSCI407749"">Describe</span><span id=""_COMPSCI407750"">&nbsp;sentiment and emotion extraction techniques</span><span id=""_COMPSCI407751"">&nbsp;and employ them.</span></p>"
+125,CAU_Germany,inf-EAeS,"<h2>CAU_Germany inf-EAeS</h2><h2>title</h2>Methods for Efficient Similarity Search in Large Data Sets<h2>summary</h2>The lecture presents new techniques for similarity search, especially feature-based similarity search in databases with complexly structured objects. The treated substance is used in many (non-computer science) sciences in which data-driven exploration is becoming an increasingly important topic, such as archaeology, medicine, and other natural sciences and humanities. This data includes, in particular, multimedia objects and general Multi-attribute objects objects with spatial expansion (e.g. CAD data, geo-objects, bio-molecules, etc.) Time series and sequence data (e.g. audio sequences, video sequences, etc.)<h2>content</h2>Introduction to feature-based similarity search
+Feature rooms and distance measurements
+Algorithmic paradigms for request processing
+Index structures for feature rooms and metric spaces
+Area inquiries
+Next-neighbours inquiries
+Reverse Next Neighbors Request
+Skyline requests and Pareto optimality
+Evaluation of methods for finding similarity
+Feature extraction of spatially extended objects
+Feature extraction of time series
+Neighborhood search in network graphs<h2>ilo</h2>The students know algorithmic techniques for the efficiency and effectiveness of the presented techniques for neighborhood search and neighborhood inquiry in non-standard databases (data sets) and can apply them practically. In addition, they have understood index-based search and multi-stage request processing as well as feature extraction methods for spatial and temporal data.",Methods for Efficient Similarity Search in Large Data Sets,"The lecture presents new techniques for similarity search, especially feature-based similarity search in databases with complexly structured objects. The treated substance is used in many (non-computer science) sciences in which data-driven exploration is becoming an increasingly important topic, such as archaeology, medicine, and other natural sciences and humanities. This data includes, in particular, multimedia objects and general Multi-attribute objects objects with spatial expansion (e.g. CAD data, geo-objects, bio-molecules, etc.) Time series and sequence data (e.g. audio sequences, video sequences, etc.)","Introduction to feature-based similarity search
+Feature rooms and distance measurements
+Algorithmic paradigms for request processing
+Index structures for feature rooms and metric spaces
+Area inquiries
+Next-neighbours inquiries
+Reverse Next Neighbors Request
+Skyline requests and Pareto optimality
+Evaluation of methods for finding similarity
+Feature extraction of spatially extended objects
+Feature extraction of time series
+Neighborhood search in network graphs","The students know algorithmic techniques for the efficiency and effectiveness of the presented techniques for neighborhood search and neighborhood inquiry in non-standard databases (data sets) and can apply them practically. In addition, they have understood index-based search and multi-stage request processing as well as feature extraction methods for spatial and temporal data."
+127,CAU_Germany,inf-TM,"<h2>CAU_Germany inf-TM</h2><h2>title</h2>Text Mining<h2>summary</h2>The digital age and the success of the Internet in particular has led to a huge amount of publicly available documents and textual information. The task of text mining is to process this unstructured information and extract knowledge. To this end, we will present methods, algorithms, and models that support a diverse set of text mining applications, ranging from regular expressions and lexicon-based sentiment analysis, to more complex methods using machine learning, such as probabilistic topic models.
+
+<h2>content</h2>
+Foundation of linguistics Information extraction Named entities Opinion mining & sentiment analysis Preprocessing of textual data Representation of documents Word associations Topic Modeling Foundations of machine learning Document classification Clustering Sequence labeling Visualizing textual data Ethics & bias<h2>ilo</h2>
+Students are able to...
+
+understand basic concepts of text mining and their commercial application
+explain, apply, and evaluate text mining methods
+implement text mining applications in Python
+",Text Mining,"The digital age and the success of the Internet in particular has led to a huge amount of publicly available documents and textual information. The task of text mining is to process this unstructured information and extract knowledge. To this end, we will present methods, algorithms, and models that support a diverse set of text mining applications, ranging from regular expressions and lexicon-based sentiment analysis, to more complex methods using machine learning, such as probabilistic topic models.
+
+","
+Foundation of linguistics Information extraction Named entities Opinion mining & sentiment analysis Preprocessing of textual data Representation of documents Word associations Topic Modeling Foundations of machine learning Document classification Clustering Sequence labeling Visualizing textual data Ethics & bias","
+Students are able to...
+
+understand basic concepts of text mining and their commercial application
+explain, apply, and evaluate text mining methods
+implement text mining applications in Python
+"
+133,CAU_Germany,WInf-eBeM,"<h2>CAU_Germany WInf-eBeM</h2><h2>title</h2>E-Business und E-Marketing<h2>summary</h2>In this module, important application systems and their implementation are considered as examples. In addition, the integration of subcomponents is considered. Deployment concepts are developed from a business point of view.<h2>content</h2>
+
+The subject of the event is the following areas and subsystems of electronic commerce:
+
+Web shops and eProcurement
+Customer Relationship Management Systems (CRM)
+Public administration systems (e.g. B. E-Government)
+mobile trade
+Integration of systems, e.g. web shop with CRM and merchandise management systems
+Trade between companies and marketing concepts is considered.<h2>ilo</h2>The participants have an in-depth understanding of selected sub-areas of electronic commerce and other operational application systems. The theoretical aspects known from other events are supplemented by an understanding of the practical procedure. The students have experience in the practical use of the systems and know procedures for the systematic procedure. They have developed the first business models and can understand business models that are typical of electronic commerce.
+",E-Business und E-Marketing,"In this module, important application systems and their implementation are considered as examples. In addition, the integration of subcomponents is considered. Deployment concepts are developed from a business point of view.","
+
+The subject of the event is the following areas and subsystems of electronic commerce:
+
+Web shops and eProcurement
+Customer Relationship Management Systems (CRM)
+Public administration systems (e.g. B. E-Government)
+mobile trade
+Integration of systems, e.g. web shop with CRM and merchandise management systems
+Trade between companies and marketing concepts is considered.","The participants have an in-depth understanding of selected sub-areas of electronic commerce and other operational application systems. The theoretical aspects known from other events are supplemented by an understanding of the practical procedure. The students have experience in the practical use of the systems and know procedures for the systematic procedure. They have developed the first business models and can understand business models that are typical of electronic commerce.
+"
+143,Kennesaw_USA,CS4265,"<h2>Kennesaw_USA CS4265</h2><h2>title</h2>Big Data Analytics<h2>summary</h2>This course covers algorithms and tools that are needed to build MapReduce applications with Hadoop or Spark for processing gigabyte, terabyte, or petabyte-sized datasets on clusters of commodity hardware. A wide range of data algorithms will be discussed in this course. <h2>ilo</h2>1. Explain MapReduce framework for big data analytics
+2. Use Hadoop and Spark for big data analytics
+3. Design and implement a wide range of data algorithms",Big Data Analytics,"This course covers algorithms and tools that are needed to build MapReduce applications with Hadoop or Spark for processing gigabyte, terabyte, or petabyte-sized datasets on clusters of commodity hardware. A wide range of data algorithms will be discussed in this course. ",,"1. Explain MapReduce framework for big data analytics
+2. Use Hadoop and Spark for big data analytics
+3. Design and implement a wide range of data algorithms"
+147,Kennesaw_USA,CS4412,"<h2>Kennesaw_USA CS4412</h2><h2>title</h2>Data Mining<h2>summary</h2>This course covers fundamental data mining concepts and techniques for discovering interesting patterns from data in various applications. Topics include data preprocessing, data warehousing and OLAP, mining frequent patterns, classification, clustering, and tend analysis. <h2>ilo</h2>1. Explain fundamental data mining concepts and techniques
+2. Implement typical data mining algorithms
+3. Apply data mining techniques to solve real life problem
+4. Design and construct data warehouse",Data Mining,"This course covers fundamental data mining concepts and techniques for discovering interesting patterns from data in various applications. Topics include data preprocessing, data warehousing and OLAP, mining frequent patterns, classification, clustering, and tend analysis. ",,"1. Explain fundamental data mining concepts and techniques
+2. Implement typical data mining algorithms
+3. Apply data mining techniques to solve real life problem
+4. Design and construct data warehouse"
+148,Kennesaw_USA,CS4422,"<h2>Kennesaw_USA CS4422</h2><h2>title</h2>Information Retrieval<h2>summary</h2>This course covers the fundamentals of Internet search engines, including Web crawlers, inverted indices, hyperlink analysis, and relevance ranking. Also covered are advanced topics including information extraction for knowledge base construction, question answering, search marketing and ad targeting, and activity mining for relevance optimization and personalization. <h2>ilo</h2>1. Master the fundamentals of Web search engines
+2. Master the Web search related enabling technologies.
+3. Explore information extraction for knowledge base construction
+4. Explore search marketing and ad targeting
+5. Explore relevance optimization",Information Retrieval,"This course covers the fundamentals of Internet search engines, including Web crawlers, inverted indices, hyperlink analysis, and relevance ranking. Also covered are advanced topics including information extraction for knowledge base construction, question answering, search marketing and ad targeting, and activity mining for relevance optimization and personalization. ",,"1. Master the fundamentals of Web search engines
+2. Master the Web search related enabling technologies.
+3. Explore information extraction for knowledge base construction
+4. Explore search marketing and ad targeting
+5. Explore relevance optimization"
+150,Kennesaw_USA,CS4524,"<h2>Kennesaw_USA CS4524</h2><h2>title</h2>Cloud Computing<h2>summary</h2>This course discusses the fundamental concepts and techniques of cloud computing. Students will develop an understanding of cloud computing architecture, Infrastructure as a Service (IaaS), Platform-as-a-Service (PaaS), Software as a Service (SaaS), Virtualization, and Application Development on Cloud. <h2>ilo</h2>1. Explain fundamental concepts and architecture of Cloud Computing
+2. Explain the concepts of IaaS, PaaS, SaaS
+3. Explain virtualization
+4. Explain distributed computing environment on cloud
+5. Develop applications on cloud
+6. Conduct big data analytics on cloud",Cloud Computing,"This course discusses the fundamental concepts and techniques of cloud computing. Students will develop an understanding of cloud computing architecture, Infrastructure as a Service (IaaS), Platform-as-a-Service (PaaS), Software as a Service (SaaS), Virtualization, and Application Development on Cloud. ",,"1. Explain fundamental concepts and architecture of Cloud Computing
+2. Explain the concepts of IaaS, PaaS, SaaS
+3. Explain virtualization
+4. Explain distributed computing environment on cloud
+5. Develop applications on cloud
+6. Conduct big data analytics on cloud"
+161,Kennesaw_USA,CYBR3153,"<h2>Kennesaw_USA CYBR3153</h2><h2>title</h2>Database Systems<h2>summary</h2>The topics in this course span from a review of the traditional file processing systems to database management systems. Topics include files systems and file processing logic, planning, and major phases of database development: analysis, design and implementation. Labs use an SQL based database product such as Oracle. <h2>ilo</h2>1. Describe basic database terminology
+2. Analyze an Enterprise using E R diagrams and develop the conceptual model through normalization
+3. Describe basic parts of the relational database model the object-oriented model and file organizations
+4. Create modify and query databases using the SQL language
+5. Describe the client-server model for databases and how relational databases can be used on the internet
+6. Create an application using a database",Database Systems,"The topics in this course span from a review of the traditional file processing systems to database management systems. Topics include files systems and file processing logic, planning, and major phases of database development: analysis, design and implementation. Labs use an SQL based database product such as Oracle. ",,"1. Describe basic database terminology
+2. Analyze an Enterprise using E R diagrams and develop the conceptual model through normalization
+3. Describe basic parts of the relational database model the object-oriented model and file organizations
+4. Create modify and query databases using the SQL language
+5. Describe the client-server model for databases and how relational databases can be used on the internet
+6. Create an application using a database"
+176,Kennesaw_USA,IT3503,"<h2>Kennesaw_USA IT3503</h2><h2>title</h2>Foundations of Health Information Technology<h2>summary</h2>This course introduces students to the field of health information technology (HIT). Students will become familiar with the content, use, and structure of the health care data and medical records, health information management, the fundamentals of healthcare workflow and process analysis and redesign as a necessary component of complete practice automation, and health information systems. Students will also become familiar with the health care delivery systems in the U.S. and IT organizations and resources. <h2>ilo</h2>1. Describe the healthcare delivery systems and different healthcare settings in the U.S. and the reimbursement methodologies utilized in healthcare organizations
+2. Describe the factors that had led to a need for health information technology and Electronic Health Record systems
+3. Provide examples of different types of health information technology used in the healthcare organizations
+4. Explain the importance of health data management and performance improvement activities in the healthcare environment
+5. Identify the effect the ethical and legal issues on health information technology
+6. Explain HIPAA and HITECH regulations and analyze ways to maintain the privacy and security of protected health information
+7. Recognize the future of health information technology in order to be an organizational resource in this topic area",Foundations of Health Information Technology,"This course introduces students to the field of health information technology (HIT). Students will become familiar with the content, use, and structure of the health care data and medical records, health information management, the fundamentals of healthcare workflow and process analysis and redesign as a necessary component of complete practice automation, and health information systems. Students will also become familiar with the health care delivery systems in the U.S. and IT organizations and resources. ",,"1. Describe the healthcare delivery systems and different healthcare settings in the U.S. and the reimbursement methodologies utilized in healthcare organizations
+2. Describe the factors that had led to a need for health information technology and Electronic Health Record systems
+3. Provide examples of different types of health information technology used in the healthcare organizations
+4. Explain the importance of health data management and performance improvement activities in the healthcare environment
+5. Identify the effect the ethical and legal issues on health information technology
+6. Explain HIPAA and HITECH regulations and analyze ways to maintain the privacy and security of protected health information
+7. Recognize the future of health information technology in order to be an organizational resource in this topic area"
+177,Kennesaw_USA,IT3703,"<h2>Kennesaw_USA IT3703</h2><h2>title</h2>Introduction to Data Analytics and Technology<h2>summary</h2>This course provides a comprehensive overview of processing technologies, systems, and application. Latest trends in data analytics, big data, and data science will be introduced. <h2>ilo</h2>1. Describe the role of data and data technologies in todayâ€™s organizational environments.
+2. Identify key functional areas and trends in data management and analytics.
+3. Describe common data formats and models used in data driven solutions.
+4. Compare and contrast technologies, systems, and approaches used for data and information management.
+5. Analyze the general process and the methods involved in a data analytics solution.",Introduction to Data Analytics and Technology,"This course provides a comprehensive overview of processing technologies, systems, and application. Latest trends in data analytics, big data, and data science will be introduced. ",,"1. Describe the role of data and data technologies in todayâ€™s organizational environments.
+2. Identify key functional areas and trends in data management and analytics.
+3. Describe common data formats and models used in data driven solutions.
+4. Compare and contrast technologies, systems, and approaches used for data and information management.
+5. Analyze the general process and the methods involved in a data analytics solution."
+178,Kennesaw_USA,IT4153,"<h2>Kennesaw_USA IT4153</h2><h2>title</h2>Advanced Database<h2>summary</h2>This course will study how databases are used with programming applications. Topics include advanced PL/SQL (or similar database programming language), database transaction, database security, database maintenance, and distributed and web databases. <h2>ilo</h2>1. Understand and describe current and emerging database models and technologies
+2. Develop functions and procedures for data manipulation and database access auditing
+3. Describe database monitoring and performance tuning
+4. Describe database security and administration issues, including backup and recovery
+5. Explain the concepts of data warehousing and data mining",Advanced Database,"This course will study how databases are used with programming applications. Topics include advanced PL/SQL (or similar database programming language), database transaction, database security, database maintenance, and distributed and web databases. ",,"1. Understand and describe current and emerging database models and technologies
+2. Develop functions and procedures for data manipulation and database access auditing
+3. Describe database monitoring and performance tuning
+4. Describe database security and administration issues, including backup and recovery
+5. Explain the concepts of data warehousing and data mining"
+182,Kennesaw_USA,IT4513,"<h2>Kennesaw_USA IT4513</h2><h2>title</h2>Electronic Health Record Systems & Applications<h2>summary</h2>This course provides an overview of the importance of key technical aspects of electronic health records, the overall architecture, features and functions of major EHR systems. Hands-on exercises with EHR systems allow students to learn by doing. <h2>ilo</h2>1. Explain the terminology, concept and functionality of EHR systems
+2. Identify a set of widely adopted standards for EHR systems
+3. Describe how EHRs change the healthcare delivery workflows and how to manage the change
+4. Demonstrate a working knowledge of principles and practices of EHR systems in different healthcare settings
+5. Analyze challenges and emerging trends of EHR systems
+6. Recognize the future of health information technology in order to be an organizational resource in this topic area",Electronic Health Record Systems & Applications,"This course provides an overview of the importance of key technical aspects of electronic health records, the overall architecture, features and functions of major EHR systems. Hands-on exercises with EHR systems allow students to learn by doing. ",,"1. Explain the terminology, concept and functionality of EHR systems
+2. Identify a set of widely adopted standards for EHR systems
+3. Describe how EHRs change the healthcare delivery workflows and how to manage the change
+4. Demonstrate a working knowledge of principles and practices of EHR systems in different healthcare settings
+5. Analyze challenges and emerging trends of EHR systems
+6. Recognize the future of health information technology in order to be an organizational resource in this topic area"
+188,Kennesaw_USA,IT4733,"<h2>Kennesaw_USA IT4733</h2><h2>title</h2>Big Data System Administration<h2>summary</h2>This course introduces contemporary distributed big data platforms and database systems. Topics include big data computing paradigms, big data platform architectures and administration, and big data database concepts and administration. <h2>ilo</h2>1. Explain the contemporary big data computing paradigm.
+2. Compare NoSQL database systems with traditional database systems.
+3. Perform system administration on contemporary big data platforms",Big Data System Administration,"This course introduces contemporary distributed big data platforms and database systems. Topics include big data computing paradigms, big data platform architectures and administration, and big data database concepts and administration. ",,"1. Explain the contemporary big data computing paradigm.
+2. Compare NoSQL database systems with traditional database systems.
+3. Perform system administration on contemporary big data platforms"
+189,Kennesaw_USA,IT4773,"<h2>Kennesaw_USA IT4773</h2><h2>title</h2>Machine Learning for Enterprise Applications<h2>summary</h2>This course covers enterprise applications of machine learning on data analytics.  Topics span the complete life cycle of data analytics from envisioning the problem, identifying proper data, selecting suitable machine learning methods, evaluating modeling performance, and deploying the results to improve decision-making. <h2>ilo</h2>1. explain the concepts of supervised and unsupervised learning
+2. explain the concepts of how machine learning fits in the organization/enterprise and leads to competitive advantages. 
+3. Perform data analytics using supervised and unsupervised learning. 
+4. Evaluate the performance of machine learning models on data analysis.",Machine Learning for Enterprise Applications,"This course covers enterprise applications of machine learning on data analytics.  Topics span the complete life cycle of data analytics from envisioning the problem, identifying proper data, selecting suitable machine learning methods, evaluating modeling performance, and deploying the results to improve decision-making. ",,"1. explain the concepts of supervised and unsupervised learning
+2. explain the concepts of how machine learning fits in the organization/enterprise and leads to competitive advantages. 
+3. Perform data analytics using supervised and unsupervised learning. 
+4. Evaluate the performance of machine learning models on data analysis."
+190,Kennesaw_USA,IT4793,"<h2>Kennesaw_USA IT4793</h2><h2>title</h2>Applied Data Driven Solutions<h2>summary</h2>This course will apply data technologies and applications in a chosen application domain and expose students to real world problems and issues. Students will analyze, design, and develop a practical and technical data driven solution in a chosen field, such as healthcare, finance, security, social media, academia, sports, and utilities. <h2>ilo</h2>1. Describe common data concepts, practices, and issues in a chosen domain.
+2. Analyze practical problems and requirements in a context (a company, organization, or other entities).
+3. Design and develop a technical solution driven by data technologies to address the problems identified.",Applied Data Driven Solutions,"This course will apply data technologies and applications in a chosen application domain and expose students to real world problems and issues. Students will analyze, design, and develop a practical and technical data driven solution in a chosen field, such as healthcare, finance, security, social media, academia, sports, and utilities. ",,"1. Describe common data concepts, practices, and issues in a chosen domain.
+2. Analyze practical problems and requirements in a context (a company, organization, or other entities).
+3. Design and develop a technical solution driven by data technologies to address the problems identified."
+193,Kennesaw_USA,IT4853,"<h2>Kennesaw_USA IT4853</h2><h2>title</h2>Computer Forensics<h2>summary</h2>This course studies techniques and tools in computing investigation, digital evidence collection, recovery, and analysis. Topics include: Legal issues relating to digital evidence, recover deleted files and discover hidden information, reconstruct user activity from e-mail, temporary Internet files and cached data, assess the integrity of system memory and process architecture to reveal malicious code. <h2>ilo</h2>1. Define and explain the role of digital forensics in the incident response and investigatory process
+2. Identify the requirements for proper evidence collection, handling and storage
+3. Identify and explain basic techniques to properly collect and analyze evidentiary data using appropriate tools and techniques in common scenarios
+4. Organize and present evidentiary data and investigatory findings for use in corporate or legal proceedings",Computer Forensics,"This course studies techniques and tools in computing investigation, digital evidence collection, recovery, and analysis. Topics include: Legal issues relating to digital evidence, recover deleted files and discover hidden information, reconstruct user activity from e-mail, temporary Internet files and cached data, assess the integrity of system memory and process architecture to reveal malicious code. ",,"1. Define and explain the role of digital forensics in the incident response and investigatory process
+2. Identify the requirements for proper evidence collection, handling and storage
+3. Identify and explain basic techniques to properly collect and analyze evidentiary data using appropriate tools and techniques in common scenarios
+4. Organize and present evidentiary data and investigatory findings for use in corporate or legal proceedings"
+218,UOC_Spain,5.579,"<h2>UOC_Spain 05.579</h2><h2>title</h2>Automata and grammars<h2>summary</h2>A very important part of the information available today is available in textual format: web pages, configuration files, scripts, computer programs or even natural language text. For a computer to be able to use this information, it needs to be able to interpret it according to the rules of the language in which it is written.
+
+In this subject, basic techniques are presented to describe the structure of a language, regular expressions and context-free grammars. These notations are used, for example, to describe programming languages ​​or describe text patterns for searching.
+
+In addition, the mechanisms used by computers to recognize if a sentence is correctly formed according to the structure of a language are presented. Specifically, finite automata and stacked automata are presented.
+
+In summary, this subject provides the basic tools to know how to handle textual information with a computer.<h2>content</h2>The subject is structured in three modules:
+
+1. Alphabets, words and languages
+
+1. Basic elements: alphabets, words and languages
+
+2. Operations with words
+
+3. Operations on languages
+
+4. Definition of languages
+
+This module describes the elements that make up a language and the operations to manipulate them.
+
+2. Finite automata and regular languages
+
+1. Deterministic finite automata and regular languages
+
+2. Indeterministic finite automata
+
+3. Operations with finite automata
+
+4. Minimization of finite automata
+
+5. Regular Expressions
+
+6. The motto of the bomb
+
+The simplest class of languages, regular languages, is introduced. A formalism is provided to describe these languages ​​(regular expressions) and another to recognize the words that are part of them (stack automata).
+
+3. Non-contextual grammars and stack automata
+
+1. Introductory concepts
+
+2. Derivation tree and ambiguity
+
+3. Grammar review
+
+4. Simplification of a grammar
+
+5. Normal forms
+
+6. Automata with battery
+
+7. Properties of decontextualized languages
+
+A class of more complex languages, called context-independent, is introduced. The structure of this language is described by grammars and its words are recognized by stack automata.",Automata and grammars,"A very important part of the information available today is available in textual format: web pages, configuration files, scripts, computer programs or even natural language text. For a computer to be able to use this information, it needs to be able to interpret it according to the rules of the language in which it is written.
+
+In this subject, basic techniques are presented to describe the structure of a language, regular expressions and context-free grammars. These notations are used, for example, to describe programming languages ​​or describe text patterns for searching.
+
+In addition, the mechanisms used by computers to recognize if a sentence is correctly formed according to the structure of a language are presented. Specifically, finite automata and stacked automata are presented.
+
+In summary, this subject provides the basic tools to know how to handle textual information with a computer.","The subject is structured in three modules:
+
+1. Alphabets, words and languages
+
+1. Basic elements: alphabets, words and languages
+
+2. Operations with words
+
+3. Operations on languages
+
+4. Definition of languages
+
+This module describes the elements that make up a language and the operations to manipulate them.
+
+2. Finite automata and regular languages
+
+1. Deterministic finite automata and regular languages
+
+2. Indeterministic finite automata
+
+3. Operations with finite automata
+
+4. Minimization of finite automata
+
+5. Regular Expressions
+
+6. The motto of the bomb
+
+The simplest class of languages, regular languages, is introduced. A formalism is provided to describe these languages ​​(regular expressions) and another to recognize the words that are part of them (stack automata).
+
+3. Non-contextual grammars and stack automata
+
+1. Introductory concepts
+
+2. Derivation tree and ambiguity
+
+3. Grammar review
+
+4. Simplification of a grammar
+
+5. Normal forms
+
+6. Automata with battery
+
+7. Properties of decontextualized languages
+
+A class of more complex languages, called context-independent, is introduced. The structure of this language is described by grammars and its words are recognized by stack automata.",
+222,UOC_Spain,5.584,"<h2>UOC_Spain 05.584</h2><h2>title</h2>Data mining<h2>summary</h2>Data is the new oil. Therefore, Data Mining is a subject to apply the previous knowledge acquired to Statistics and Databases and present some new ones more specific to the field of knowledge extraction. A set of methods from Artificial Intelligence are presented, which form the essential core of the discipline known as Data Mining. The basic concepts of the mentioned subjects are very useful in this matter and will allow a better evaluation of some of the techniques that will be studied.<h2>content</h2>The didactic material of the subject is divided into six modules and a prologue that present a notable interrelationship between them. The sixth is a case study that can be used to see how the methods explained in the other modules are applied in a concrete and real case.
+
+Below you can see the modules that have to be worked on to achieve the objectives of the course.
+
+Module 1: The Data Mining process.
+
+Discovery of knowledge from data.
+The phases of the knowledge extraction process.
+Data mining tools.
+
+Module 2: Data preprocessing and feature management.
+
+Transformation of values.
+Dimensionality reduction.
+missing values.
+Feature display.
+Selection of characteristics.
+Feature engineering.
+
+Module 3: Unsupervised models
+
+Pre-eliminate concepts.
+Grouping and segmentation.
+Density-based models.
+affinity propagation.
+
+Module 4: Supervised models
+
+Proximity-based models.
+Decision trees.
+Regression models.
+
+Module 5: Evaluation of models.
+
+Evaluation of supervised classification models.
+Evaluation of supervised regression models.
+Evaluation of unsupervised models.
+
+Module 6: Case Study.
+
+Presentation of the case
+Step 1: Establish an analytical objective
+Step 2: Verify the data
+Step 3: data preprocessing
+Step 4: exploratory analysis
+Step 5: Classification
+Step 6: Reproducibility",Data mining,"Data is the new oil. Therefore, Data Mining is a subject to apply the previous knowledge acquired to Statistics and Databases and present some new ones more specific to the field of knowledge extraction. A set of methods from Artificial Intelligence are presented, which form the essential core of the discipline known as Data Mining. The basic concepts of the mentioned subjects are very useful in this matter and will allow a better evaluation of some of the techniques that will be studied.","The didactic material of the subject is divided into six modules and a prologue that present a notable interrelationship between them. The sixth is a case study that can be used to see how the methods explained in the other modules are applied in a concrete and real case.
+
+Below you can see the modules that have to be worked on to achieve the objectives of the course.
+
+Module 1: The Data Mining process.
+
+Discovery of knowledge from data.
+The phases of the knowledge extraction process.
+Data mining tools.
+
+Module 2: Data preprocessing and feature management.
+
+Transformation of values.
+Dimensionality reduction.
+missing values.
+Feature display.
+Selection of characteristics.
+Feature engineering.
+
+Module 3: Unsupervised models
+
+Pre-eliminate concepts.
+Grouping and segmentation.
+Density-based models.
+affinity propagation.
+
+Module 4: Supervised models
+
+Proximity-based models.
+Decision trees.
+Regression models.
+
+Module 5: Evaluation of models.
+
+Evaluation of supervised classification models.
+Evaluation of supervised regression models.
+Evaluation of unsupervised models.
+
+Module 6: Case Study.
+
+Presentation of the case
+Step 1: Establish an analytical objective
+Step 2: Verify the data
+Step 3: data preprocessing
+Step 4: exploratory analysis
+Step 5: Classification
+Step 6: Reproducibility",
+231,UOC_Spain,5.596,"<h2>UOC_Spain 05.596</h2><h2>title</h2>Foundations of information systems<h2>summary</h2>The continuous innovations in information and communication technologies are transforming the corporate business world into new models, new processes and new business needs. This environment has favored the investments of the companies to be more competitive in the current market, allocating a budget to the acquisition, implementation or updating of information systems.
+
+In this topic we present the basic concepts of information systems, the types of information systems, the relevance of information systems for companies, what the first information systems were like, how they have evolved and what the systems of the system have to contribute. future. In companies
+
+We will know the main information system: Enterprise Resource Planning, today also known as basic or traditional.
+
+We will see how the incorporation of new functionalities in the evolution of ERP systems gives rise to new collaborative information systems: Customer Relationship Management (CRM), Supplier Chain Management (SCM) or Business Intelligence (BI).
+
+And a transversal theme to any company information system, its implementation. We will cover the life cycle of an implementation project, the characteristics of its different phases, the problems and what guidelines to follow to obtain a successful implementation.<h2>content</h2>The concept of information system is gradually introduced in the different didactic modules: beginning with its definition, presenting the different types of information systems that exist, showing the most important information systems for companies, and ending with a module on how to these systems are implemented. in companies it is managed.
+
+The content of the subject is divided into the following didactic modules:
+
+Module 0. Introduction to information systems in organizations
+
+the information system
+Information system management
+The typologies of information systems.
+The implementation of the information system
+information security
+
+Module 1. Business Information System
+
+Business information system concept
+Historical evolution of the ERP system
+ERP system architecture
+functional modules
+ERP system life cycle
+ERP system providers
+
+Module 2. Business Cooperation Systems
+
+Enterprise Project Management (EPM)
+Supply Chain Management (SCM)
+Customer relationship management (CRM)
+Electronic commerce (e-business)
+Business Intelligence (BI)
+Knowledge Management (KM)
+document management
+
+Module 3. Implementation of Business Information Systems
+
+Characteristics of business information systems.
+Deployment Lifecycle Phases
+Phase 1. Adoption of the system: The decision to acquire an ERP
+Phase 2. Selection of the standard solution
+Phase 3. Implementation of the solution
+Phase 4. Commissioning
+Change management
+Project management
+
+Module 4. Practical Case: Rural Tourism (Example)
+
+Presentation of the practical case
+General solution approach
+Proposed solution",Foundations of information systems,"The continuous innovations in information and communication technologies are transforming the corporate business world into new models, new processes and new business needs. This environment has favored the investments of the companies to be more competitive in the current market, allocating a budget to the acquisition, implementation or updating of information systems.
+
+In this topic we present the basic concepts of information systems, the types of information systems, the relevance of information systems for companies, what the first information systems were like, how they have evolved and what the systems of the system have to contribute. future. In companies
+
+We will know the main information system: Enterprise Resource Planning, today also known as basic or traditional.
+
+We will see how the incorporation of new functionalities in the evolution of ERP systems gives rise to new collaborative information systems: Customer Relationship Management (CRM), Supplier Chain Management (SCM) or Business Intelligence (BI).
+
+And a transversal theme to any company information system, its implementation. We will cover the life cycle of an implementation project, the characteristics of its different phases, the problems and what guidelines to follow to obtain a successful implementation.","The concept of information system is gradually introduced in the different didactic modules: beginning with its definition, presenting the different types of information systems that exist, showing the most important information systems for companies, and ending with a module on how to these systems are implemented. in companies it is managed.
+
+The content of the subject is divided into the following didactic modules:
+
+Module 0. Introduction to information systems in organizations
+
+the information system
+Information system management
+The typologies of information systems.
+The implementation of the information system
+information security
+
+Module 1. Business Information System
+
+Business information system concept
+Historical evolution of the ERP system
+ERP system architecture
+functional modules
+ERP system life cycle
+ERP system providers
+
+Module 2. Business Cooperation Systems
+
+Enterprise Project Management (EPM)
+Supply Chain Management (SCM)
+Customer relationship management (CRM)
+Electronic commerce (e-business)
+Business Intelligence (BI)
+Knowledge Management (KM)
+document management
+
+Module 3. Implementation of Business Information Systems
+
+Characteristics of business information systems.
+Deployment Lifecycle Phases
+Phase 1. Adoption of the system: The decision to acquire an ERP
+Phase 2. Selection of the standard solution
+Phase 3. Implementation of the solution
+Phase 4. Commissioning
+Change management
+Project management
+
+Module 4. Practical Case: Rural Tourism (Example)
+
+Presentation of the practical case
+General solution approach
+Proposed solution",
+232,UOC_Spain,5.597,"<h2>UOC_Spain 05.597</h2><h2>title</h2>Information systems integration<h2>summary</h2>The contents of the subject ""Information Systems Integration"" (ISI) revolve around the various meanings of the word ""integration"" in relation to organizations of all kinds, and the information systems they use. Thus, to begin with, we will see the type of problems that usually arise in organizations with little structural integration, as well as the proposals that contribute to a better business integration, mainly the definition and implementation of business processes, transversal to the classic functional ones. areas
+
+Subsequently, it will be seen how organizations have been developing and implementing new information systems as a fundamental tool for their structural and informational integration, and as a means for their progress in terms of their functional management and strategic direction, in short, for their progress. in terms of quality and competitiveness.
+
+In this line, the different integrating roles that companies pursue through the main types of business information systems implemented in recent years, from ERP systems to BI systems, through CRM and SCM systems, through for EAI projects. Finally, some of the concepts related to the implementation of information systems in organizations will be introduced from a very practical point of view.<h2>content</h2>The purpose of the didactic material is to complement the theoretical knowledge of the modules studied with practical activities that allow the student to acquire basic theoretical and practical knowledge. With this, it is intended that, once the subject is finished, the acquired competences allow the student to apply the knowledge and methodologies to other circumstances and needs, both in the educational context and in professional life.
+
+The concepts around Business Integration through Information Systems are introduced progressively and gradually throughout the different didactic modules of the subject. From a thematic point of view, the subject is broken down into 4 main didactic modules:
+
+1. Motivations and Fundamentals of Business Integration.
+
+ 2. Vertical Integration through Information Systems.
+
+ 3. Horizontal Integration through Information Systems.
+
+ 4. Implementation of Information Systems in the company.",Information systems integration,"The contents of the subject ""Information Systems Integration"" (ISI) revolve around the various meanings of the word ""integration"" in relation to organizations of all kinds, and the information systems they use. Thus, to begin with, we will see the type of problems that usually arise in organizations with little structural integration, as well as the proposals that contribute to a better business integration, mainly the definition and implementation of business processes, transversal to the classic functional ones. areas
+
+Subsequently, it will be seen how organizations have been developing and implementing new information systems as a fundamental tool for their structural and informational integration, and as a means for their progress in terms of their functional management and strategic direction, in short, for their progress. in terms of quality and competitiveness.
+
+In this line, the different integrating roles that companies pursue through the main types of business information systems implemented in recent years, from ERP systems to BI systems, through CRM and SCM systems, through for EAI projects. Finally, some of the concepts related to the implementation of information systems in organizations will be introduced from a very practical point of view.","The purpose of the didactic material is to complement the theoretical knowledge of the modules studied with practical activities that allow the student to acquire basic theoretical and practical knowledge. With this, it is intended that, once the subject is finished, the acquired competences allow the student to apply the knowledge and methodologies to other circumstances and needs, both in the educational context and in professional life.
+
+The concepts around Business Integration through Information Systems are introduced progressively and gradually throughout the different didactic modules of the subject. From a thematic point of view, the subject is broken down into 4 main didactic modules:
+
+1. Motivations and Fundamentals of Business Integration.
+
+ 2. Vertical Integration through Information Systems.
+
+ 3. Horizontal Integration through Information Systems.
+
+ 4. Implementation of Information Systems in the company.",
+235,UOC_Spain,5.6,"<h2>UOC_Spain 05.600</h2><h2>title</h2>Planning and strategic use of IS<h2>summary</h2>The mission of this course is to introduce students of Computer Engineering and other careers to the basics to understand the strategic uses of technology in organizations and the management and strategic planning of information systems. In increasingly complex environments, information and technology management represents a key aspect for the success and proper functioning of any type of organization, whether private companies or public administrations.
+
+This is a relatively new discipline, both in academic theory and research, and in professional practice. The concept of CIO (the chief executive officer responsible for company information and technology) appeared in the early 1980s and the Association for Information Systems (AIS) was established in 1994.
+
+Information systems management involves the design, effective delivery, use, and impact of information technology within organizations and on society. In the words of Keen (1987), the main focus of this course is the improvement of management design and practice (""management""), in its broadest sense; After all, ""IT management is all about management"" (Austin & Nolan, 2010).
+
+The above definitions describe the hybrid nature of this topic. Technology is not an artifact outside of its use in companies, organizations and human beings. Information systems are not only design, programming or architecture, but above all their effective implementation. And its management is not just about tactics and techniques (improving the organization and processes of the IT department), but about strategy (the relationship with the business strategy and obtaining competitive advantages). For this reason, when we say ""strategic management"", we want to emphasize the more proactive and transformative role that information and technologies have for the company and the need to align information and technology systems with the strategy of the company as a whole. In addition, the volume and relevance of IT spending is increasingly on the agenda of CEOs and the steering committee of companies and organizations.
+
+This course is designed to provide students of the Bachelor's in Computer Engineering and other programs with an introductory overview of the issues currently facing business and technology and the relationship between the two and, in particular, the role of the chief executive officer responsible for systems. and technologies:
+
+What are the main strategic decisions in information systems and how should they be considered and adopted?
+How should ICT be directed so that they are correctly aligned with the global business strategy?
+How can you ensure more productive relationships between IT departments and other departments and business units?
+What are the main contributions of information systems to support, transform and create new products, processes and even businesses?
+How information and knowledge management is transforming the way of doing business and the role of IT?
+How can IT planning provide a framework and roadmap for meeting the company's mission and vision? How can it be implanted?
+How can the IT organization be transformed with a strategic sense?
+
+Additionally, currently there is talk of ""digital transformation"", the process by which organizations have to redesign their products and services, their work processes and their relationship with customers, suppliers, partners and staff due to the irruption of the internet, mobility, cloud and big data. The director of organization and information technology (CIO, or Chief Information Officer) assumes a new role as leader, or at least, prominent partner in this transformation and there is also a greater approach of users and business managers to technologies of the information.<h2>content</h2>The learning units are the following:
+
+
+Module 1: Strategic Decisions in Information Systems and Technologies.
+
+Module 2: Information Technologies and Business Strategy.
+
+Module 3: Information Technologies and Business Processes.
+
+Module 4: Information and Knowledge Management.
+
+Module 5: Strategic Planning of Information Systems and Technologies.
+
+Module 6: Transformation of the information systems management function.
+
+
+We draw attention to the fact that some of these materials may be common to the subject of Strategic Management of Information Systems at the Master's level. At grade level, these competencies are worked on in a different way and with different levels of depth. The teaching guides that will accompany each module or other complementary materials will provide specific instructions on how to carry out an adequate follow-up of the subject.",Planning and strategic use of IS,"The mission of this course is to introduce students of Computer Engineering and other careers to the basics to understand the strategic uses of technology in organizations and the management and strategic planning of information systems. In increasingly complex environments, information and technology management represents a key aspect for the success and proper functioning of any type of organization, whether private companies or public administrations.
+
+This is a relatively new discipline, both in academic theory and research, and in professional practice. The concept of CIO (the chief executive officer responsible for company information and technology) appeared in the early 1980s and the Association for Information Systems (AIS) was established in 1994.
+
+Information systems management involves the design, effective delivery, use, and impact of information technology within organizations and on society. In the words of Keen (1987), the main focus of this course is the improvement of management design and practice (""management""), in its broadest sense; After all, ""IT management is all about management"" (Austin & Nolan, 2010).
+
+The above definitions describe the hybrid nature of this topic. Technology is not an artifact outside of its use in companies, organizations and human beings. Information systems are not only design, programming or architecture, but above all their effective implementation. And its management is not just about tactics and techniques (improving the organization and processes of the IT department), but about strategy (the relationship with the business strategy and obtaining competitive advantages). For this reason, when we say ""strategic management"", we want to emphasize the more proactive and transformative role that information and technologies have for the company and the need to align information and technology systems with the strategy of the company as a whole. In addition, the volume and relevance of IT spending is increasingly on the agenda of CEOs and the steering committee of companies and organizations.
+
+This course is designed to provide students of the Bachelor's in Computer Engineering and other programs with an introductory overview of the issues currently facing business and technology and the relationship between the two and, in particular, the role of the chief executive officer responsible for systems. and technologies:
+
+What are the main strategic decisions in information systems and how should they be considered and adopted?
+How should ICT be directed so that they are correctly aligned with the global business strategy?
+How can you ensure more productive relationships between IT departments and other departments and business units?
+What are the main contributions of information systems to support, transform and create new products, processes and even businesses?
+How information and knowledge management is transforming the way of doing business and the role of IT?
+How can IT planning provide a framework and roadmap for meeting the company's mission and vision? How can it be implanted?
+How can the IT organization be transformed with a strategic sense?
+
+Additionally, currently there is talk of ""digital transformation"", the process by which organizations have to redesign their products and services, their work processes and their relationship with customers, suppliers, partners and staff due to the irruption of the internet, mobility, cloud and big data. The director of organization and information technology (CIO, or Chief Information Officer) assumes a new role as leader, or at least, prominent partner in this transformation and there is also a greater approach of users and business managers to technologies of the information.","The learning units are the following:
+
+
+Module 1: Strategic Decisions in Information Systems and Technologies.
+
+Module 2: Information Technologies and Business Strategy.
+
+Module 3: Information Technologies and Business Processes.
+
+Module 4: Information and Knowledge Management.
+
+Module 5: Strategic Planning of Information Systems and Technologies.
+
+Module 6: Transformation of the information systems management function.
+
+
+We draw attention to the fact that some of these materials may be common to the subject of Strategic Management of Information Systems at the Master's level. At grade level, these competencies are worked on in a different way and with different levels of depth. The teaching guides that will accompany each module or other complementary materials will provide specific instructions on how to carry out an adequate follow-up of the subject.",
+237,UOC_Spain,5.604,"<h2>UOC_Spain 05.604</h2><h2>title</h2>Electronic commerce<h2>summary</h2>The Electronic Commerce subject aims to train students in this new discipline born as a result of widely used communication networks, such as the Internet. Despite the wide range of disciplines that are often included in the words ""e-commerce"" (new economics, marketing, law, social behavior, etc.), it is important to note that since we are dealing with a computer engineering subject, its approach is eminently technological. In any case, the fact that its focus is technological does not mean that it includes different disciplines within this aspect. Thus, we can identify three large areas of knowledge that we will focus on in this course.
+
+On the one hand we find the databases. In electronic commerce systems, the correct design and management of databases is extremely important since one of the characteristics of electronic commerce is its high degree of automation, more than in other areas. This makes databases play a very important role.
+
+Another relevant point in electronic commerce is presented by payment systems. As is well known, one of the reluctances that electronic commerce must overcome is distrust and therefore special emphasis must be placed on security.
+
+Finally, there is a part that is often forgotten, perhaps because it affects us little, or rather, it affects us positively, and that is the problem presented by electronic commerce of digital products. The ease of copying together with the precision of these implies that piracy becomes an inherent problem with this support. This problem, which often slows down the sale and distribution of products through electronic commerce, currently generates significant research efforts. We will see different possibilities to end piracy and what problems they present.
+
+The subject wants to be taught with a very practical approach, and that is why two compulsory practices have been included in the subject, in addition to the four PEC. In the first practice we will work with the basic web development technologies to launch an electronic commerce. On the other hand, in the second practice we will implement an electronic commerce system through a specialized content management tool (CMS) for electronic commerce: Prestashop.<h2>content</h2>The specific contents of the subject that are considered most important are detailed below for each of the modules:
+
+Module 1 - Introduction to electronic commerce (0.5 credits)
+
+Basic concepts and terminology of electronic commerce.
+The EDI standard.
+Legal aspects of electronic commerce.
+
+Module 2 - Security in electronic commerce (1 credit)
+
+Basic concepts of cryptography and information security.
+Specific concepts of public key cryptography.
+Security in electronic commerce: data, payments and products sold.
+Module 3 - Information Management (0.5 credits)
+
+Structure of a database for electronic commerce.
+Data analysis of an electronic commerce system.
+
+Module 4 - Electronic payment systems (1 credit)
+
+card payments
+virtual wallet systems
+Payments via SMS
+digital money
+Module 5 - Electronic copyright protection systems (1 credit)
+
+Basic concepts of copyright protection techniques for content in digital format.
+Description of a still image marking system.
+Description of a digital video marking system.",Electronic commerce,"The Electronic Commerce subject aims to train students in this new discipline born as a result of widely used communication networks, such as the Internet. Despite the wide range of disciplines that are often included in the words ""e-commerce"" (new economics, marketing, law, social behavior, etc.), it is important to note that since we are dealing with a computer engineering subject, its approach is eminently technological. In any case, the fact that its focus is technological does not mean that it includes different disciplines within this aspect. Thus, we can identify three large areas of knowledge that we will focus on in this course.
+
+On the one hand we find the databases. In electronic commerce systems, the correct design and management of databases is extremely important since one of the characteristics of electronic commerce is its high degree of automation, more than in other areas. This makes databases play a very important role.
+
+Another relevant point in electronic commerce is presented by payment systems. As is well known, one of the reluctances that electronic commerce must overcome is distrust and therefore special emphasis must be placed on security.
+
+Finally, there is a part that is often forgotten, perhaps because it affects us little, or rather, it affects us positively, and that is the problem presented by electronic commerce of digital products. The ease of copying together with the precision of these implies that piracy becomes an inherent problem with this support. This problem, which often slows down the sale and distribution of products through electronic commerce, currently generates significant research efforts. We will see different possibilities to end piracy and what problems they present.
+
+The subject wants to be taught with a very practical approach, and that is why two compulsory practices have been included in the subject, in addition to the four PEC. In the first practice we will work with the basic web development technologies to launch an electronic commerce. On the other hand, in the second practice we will implement an electronic commerce system through a specialized content management tool (CMS) for electronic commerce: Prestashop.","The specific contents of the subject that are considered most important are detailed below for each of the modules:
+
+Module 1 - Introduction to electronic commerce (0.5 credits)
+
+Basic concepts and terminology of electronic commerce.
+The EDI standard.
+Legal aspects of electronic commerce.
+
+Module 2 - Security in electronic commerce (1 credit)
+
+Basic concepts of cryptography and information security.
+Specific concepts of public key cryptography.
+Security in electronic commerce: data, payments and products sold.
+Module 3 - Information Management (0.5 credits)
+
+Structure of a database for electronic commerce.
+Data analysis of an electronic commerce system.
+
+Module 4 - Electronic payment systems (1 credit)
+
+card payments
+virtual wallet systems
+Payments via SMS
+digital money
+Module 5 - Electronic copyright protection systems (1 credit)
+
+Basic concepts of copyright protection techniques for content in digital format.
+Description of a still image marking system.
+Description of a digital video marking system.",
+238,UOC_Spain,5.607,"<h2>UOC_Spain 05.607</h2><h2>title</h2>Databases architecture<h2>summary</h2>Database Architecture is an optional subject, proposed within the Information Technologies itinerary, belonging to the Degree in Computer Engineering. The subject delves into the knowledge acquired in previous compulsory subjects on databases, such as the Use of Databases and Database Design.
+
+The course begins by studying the main drawbacks of the relational model and presents some alternative data models. Next, the main problems related to the implementation of database management systems (DBMS) are analyzed, both in centralized and distributed environments. Finally, fundamental concepts on the design of distributed databases are introduced.
+
+The Degree in Computer Engineering has as a transversal competence to acquire the learning of foreign languages ​​(specifically English). That is why some subjects have the learning material in English. This is the case of Database Architecture, given its specific characteristics (specialization subject with a model based on continuous evaluation).<h2>content</h2>The objective of this course, as explained in the first module, is to first introduce the architecture of centralized Database Management Systems (DBMS), to evolve towards distributed systems, identifying the main differences.
+
+In the second module, the limitations of the relational model will be presented to introduce the use of objects and semi-structured data, giving special relevance to the Object-Relational and XML extensions. First, the main features of standard SQL will be covered (for example, large objects, user-defined types, inheritance, references, and multivalued attributes). Next, XML standards such as XSchema, XPath, and XQuery will be covered.
+
+Distributed databases will be introduced in the third module. First, a classification of distributed databases will be explained. Next, depending on whether the distribution is desired or imposed, it will be explained how to approach the design or the integration. The design is related to the sharding of the databases (for example, horizontal, vertical, or hybrid), while the integration can be implemented as a global view, local view, peer-to-peer, or based on containers or interfaces.
+
+Module four addresses aspects of computer security in databases, addressing the three key aspects of this concept: confidentiality, integrity and availability. Aspects such as access control, application access, vulnerabilities, inference mechanisms and auditing will be covered. Emphasis will be placed on different access control systems, as well as role-based access. Aspects related to advanced data management systems will also be worked on and aspects of access control for XML will be dealt with.
+
+Within the fifth module, the concept of transaction explained in previous topics will be deepened. Based on this concept, a distinction will be made between ACID and BASE transactions. Multilevel reservations, the multiversion mechanism and time stamping will be explained. The first two mechanisms have been chosen for their wide use in commercial DBMSs, while the last one has been chosen for its wide use in distributed environments.
+
+The sixth module introduces concepts related to data recovery, which in turn are related to transactions.
+
+Finally, in the seventh module, concepts related to query optimization in distributed environments will be explained. First of all, we will analyze the syntactic optimization to continue working with the physical optimization. The concepts of intra and interparallelism will also be worked on.",Databases architecture,"Database Architecture is an optional subject, proposed within the Information Technologies itinerary, belonging to the Degree in Computer Engineering. The subject delves into the knowledge acquired in previous compulsory subjects on databases, such as the Use of Databases and Database Design.
+
+The course begins by studying the main drawbacks of the relational model and presents some alternative data models. Next, the main problems related to the implementation of database management systems (DBMS) are analyzed, both in centralized and distributed environments. Finally, fundamental concepts on the design of distributed databases are introduced.
+
+The Degree in Computer Engineering has as a transversal competence to acquire the learning of foreign languages ​​(specifically English). That is why some subjects have the learning material in English. This is the case of Database Architecture, given its specific characteristics (specialization subject with a model based on continuous evaluation).","The objective of this course, as explained in the first module, is to first introduce the architecture of centralized Database Management Systems (DBMS), to evolve towards distributed systems, identifying the main differences.
+
+In the second module, the limitations of the relational model will be presented to introduce the use of objects and semi-structured data, giving special relevance to the Object-Relational and XML extensions. First, the main features of standard SQL will be covered (for example, large objects, user-defined types, inheritance, references, and multivalued attributes). Next, XML standards such as XSchema, XPath, and XQuery will be covered.
+
+Distributed databases will be introduced in the third module. First, a classification of distributed databases will be explained. Next, depending on whether the distribution is desired or imposed, it will be explained how to approach the design or the integration. The design is related to the sharding of the databases (for example, horizontal, vertical, or hybrid), while the integration can be implemented as a global view, local view, peer-to-peer, or based on containers or interfaces.
+
+Module four addresses aspects of computer security in databases, addressing the three key aspects of this concept: confidentiality, integrity and availability. Aspects such as access control, application access, vulnerabilities, inference mechanisms and auditing will be covered. Emphasis will be placed on different access control systems, as well as role-based access. Aspects related to advanced data management systems will also be worked on and aspects of access control for XML will be dealt with.
+
+Within the fifth module, the concept of transaction explained in previous topics will be deepened. Based on this concept, a distinction will be made between ACID and BASE transactions. Multilevel reservations, the multiversion mechanism and time stamping will be explained. The first two mechanisms have been chosen for their wide use in commercial DBMSs, while the last one has been chosen for its wide use in distributed environments.
+
+The sixth module introduces concepts related to data recovery, which in turn are related to transactions.
+
+Finally, in the seventh module, concepts related to query optimization in distributed environments will be explained. First of all, we will analyze the syntactic optimization to continue working with the physical optimization. The concepts of intra and interparallelism will also be worked on.",
+239,UOC_Spain,5.613,"<h2>UOC_Spain 05.613</h2><h2>title</h2>Data structures design<h2>summary</h2>In this subject the different strategies of data representation in a computer and the criteria to evaluate them are studied. Depending on the type of treatment that has to be done with this information (size, access criteria, etc.), it will be possible to select the strategy that offers an optimal balance between memory consumption and manipulation time.
+
+This course is fundamental within the field of programming, since the proper use of data structures is critical in any application that handles large volumes of information or that has very strict efficiency requirements.
+
+Previous courses in the field of programming have already introduced some basic data structures, such as lists, stacks, queues, or trees. This subject presents the concept of abstract data type (ATD) as a general model to describe a data structure and study its efficiency. Finally, the core of the course consists of learning to use each data structure properly and knowing how to select the most appropriate data structure for each situation.<h2>content</h2>The subject is structured in eight modules (module 8 of the subjects is not studied):
+
+1. Abstract data types
+containers
+contract design
+Developing a Sample Collection
+Generic or parametric types
+Library of thematic collections
+Presentation of the rest of the modules
+Study of the concept of TAD and aspects related to its definition and implementation in classes through a hierarchy.
+
+2. Algorithmic complexity
+Introduction to algorithmic complexity
+Asymptotic notation for algorithmic complexity
+Algorithmic complexity of abstract data types
+Description of the methods used to compare the cost of different programs in terms of execution times or memory consumption.
+
+3. Sequential containers
+batteries
+tails
+chained representations
+liza
+Vector representations: resizing
+Sequential Containers in the Java Collections Framework
+Study of collections of objects with sequential access (stacks, queues, lists).
+
+4. trees
+General and binary trees. Definitions and related concepts
+recursion
+general trees
+binary trees
+excursions
+An example file system
+Presentation of data structures used to represent hierarchical relationships and introduction of the concept of recursion.
+
+5. Priority queues
+The priority queue concept
+priority queue operation
+Priority queue implementations
+Priority queues in JDK libraries
+Heap Sort: The Heapsort Algorithm
+Usage example: Huffman algorithm
+Study of the design and implementation of collections where the order of access to the elements depends on their priority.
+
+6. The TAD table
+Presentation of the TAD Table
+Scatter implementation of the TAD Table
+The Joint TAD
+Application example: a symbol table for a modular language
+Tables and sets in the Java Collections Framework
+Study of the concept of dispersion, presentation of the TAD table and the strategies for its implementation.
+7. Look for trees
+search trees
+Implementation of ordered collections with binary search trees
+Multipath trees and B-trees
+Search Trees in the Java Collections Framework
+Deepening of the tree concept and its applications to represent ordered collections.
+8. Graphics
+
+(This module is not studied)
+
+The concept of graph.
+The abstract data type Graph
+Java interfaces for directed and undirected graphs
+Graph Implementation
+Example of use: TAD Academy
+Review of the concept of graphs and description of strategies to implement different types of graphs (directed or undirected, labeled or unlabeled,...).
+9. Collection Libraries
+Design of new TADs using a library of collections
+Collection Library Design
+Libraries of existing collections
+Analysis of the design of new TADs from other existing ones. Study of the considerations that affect the design of collection libraries and presentation of some existing libraries (Java Collections Framework, Java Data Structure Library, ...).",Data structures design,"In this subject the different strategies of data representation in a computer and the criteria to evaluate them are studied. Depending on the type of treatment that has to be done with this information (size, access criteria, etc.), it will be possible to select the strategy that offers an optimal balance between memory consumption and manipulation time.
+
+This course is fundamental within the field of programming, since the proper use of data structures is critical in any application that handles large volumes of information or that has very strict efficiency requirements.
+
+Previous courses in the field of programming have already introduced some basic data structures, such as lists, stacks, queues, or trees. This subject presents the concept of abstract data type (ATD) as a general model to describe a data structure and study its efficiency. Finally, the core of the course consists of learning to use each data structure properly and knowing how to select the most appropriate data structure for each situation.","The subject is structured in eight modules (module 8 of the subjects is not studied):
+
+1. Abstract data types
+containers
+contract design
+Developing a Sample Collection
+Generic or parametric types
+Library of thematic collections
+Presentation of the rest of the modules
+Study of the concept of TAD and aspects related to its definition and implementation in classes through a hierarchy.
+
+2. Algorithmic complexity
+Introduction to algorithmic complexity
+Asymptotic notation for algorithmic complexity
+Algorithmic complexity of abstract data types
+Description of the methods used to compare the cost of different programs in terms of execution times or memory consumption.
+
+3. Sequential containers
+batteries
+tails
+chained representations
+liza
+Vector representations: resizing
+Sequential Containers in the Java Collections Framework
+Study of collections of objects with sequential access (stacks, queues, lists).
+
+4. trees
+General and binary trees. Definitions and related concepts
+recursion
+general trees
+binary trees
+excursions
+An example file system
+Presentation of data structures used to represent hierarchical relationships and introduction of the concept of recursion.
+
+5. Priority queues
+The priority queue concept
+priority queue operation
+Priority queue implementations
+Priority queues in JDK libraries
+Heap Sort: The Heapsort Algorithm
+Usage example: Huffman algorithm
+Study of the design and implementation of collections where the order of access to the elements depends on their priority.
+
+6. The TAD table
+Presentation of the TAD Table
+Scatter implementation of the TAD Table
+The Joint TAD
+Application example: a symbol table for a modular language
+Tables and sets in the Java Collections Framework
+Study of the concept of dispersion, presentation of the TAD table and the strategies for its implementation.
+7. Look for trees
+search trees
+Implementation of ordered collections with binary search trees
+Multipath trees and B-trees
+Search Trees in the Java Collections Framework
+Deepening of the tree concept and its applications to represent ordered collections.
+8. Graphics
+
+(This module is not studied)
+
+The concept of graph.
+The abstract data type Graph
+Java interfaces for directed and undirected graphs
+Graph Implementation
+Example of use: TAD Academy
+Review of the concept of graphs and description of strategies to implement different types of graphs (directed or undirected, labeled or unlabeled,...).
+9. Collection Libraries
+Design of new TADs using a library of collections
+Collection Library Design
+Libraries of existing collections
+Analysis of the design of new TADs from other existing ones. Study of the considerations that affect the design of collection libraries and presentation of some existing libraries (Java Collections Framework, Java Data Structure Library, ...).",
+249,VirginiaTech_USA,CS4104,<h2>VirginiaTech_USA CS4104</h2><h2>title</h2>Data and Algorithm Analysis<h2>content</h2>Data structures and algorithms from an analytical perspective. Theoretical analysis of algorithm efficiency. Comparing algorithms with respect to space and run-time requirements. Analytical methods for describing theoretical and practical bounds on performance. Constraints affecting problem solvability.,Data and Algorithm Analysis,,Data structures and algorithms from an analytical perspective. Theoretical analysis of algorithm efficiency. Comparing algorithms with respect to space and run-time requirements. Analytical methods for describing theoretical and practical bounds on performance. Constraints affecting problem solvability.,
+258,VirginiaTech_USA,CS4504,"<h2>VirginiaTech_USA CS4504</h2><h2>title</h2>Computer Organization<h2>content</h2>Information representation and transfer; instructions and data access methods; the control unit and microprogramming; memories; input/output and interrupts; secondary storage; the von Neumann SISD organization; high level language machines; the RISC concept; special purpose processors including operating system, file, text, floating point, communication, etc. Multicomputers; multiprocessors; concurrent processing support; Pipeline machines, processor arrays, database machines; the data flow/data directed approach; computer networks. Cross-listed with ECE 4504.",Computer Organization,,"Information representation and transfer; instructions and data access methods; the control unit and microprogramming; memories; input/output and interrupts; secondary storage; the von Neumann SISD organization; high level language machines; the RISC concept; special purpose processors including operating system, file, text, floating point, communication, etc. Multicomputers; multiprocessors; concurrent processing support; Pipeline machines, processor arrays, database machines; the data flow/data directed approach; computer networks. Cross-listed with ECE 4504.",
+259,VirginiaTech_USA,CS4604,"<h2>VirginiaTech_USA CS4604</h2><h2>title</h2>Introduction to Data Base Management Systems<h2>content</h2>Emphasis on introduction of the basic data base models, corresponding logical and physical data structures, comparisons of models, logical data design, and data base usage. Terminology, historical evolution, relationships, implementation, data base personnel, future trends, applications, performance considerations, data integrity. Senior standing required.",Introduction to Data Base Management Systems,,"Emphasis on introduction of the basic data base models, corresponding logical and physical data structures, comparisons of models, logical data design, and data base usage. Terminology, historical evolution, relationships, implementation, data base personnel, future trends, applications, performance considerations, data integrity. Senior standing required.",
+266,VirginiaTech_USA,CS4504,"<h2>VirginiaTech_USA CS4504</h2><h2>title</h2>Computer Organization<h2>content</h2>Information representation and transfer; instructions and data access methods; the control unit and microprogramming; memories; input/output and interrupts; secondary storage; the von Neumann SISD organization; high level language machines; the RISC concept; special purpose processors including operating system, file, text, floating point, communication, etc. Multicomputers; multiprocessors; concurrent processing support; Pipeline machines, processor arrays, database machines; the data flow/data directed approach; computer networks. Cross-listed with ECE 4504.",Computer Organization,,"Information representation and transfer; instructions and data access methods; the control unit and microprogramming; memories; input/output and interrupts; secondary storage; the von Neumann SISD organization; high level language machines; the RISC concept; special purpose processors including operating system, file, text, floating point, communication, etc. Multicomputers; multiprocessors; concurrent processing support; Pipeline machines, processor arrays, database machines; the data flow/data directed approach; computer networks. Cross-listed with ECE 4504.",
+267,VirginiaTech_USA,CS4604,"<h2>VirginiaTech_USA CS4604</h2><h2>title</h2>Introduction to Data Base Management Systems<h2>content</h2>Emphasis on introduction of the basic data base models, corresponding logical and physical data structures, comparisons of models, logical data design, and data base usage. Terminology, historical evolution, relationships, implementation, data base personnel, future trends, applications, performance considerations, data integrity. Senior standing required.",Introduction to Data Base Management Systems,,"Emphasis on introduction of the basic data base models, corresponding logical and physical data structures, comparisons of models, logical data design, and data base usage. Terminology, historical evolution, relationships, implementation, data base personnel, future trends, applications, performance considerations, data integrity. Senior standing required.",
+268,VirginiaTech_USA,CS4624,"<h2>VirginiaTech_USA CS4624</h2><h2>title</h2>Multimedia, Hypertext and Information Access<h2>content</h2>Introduces the architectures, concepts, data, hardware, methods, models, software, standards, structures, technologies, and issues involved with: networked multimedia (e.g., image, audio, video) information, access and systems; hypertext and hypermedia; electronic publishing; virtual reality. Coverage includes text processing, search, retrieval, browsing, time-based performance, synchronization, quality of service, video conferencing and authoring.","Multimedia, Hypertext and Information Access",,"Introduces the architectures, concepts, data, hardware, methods, models, software, standards, structures, technologies, and issues involved with: networked multimedia (e.g., image, audio, video) information, access and systems; hypertext and hypermedia; electronic publishing; virtual reality. Coverage includes text processing, search, retrieval, browsing, time-based performance, synchronization, quality of service, video conferencing and authoring.",
+274,VirginiaTech_USA,CS4884,"<h2>VirginiaTech_USA CS4884</h2><h2>title</h2>Computational Biology & Bioinformatics Capstone<h2>content</h2>Advanced topics in computational biology and bioinformatics (CBB). Team-based approach to solving open-ended problems in CBB. Projects drawn from areas of expertise in the department, e.g., algorithms for CBB, computational models for biological systems, analysis of structure-function relationships in biomolecules, genomic data analysis and data mining, computational genomics, systems biology. Design, implementation, documentation and presentation of solutions.",Computational Biology & Bioinformatics Capstone,,"Advanced topics in computational biology and bioinformatics (CBB). Team-based approach to solving open-ended problems in CBB. Projects drawn from areas of expertise in the department, e.g., algorithms for CBB, computational models for biological systems, analysis of structure-function relationships in biomolecules, genomic data analysis and data mining, computational genomics, systems biology. Design, implementation, documentation and presentation of solutions.",
