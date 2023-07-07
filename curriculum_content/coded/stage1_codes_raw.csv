@@ -273,9 +273,9 @@
 141,Machine Learning,"<h2>title</h2>Machine Learning<h2>content</h2>Algorithms and principles involved in machine learning; focus on perception problems arising in computer vision, natural language processing and robotics; fundamentals of representing uncertainty, learning from data, supervised learning, ensemble methods, unsupervised learning, structured models, learning theory and reinforcement learning; design and analysis of machine perception systems; design and implementation of a technical project applied to real-world datasets (images, text, robotics). A grade of C- or better in prerequisites. ",CS4824,VirginiaTech_USA,Machine Learning,,AI,,,,,,,AI,AI; MSF,AI,AI,AI,,,,,,
 0,"COMP3467: 
 ADVANCED COMPUTER SYSTEMS",,COMP3467,Durham_England,"COMP3467: 
-ADVANCED COMPUTER SYSTEMS",,,,,,,,,,,,,,AR,AR;SF,AR,AR,AR,AR
+ADVANCED COMPUTER SYSTEMS",,,,,,,,,,,,,,AR,AR; SF,AR,AR,AR,AR
 1,Database Design I,,1DL301,Uppsala_Sweden,Database Design I,,,,,,,,,,,,,,DM,DM,DM,DM,DM,DM
-2,Semantics of Programming Languages,,1DL311,Uppsala_Sweden,Semantics of Programming Languages,,,,,,,,,,,,,,FPL,FPL,AL;FPL,FPL,FPL,FPL
+2,Semantics of Programming Languages,,1DL311,Uppsala_Sweden,Semantics of Programming Languages,,,,,,,,,,,,,,FPL,FPL,AL; FPL,FPL,FPL,FPL
 3,Computer Networks I,,1DT052,Uppsala_Sweden,Computer Networks I,,,,,,,,,,,,,,NC,NC,NC,NC,NC,NC
 4,Numerical Methods and Simulation,,1TD403,Uppsala_Sweden,Numerical Methods and Simulation,,,,,,,,,,,,,,AL;9,AL;MSF,AL,MSF,AL; MSF; 09,AL;09
 5,Algorithms and Data Structures II,,1DL231,Uppsala_Sweden,Algorithms and Data Structures II,,,,,,,,,,,,,,AL,AL,AL,AL,AL,AL;09
