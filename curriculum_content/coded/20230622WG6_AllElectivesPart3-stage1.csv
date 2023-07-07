@@ -1,0 +1,22 @@
+﻿Title,Text,[M] elective: ,[M] institution: ,[M] title: ,julia,jack,sara,svetlana,thom,steven
+"COMP3467: 
+ADVANCED COMPUTER SYSTEMS",,COMP3467,Durham_England,"COMP3467: 
+ADVANCED COMPUTER SYSTEMS",AR,AR;SF,AR,AR,AR,AR
+Database Design I,,1DL301,Uppsala_Sweden,Database Design I,DM,DM,DM,DM,DM,DM
+Semantics of Programming Languages,,1DL311,Uppsala_Sweden,Semantics of Programming Languages,FPL,FPL,AL;FPL,FPL,FPL,FPL
+Computer Networks I,,1DT052,Uppsala_Sweden,Computer Networks I,NC,NC,NC,NC,NC,NC
+Numerical Methods and Simulation,,1TD403,Uppsala_Sweden,Numerical Methods and Simulation,AL;9,AL;MSF,AL,MSF,AL; MSF; 09,AL;09
+Algorithms and Data Structures II,,1DL231,Uppsala_Sweden,Algorithms and Data Structures II,AL,AL,AL,AL,AL,AL;09
+Compiler Design I,,1DL321,Uppsala_Sweden,Compiler Design I,FPL,FPL,FPL,AR; SF,FPL,FPL
+Secure Computer Systems I,,1DT072,Uppsala_Sweden,Secure Computer Systems I,SEC,SEC;SEP,SEC;SF,SEC; SF,SEC,NC
+Algorithms and Data Structures III,,1DL481,Uppsala_Sweden,Algorithms and Data Structures III,AL,AL,AL,AL,AL,AL
+Advanced Interaction Design,,1MD001,Uppsala_Sweden,Advanced Interaction Design,HCI,HCI,HCI;GIT,HCI,HCI; GIT; 21,HCI;GIT
+Data Engineering I,,1TD169,Uppsala_Sweden,Data Engineering I,SPD,DM,DM,DM,DM,DM;SPD
+Computer Graphics,,1TD388,Uppsala_Sweden,Computer Graphics,GIT,GIT,GIT,GIT,GIT; 21,GIT
+High Performance Programming,,1TD062,Uppsala_Sweden,High Performance Programming,PDC,PDC;AR,PDC;AL,PDC,FPL,AR;PDC
+Introduction to Machine Learning,,1DL034,Uppsala_Sweden,Introduction to Machine Learning,AI,AI,DM,AI,AI,AI
+"IT, Ethics and Organisation",,1MD004,Uppsala_Sweden,"IT, Ethics and Organisation",SEP,SEP,SEP,SEP,SEP; 14; 15,SEP
+Cryptology,,1DT075,Uppsala_Sweden,Cryptology,SEC,AL,SEC,SEC; MSF,SEC,SEC;MSF
+Low-Level Parallel Programming,,1DL550,Uppsala_Sweden,Low-Level Parallel Programming,PDC,PDC;AR,PDC;AL,PDC,PDC,PDC
+Software Engineering and Project Management,,1DL251,Uppsala_Sweden,Software Engineering and Project Management,SE;SF,SE,SE;17,SE,SE; 17,SE;SEP
+Social Robotics and Human-Robot Interaction,,1MD300,Uppsala_Sweden,Social Robotics and Human-Robot Interaction,AI;HCI,HCI;SPD,HCI;17,HCI; AI; 10,HCI; 14; 15,SPD;HCI
