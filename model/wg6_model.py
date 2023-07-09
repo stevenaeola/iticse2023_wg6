@@ -30,13 +30,10 @@ code_set = pd.read_csv(os.path.join("..", "curriculum_content", "ACM_2023_CAH_co
 le_cohort = preprocessing.LabelEncoder()
 le_elective = preprocessing.LabelEncoder()
 
-cohorts = all_cohort_enrolments
 cohorts['Students3'] = cohorts['Men3'] + cohorts['Women3']
 cohorts['icy'] = cohorts['institution'] + cohorts['Cohort'].astype('string')  + cohorts['AcademicYearStart'].astype('string')
 cohorts['cohort_id'] = le_cohort.fit_transform(cohorts['icy'])
 
-
-enrolments = all_enrolments
 enrolments['icy'] = enrolments['institution'] + enrolments['Cohort'].astype('string')  + enrolments['AcademicYearStart'].astype('string')
 enrolments['cohort_id'] = le_cohort.transform(enrolments['icy'])
 enrolments['icym'] = enrolments['icy'] + enrolments['MCode'].astype('string')
@@ -55,10 +52,9 @@ MODULES=list(cohorts['module_count'])
 maxModules = max(MODULES)
 enrolments.sort_values('module_id', inplace=True)
 
-code_set = pd.read_csv(os.path.join( "curriculum_content", "ACM_2023_CAH_codes.csv"), dtype="string")
 le_topics = preprocessing.LabelEncoder()
 le_topics.fit(code_set['Abbrev'])
-elective_topics = pd.read_csv(os.path.join("curriculum_content", "coded", "stage2_coded_binary.csv"))
+elective_topics = pd.read_csv(os.path.join("..", "curriculum_content", "coded", "stage2_coded_binary.csv"))
 
 # This is a bit naughty because two electives in different institutions 
 # might have the same mcode
@@ -76,16 +72,16 @@ def module_num_has_topic(cohort_num, module_num, topic_id):
     
 def module_num_women(cohort_num, module_num):
     modules = enrolments[enrolments['cohort_id']==cohort_num].sort_values('module_id')
-    women = modules.iloc[module_num]['Women3']
+    women = int(modules.iloc[module_num]['Women3'])
     return women
 
 def module_num_men(cohort_num, module_num):
     modules = enrolments[enrolments['cohort_id']==cohort_num].sort_values('module_id')
-    men = modules.iloc[module_num]['Men3']
+    men = int(modules.iloc[module_num]['Men3'])
     return men
 
-cohort_module_women = np.zeros([len(cohorts), maxModules])
-cohort_module_men = np.zeros([len(cohorts), maxModules])
+cohort_module_women = np.zeros([len(cohorts), maxModules], dtype='int')
+cohort_module_men = np.zeros([len(cohorts), maxModules], dtype='int')
 
 cohort_module_topic_mapping = np.zeros([len(cohorts), maxModules, len(code_set)])
 
@@ -119,10 +115,10 @@ buildData={
     "MAXMODULES": max(MODULES),
     "MODULES": MODULES,
     "module_topics": cohort_module_topic_mapping,
-    "module_min_students": list(cohorts['Women3']),  # nonsense, but we don't use it
-    "module_max_students": list(cohorts['Women3']),
-    "module_women": cohort_module_women),
-    "module_men": cohort_module_men)
+    "module_min_students": cohort_module_women,  # nonsense, but we don't use it
+    "module_max_students": cohort_module_women,
+    "module_women": cohort_module_women,
+    "module_men": cohort_module_men
     }
 
 
@@ -132,7 +128,7 @@ posterior = stan.build(code, random_seed=seed, data=buildData)
 fit = posterior.sample(num_chains=4, num_samples=num_samples)
 fit_summary = az.summary(fit)
 fit_cols = fit_summary.columns.to_flat_index()
-fit_cols[0] = "variable"
+#fit_cols[0] = "variable"
 fit_summary.columns = fit_cols
 fit_summary.to_csv('results/stansummary-wg6-seed-' + str(seed) + '-samples-' + str(num_samples) + '.csv')
 
