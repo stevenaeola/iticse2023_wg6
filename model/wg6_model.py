@@ -132,6 +132,9 @@ fit_cols = fit_summary.columns.to_flat_index()
 fit_summary.columns = fit_cols
 fit_summary.to_csv('results/stansummary-wg6-seed-' + str(seed) + '-samples-' + str(num_samples) + '.csv')
 
+print(le_topics.inverse_transform(range(len(code_set.index))))
+
+exit()
 
 results = []
 
