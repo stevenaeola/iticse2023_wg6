@@ -1,0 +1,1057 @@
+{
+    "buildData": {
+        "COHORTS": 1,
+        "cohort_women": [
+            36
+        ],
+        "cohort_men": [
+            64
+        ],
+        "mu_modules_taken": [
+            2
+        ],
+        "TOPICS": 2,
+        "MAXMODULES": 2,
+        "MODULES": [
+            1
+        ],
+        "module_topics": [
+            [
+                [
+                    1.0,
+                    0.0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        ],
+        "module_min_students": [
+            [
+                5,
+                0
+            ]
+        ],
+        "module_max_students": [
+            [
+                170,
+                0
+            ]
+        ],
+        "module_women": [
+            [
+                36,
+                0
+            ]
+        ],
+        "module_men": [
+            [
+                64,
+                0
+            ]
+        ]
+    },
+    "students": [
+        {
+            "code": "STUxy4mFqbUdrEE",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUt8AFshAMCWwM",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU2CwdCNV0nKXq",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUeQVW2lIXwlDf",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUZOpSzZ9rDnQN",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUXAJK3bEPC46Z",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU2ZtdVZCkjxUt",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUNqIALgwNVxbS",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU2mU9epjpte3p",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUeADPJCnKC0RT",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUzrktSt4Ji82W",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUInqi4FrW7s3V",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUN0Xh8TRl5y6o",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUiyR67mb9PVYw",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUlEL8WrFU2BSm",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUB9yqo0nLoXSN",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUCx9DXhxniIiy",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUWpHe37wHHVeG",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUvPCJKja7YjPF",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUBkUlMHuB97r7",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUOwjf4LcqOqVr",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUSQkjpxibwfmn",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUJZWdqfF7XUUu",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUCzNf35bM9hjh",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUHMhbMY3WC4cP",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUp7zO76fv9UAe",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUuAXJC7pC7ZJd",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUZ6COmKjemd1n",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUEdeNfcxejeEq",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUwU0hTXvZXlkM",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUuDCH4nzW4r64",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUSxEMUElcFZJd",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUoBhN7xBP5mjv",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUdQHZ4ws6LYb8",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUNgkDdNJxU95z",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUb6R7ZO9rjSQn",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU8kPMxcIfYnW9",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUEBBzGRrtEFEq",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU8AbDrXbNcIX1",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUCi0IXJHiySpI",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUyjsUwtKwAIv5",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU4rh7yq5SS7eV",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUR3M4A4QgsxUC",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUJrMWsbJkMt0G",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUd5R29icX8P0A",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU5t5pRUMwNfww",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUYTMzlEADl2ki",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU0QduMLbTeiPu",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUW503aSpPXS2J",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU94IUJkAYqsUN",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUreJeafkZQGvh",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUK1yx8Fx5NoZS",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU24eNt8OTMZn3",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUTucQ1ngvpxyo",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUnfHOYwrIG4F1",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUKGz1xAda6nlV",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU5Zbn3LrG8BbJ",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUgFeXD9oD3spJ",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU6X03b8gwppgg",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUXN2Y35akJY1W",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUTSwitDXwEHjL",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUVAyreO66yXQr",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUKAmq5vl927If",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUjcn17uQt3XFt",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUFkne72E13CZQ",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU9UFRhlOZRXyu",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUzg7HKMiKOeUM",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUKmE4m8iSL2pq",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUloiXPNvXlymB",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUN8m45jd84qk3",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUpu85wX4x81Lt",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU27DyDnfAxSjV",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUY80ZJaTDYKv3",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUd7cEzd50OTF8",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUNTUvecCijX1L",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STULOnajFTTKVER",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU5rHcbghGipor",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STU6Osqrl8w3aLB",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUvhHDzQhvU5a1",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUJosuJJ196s8D",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUIO4hMhQ82Y3Z",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUZt01yzQj9akN",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUYGM57WXhtnYy",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUNW0dyo2ZrMmF",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUP9uK9JI972l9",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUvYcikCx07CJL",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUWWKWdZ7rJoIN",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUxUfwfUxcR6vm",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUT4DGwdPLbpan",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUG1jskuuLPpqI",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUEnBhCJe6cbe1",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUVQNoqSmEDPe6",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUGMvMM9JLNye3",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUo0RvfpC3Xeb1",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUY7LUpCoIztj8",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUJZ97gZnBGZST",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUxmxILXoO1LVp",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUAosINAfmHsbC",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUjlx0h2DI8TtQ",
+            "cohort": 0,
+            "isWoman": 0,
+            "numModules": 1,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        },
+        {
+            "code": "STUU7hoZJkHNxpU",
+            "cohort": 0,
+            "isWoman": 1,
+            "numModules": 2,
+            "preferredModules": [],
+            "registeredModules": [
+                "MOD1UZHYuCWhs"
+            ]
+        }
+    ]
+}

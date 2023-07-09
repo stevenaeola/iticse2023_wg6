@@ -1,0 +1,19 @@
+{
+    "numCohorts": 1,
+    "numTopics": 2,
+    "minTopics": 1,
+    "maxTopics": 2,
+    "minModules": 1,
+    "maxModules": 2,
+    "minModuleChoices": 1,
+    "maxModuleChoices": 2,
+    "minStudents": 100,
+    "maxStudents": 101,
+    "minStudentsPerModule": 5,
+    "maxStudentsPerModule": 170,
+    "propWomen": 0.5,
+    "moduleMeanScore": 1000,
+    "sigmaModuleTopicScore": 10,
+    "sigmaWomenMenDiffRatio": 10,
+    "sigmaStudentRatio": 0.1
+}
