@@ -35,13 +35,11 @@ def scrape(institution_name):
     with open(config_json) as config_file:
         config = json.load(config_file)
 
-    driver_path = config['driver_path']
-
     print("Scraping " + institution_name)
 
     pp = pprint.PrettyPrinter(indent=4)
 
-    driver = webdriver.Chrome(executable_path=driver_path)
+    driver = webdriver.Chrome()
     key_fields = ['institution', 'elective', 'overview']
     overview_fields = ['title', 'summary', 'content', 'ilo']
     all_fields = key_fields + overview_fields
@@ -78,6 +76,7 @@ def scrape(institution_name):
         xpaths = institution_config['XPath']
         electives = institution_config['electives']
 
+        new_rows = []
         for elective in electives:
             if isinstance(electives, dict):
                 elective_url = url.replace("%ELECTIVE%", electives[elective])
@@ -106,7 +105,8 @@ def scrape(institution_name):
             new_row = {"institution": institution_config['institution'],
                     "elective": elective,
                     "overview": overview} | overview_dictionary
-            electives_df = electives_df.append(new_row, ignore_index=True)
+            new_rows.append(new_row)
+        electives_df = pd.concat([electives_df, pd.DataFrame(new_rows)])
         electives_df = electives_df[electives_df['elective'].str.len() >0]
         electives_missing_df = electives_df[electives_df['title'].str.len() ==0]['elective']
 
