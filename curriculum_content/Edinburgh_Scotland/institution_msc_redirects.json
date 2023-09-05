@@ -1,0 +1,28 @@
+{
+    "institution": "Edinburgh_Scotland",
+    "scrapeURL": "http://www.drps.ed.ac.uk/22-23/dpt/%ELECTIVE%.htm",
+    "XPath": {
+        "content": "/html/body/table[2]/tbody/tr/td[1]/table[1]/tbody/tr[6]/td[2]",
+        "ilo": "",
+        "title": "/html[1]/body/table[2]/tbody/tr/td[1]/h1",
+        "summary": "/html/body/table[2]/tbody/tr/td[1]/table[1]/tbody/tr[5]/td[2]"
+    },
+    "electives": {
+        "cxinfr11220": "cxinfr11021",
+        "cxinfr11221": "cxinfr11131",
+        "cxinfr11222": "cxinfr11099",
+        "cxinfr11223": "cxinfr11132",
+        "cxinfr11224": "cxinfr11202",
+        "cxinfr11226": "cxinfr11023",
+        "cxinfr11227": "cxinfr11187",
+        "cxinfr11228": "cxinfr11208",
+        "cxinfr11229": "cxinfr11145",
+        "cxinfr11235": "cxinfr11134",
+        "cxinfr11238": "cxinfr11144",
+        "cxinfr11239": "cxinfr11150",
+        "cxinfr11219": "cxinfr11033",
+        "cxinfr11225": "cxinfr11157",
+        "cxinfr09042": "cxinfr10087",
+        "cxinfr10069": "cxinfr10086"
+    }
+}
