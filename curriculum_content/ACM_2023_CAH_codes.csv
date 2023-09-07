@@ -16,14 +16,14 @@ Software Development Fundamentals,SDF,Software
 Software Engineering,SE,Software
 Specialized Platform Development,SPD,Applications
 Systems Fundamentals,SF,Systems
-medicine and dentistry,1,Non-CS application
-subjects allied to medicine,2,Non-CS application
-biological and sport sciences,3,Non-CS application
-psychology,4,Non-CS application
-veterinary sciences,5,Non-CS application
-"agriculture, food and related studies",6,Non-CS application
-physical sciences,7,Non-CS application
-mathematical sciences,9,Non-CS application
+medicine and dentistry,01,Non-CS application
+subjects allied to medicine,02,Non-CS application
+biological and sport sciences,03,Non-CS application
+psychology,04,Non-CS application
+veterinary sciences,05,Non-CS application
+"agriculture, food and related studies",06,Non-CS application
+physical sciences,07,Non-CS application
+mathematical sciences,09,Non-CS application
 engineering and technology,10,Non-CS application
 geographical and environmental studies,12,Non-CS application
 "architecture, building and planning",13,Non-CS application

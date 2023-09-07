@@ -1,0 +1,675 @@
+institution,elective,overview,title,summary,content,ilo
+Edinburgh_Scotland,cxinfr11220,"<h2>Edinburgh_Scotland cxinfr11220</h2><h2>title</h2>Postgraduate Course: Computer Graphics (Level 11) (INFR11021)<h2>summary</h2>This introductory course in computer graphics comprises of three parts. The first part of the course presents a bird's-eye view of the current state-of-the-art in the field. The latter two parts cover rendering, which is one of the core topics in computer graphics, in detail. The second part of the course teaches central concepts in rendering, along with the relevant mathematics. Finally, the third part of the course focusses on applications of the theory taught in the second part.<h2>content</h2>
+    
+    SYLLABUS<br>
+<br>
+Part I<br>
+* Introduction [1]<br>
+* Radiometry and photometry [1]<br>
+* Modelling [1]<br>
+* Special effects I: relighting [1]<br>
+* Special effects II: compositing [1]<br>
+<br>
+Part II<br>
+* Raytracing [1]<br>
+* The rendering equation [2]<br>
+* Monte Carlo path tracing [2]<br>
+* Sampling [2]<br>
+* Camera effects [1]<br>
+<br>
+Part III<br>
+* Participating media [1]<br>
+* Acceleration structures [1] <br>
+* MCMC methods for light transport [1]<br>
+* Gradient domain path tracing [1]<br>
+* Overview of current research [1/2]<br>
+* Discussion of open problems in rendering [1/2]<br>
+* Conclusion [1]
+    
+    
+",Postgraduate Course: Computer Graphics (Level 11) (INFR11021),"This introductory course in computer graphics comprises of three parts. The first part of the course presents a bird's-eye view of the current state-of-the-art in the field. The latter two parts cover rendering, which is one of the core topics in computer graphics, in detail. The second part of the course teaches central concepts in rendering, along with the relevant mathematics. Finally, the third part of the course focusses on applications of the theory taught in the second part.","
+    
+    SYLLABUS<br>
+<br>
+Part I<br>
+* Introduction [1]<br>
+* Radiometry and photometry [1]<br>
+* Modelling [1]<br>
+* Special effects I: relighting [1]<br>
+* Special effects II: compositing [1]<br>
+<br>
+Part II<br>
+* Raytracing [1]<br>
+* The rendering equation [2]<br>
+* Monte Carlo path tracing [2]<br>
+* Sampling [2]<br>
+* Camera effects [1]<br>
+<br>
+Part III<br>
+* Participating media [1]<br>
+* Acceleration structures [1] <br>
+* MCMC methods for light transport [1]<br>
+* Gradient domain path tracing [1]<br>
+* Overview of current research [1/2]<br>
+* Discussion of open problems in rendering [1/2]<br>
+* Conclusion [1]
+    
+    
+",
+Edinburgh_Scotland,cxinfr11221,"<h2>Edinburgh_Scotland cxinfr11221</h2><h2>title</h2>Undergraduate Course: Introduction to Modern Cryptography (INFR11131)<h2>summary</h2>Cryptography is the formal study of the notion of security in information systems. The course will offer an introduction to modern cryptography focusing on models and proofs of security for various basic cryptographic primitives and protocols. Cryptographic proofs are conditional on assumptions that fall in two categories: ""system assumptions"" such as the faithful execution of code, or the availability of private randomness and ""computational assumptions"". The latter are related to the computational complexity of various problems (including factoring large numbers and others). Students will learn to model security problems and prove them secure under precisely formulated system and computational assumptions.<h2>content</h2>
+    
+    The course is divided in two parts: Private Key and Public Key. Topics covered in the Private Key part are: classical ciphers (Caesar, Vigenere), one-time pad and perfect secrecy, computational secrecy, pseudorandom functions and permutations, CPA security, CCA security and proofs by reduction. The following topics are also briefly discussed: block ciphers, modes of operation, message integrity, hash functions and MACs. In the Public Key part we cover: hard computational problems such as factoring and discrete log, the Diffie-Hellman key exchange protocol, ElGamal and digital signatures. Other topics that may also be discussed (depending on time) are: zero-knowledge proofs, Schnorr Identification, commitment schemes and oblivious transfer protocols. A tentative outline of the material is given below.<br>
+<br>
+Part 1: Private Key<br>
+<br>
+- Classical ciphers: Shift cipher, Vigenere<br>
+- Perfect secrecy<br>
+- One-time pad (OTP)<br>
+- Computational secrecy<br>
+- Pseudorandom generators (PRG)<br>
+- Pseudo-OTP<br>
+- Security against chosen-plaintext attacks (CPA)<br>
+- Pseudorandom functions / permutations (PRF / PRP)<br>
+- CPA-secure encryption using PRF/PRP: block ciphers<br>
+- Modes of operation: block ciphers, stream ciphers<br>
+- Malleability<br>
+- Security against chosen-ciphertext attacks (CCA)<br>
+- Padding-oracle attacks: non-CCA secure schemes<br>
+- Secrecy vs. integrity: message authentication codes (MAC)<br>
+- Hash functions<br>
+<br>
+Part 2: Public Key<br>
+<br>
+- Digital Signatures<br>
+- Trapdoor One-Way functions<br>
+- Random oracles<br>
+- Cyclic groups<br>
+- The discrete logarithm/Diffie-Hellman assumptions<br>
+- Key exchange and the Diffie-Hellman protocol<br>
+- Public Key Encryption<br>
+- Security against chosen-plaintext attacks<br>
+- ElGamal Encryption<br>
+- Zero-Knowledge proofs<br>
+- The Schnorr identification scheme
+    
+    
+",Undergraduate Course: Introduction to Modern Cryptography (INFR11131),"Cryptography is the formal study of the notion of security in information systems. The course will offer an introduction to modern cryptography focusing on models and proofs of security for various basic cryptographic primitives and protocols. Cryptographic proofs are conditional on assumptions that fall in two categories: ""system assumptions"" such as the faithful execution of code, or the availability of private randomness and ""computational assumptions"". The latter are related to the computational complexity of various problems (including factoring large numbers and others). Students will learn to model security problems and prove them secure under precisely formulated system and computational assumptions.","
+    
+    The course is divided in two parts: Private Key and Public Key. Topics covered in the Private Key part are: classical ciphers (Caesar, Vigenere), one-time pad and perfect secrecy, computational secrecy, pseudorandom functions and permutations, CPA security, CCA security and proofs by reduction. The following topics are also briefly discussed: block ciphers, modes of operation, message integrity, hash functions and MACs. In the Public Key part we cover: hard computational problems such as factoring and discrete log, the Diffie-Hellman key exchange protocol, ElGamal and digital signatures. Other topics that may also be discussed (depending on time) are: zero-knowledge proofs, Schnorr Identification, commitment schemes and oblivious transfer protocols. A tentative outline of the material is given below.<br>
+<br>
+Part 1: Private Key<br>
+<br>
+- Classical ciphers: Shift cipher, Vigenere<br>
+- Perfect secrecy<br>
+- One-time pad (OTP)<br>
+- Computational secrecy<br>
+- Pseudorandom generators (PRG)<br>
+- Pseudo-OTP<br>
+- Security against chosen-plaintext attacks (CPA)<br>
+- Pseudorandom functions / permutations (PRF / PRP)<br>
+- CPA-secure encryption using PRF/PRP: block ciphers<br>
+- Modes of operation: block ciphers, stream ciphers<br>
+- Malleability<br>
+- Security against chosen-ciphertext attacks (CCA)<br>
+- Padding-oracle attacks: non-CCA secure schemes<br>
+- Secrecy vs. integrity: message authentication codes (MAC)<br>
+- Hash functions<br>
+<br>
+Part 2: Public Key<br>
+<br>
+- Digital Signatures<br>
+- Trapdoor One-Way functions<br>
+- Random oracles<br>
+- Cyclic groups<br>
+- The discrete logarithm/Diffie-Hellman assumptions<br>
+- Key exchange and the Diffie-Hellman protocol<br>
+- Public Key Encryption<br>
+- Security against chosen-plaintext attacks<br>
+- ElGamal Encryption<br>
+- Zero-Knowledge proofs<br>
+- The Schnorr identification scheme
+    
+    
+",
+Edinburgh_Scotland,cxinfr11222,"<h2>Edinburgh_Scotland cxinfr11222</h2><h2>title</h2>Postgraduate Course: Introduction to Quantum Computing (INFR11099)<h2>summary</h2>The aim of this course is to give students a basic overview of the rapidly growing field of Quantum Computation (QC). The course will start with a brief introduction of the mathematical framework of QC. The two models of quantum circuit and measurement-based quantum computing will be introduced. We cover the most important quantum subroutines and their application to well-known quantum algorithms and compare their performance with respect to classical computing. We finish the course by surveying few more advanced topics, such as quantum error correction, algorithms for near-term architectures and secure delegated QC.<h2>content</h2>
+    
+    - Basic concepts from Linear Algebra necessary for understanding the axioms of Quantum Mechanics, <br>
+- Axioms of Quantum Mechanics, describing quantum system, quantum operators, composition, entanglement and measurements <br>
+- Quantum Computing via quantum circuit model: Description of qubit and universal set of gates. <br>
+- The first quantum protocols: Quantum teleportation and super dense coding <br>
+- Quantum subroutines such as Phase Kick-back, Quantum Fourier Transform or Phase-Estimation <br>
+- Quantum Algorithms such as Grover's Search, Deutsch-Jozsa, Bernstein-Vazirani or Shor. <br>
+- Quantum Computing via measurement-based model: Description of graph state and measurement calculus <br>
+- Advanced Topics: quantum error correction, algorithm for near-term architectures, unconditionally secure quantum cloud computing
+    
+    
+",Postgraduate Course: Introduction to Quantum Computing (INFR11099),"The aim of this course is to give students a basic overview of the rapidly growing field of Quantum Computation (QC). The course will start with a brief introduction of the mathematical framework of QC. The two models of quantum circuit and measurement-based quantum computing will be introduced. We cover the most important quantum subroutines and their application to well-known quantum algorithms and compare their performance with respect to classical computing. We finish the course by surveying few more advanced topics, such as quantum error correction, algorithms for near-term architectures and secure delegated QC.","
+    
+    - Basic concepts from Linear Algebra necessary for understanding the axioms of Quantum Mechanics, <br>
+- Axioms of Quantum Mechanics, describing quantum system, quantum operators, composition, entanglement and measurements <br>
+- Quantum Computing via quantum circuit model: Description of qubit and universal set of gates. <br>
+- The first quantum protocols: Quantum teleportation and super dense coding <br>
+- Quantum subroutines such as Phase Kick-back, Quantum Fourier Transform or Phase-Estimation <br>
+- Quantum Algorithms such as Grover's Search, Deutsch-Jozsa, Bernstein-Vazirani or Shor. <br>
+- Quantum Computing via measurement-based model: Description of graph state and measurement calculus <br>
+- Advanced Topics: quantum error correction, algorithm for near-term architectures, unconditionally secure quantum cloud computing
+    
+    
+",
+Edinburgh_Scotland,cxinfr11223,"<h2>Edinburgh_Scotland cxinfr11223</h2><h2>title</h2>Undergraduate Course: Machine Learning Practical (INFR11132)<h2>summary</h2>This course is focused on the implementation and evaluation of machine learning systems, and is lab-based. Students who do this course will obtain experience in the design, implementation, training, and evaluation of machine learning systems.<br>
+<br>
+Semester 1 comprises lectures, labs, and individual coursework.<br>
+<br>
+Semester 2 is based around small group projects, and also includes tutorials and guest lectures.<br>
+<br>
+Note: this course is not a stand-alone introduction to machine learning. Please see 'Other Requirements' for details.<h2>content</h2>
+    
+    The course covers practical aspects of machine learning, and will focus on practical and experimental issues in deep learning and neural networks. Topics that are covered include:<br>
+<br>
+* Feed-forward network architectures<br>
+* Optimisation and learning rules <br>
+* Regularisation and normalisation<br>
+* Neural networks for classification<br>
+* Autoencoders<br>
+* Convolutional Neural Networks<br>
+* Recurrent Neural Networks<br>
+<br>
+MLP is coursework-based, with lectures to support the additional material required to carry out the practical. Students who complete this course will have experience in the design, implementation, training, and evaluation of machine learning systems.<br>
+<br>
+MLP is a two-semester course.  During Semester 1 the course will focus on developing a deep learning framework based on experiments using the task of classification of handwritten digits using the well-known MNIST dataset. The course uses a Python software framework, and a series of Jupyter notebooks. There is a series of ten weekly lectures in Semester 1 to provide the required theoretical support to the practical work.<br>
+<br>
+Semester 2 will be based on small group projects, with a focus on using deep neural networks within the context of a miniproject, using an open source toolkit such as TensorFlow or PyTorch. Lectures in Semester 2 will support the coursework, and also provide insights to the current state of the art in this very fast moving area.
+    
+    
+",Undergraduate Course: Machine Learning Practical (INFR11132),"This course is focused on the implementation and evaluation of machine learning systems, and is lab-based. Students who do this course will obtain experience in the design, implementation, training, and evaluation of machine learning systems.<br>
+<br>
+Semester 1 comprises lectures, labs, and individual coursework.<br>
+<br>
+Semester 2 is based around small group projects, and also includes tutorials and guest lectures.<br>
+<br>
+Note: this course is not a stand-alone introduction to machine learning. Please see 'Other Requirements' for details.","
+    
+    The course covers practical aspects of machine learning, and will focus on practical and experimental issues in deep learning and neural networks. Topics that are covered include:<br>
+<br>
+* Feed-forward network architectures<br>
+* Optimisation and learning rules <br>
+* Regularisation and normalisation<br>
+* Neural networks for classification<br>
+* Autoencoders<br>
+* Convolutional Neural Networks<br>
+* Recurrent Neural Networks<br>
+<br>
+MLP is coursework-based, with lectures to support the additional material required to carry out the practical. Students who complete this course will have experience in the design, implementation, training, and evaluation of machine learning systems.<br>
+<br>
+MLP is a two-semester course.  During Semester 1 the course will focus on developing a deep learning framework based on experiments using the task of classification of handwritten digits using the well-known MNIST dataset. The course uses a Python software framework, and a series of Jupyter notebooks. There is a series of ten weekly lectures in Semester 1 to provide the required theoretical support to the practical work.<br>
+<br>
+Semester 2 will be based on small group projects, with a focus on using deep neural networks within the context of a miniproject, using an open source toolkit such as TensorFlow or PyTorch. Lectures in Semester 2 will support the coursework, and also provide insights to the current state of the art in this very fast moving area.
+    
+    
+",
+Edinburgh_Scotland,cxinfr11224,"<h2>Edinburgh_Scotland cxinfr11224</h2><h2>title</h2>Undergraduate Course: Machine Learning Theory (INFR11202)<h2>summary</h2>This course is an introduction to the theory of learning algorithms and their properties that are relevant to the widespread use of machine learning. The course starts with the standard mathematical concepts in theoretical ML. It then covers classical analytic results about accuracy, confidence, sample complexity and model complexity. Standard learning/optimisation algorithms are described in this context. In modern research areas such as trustworthy machine learning, several properties including privacy, fairness and interpretablity are considered vital for widespread reliable use of machine learning. These topics are discussed in a mathematical perspective.<br>
+<br>
+The course aims to provide a firm foundation in reading and understanding mathematical ideas so that students are equipped to follow the latest developments and research, and to interpret relevant properties and tradeoffs. Throughout, the course will take the approach of precise mathematical definition and analysis, coupled with easy examples and intuition to aid understanding.<h2>content</h2>
+    
+    The following is an indicative list of topics in the course:<br>
+<br>
+	1. Notations, terminology and formal models.<br>
+	2. Learning theory: Empirical risk minimisation and sampling complexity. Probably approximately correct (PAC) guarantees.<br>
+	3. Complexity of learning models (e.g. VC dimension) and bias-complexity tradeoff.<br>
+	4. Optimization algorithms. Regression, SVM, Stochastic gradient descent and its variants.<br>
+	5. Regularization, convexity, stability, Lipschitzness and other properties<br>
+	6. Statistical Privacy<br>
+	7. Mechanisms for privacy preserving machine learning. Differentially private stochastic gradient descent.<br>
+	8. Interpretable machine learning. (E.g. Feature importance)<br>
+	9. Fairness.<br>
+<br>
+The topics will be discussed with reference to standard machine learning techniques, and examples of realistic problems. Our approach will include precise definitions and analysis as well as examples and intuitive explanations. The relevance and domain of applicability of the various concepts will be discussed.<br>
+<br>
+Tutorials and problem sets will be available to help understanding and exploration of the subject.
+    
+    
+",Undergraduate Course: Machine Learning Theory (INFR11202),"This course is an introduction to the theory of learning algorithms and their properties that are relevant to the widespread use of machine learning. The course starts with the standard mathematical concepts in theoretical ML. It then covers classical analytic results about accuracy, confidence, sample complexity and model complexity. Standard learning/optimisation algorithms are described in this context. In modern research areas such as trustworthy machine learning, several properties including privacy, fairness and interpretablity are considered vital for widespread reliable use of machine learning. These topics are discussed in a mathematical perspective.<br>
+<br>
+The course aims to provide a firm foundation in reading and understanding mathematical ideas so that students are equipped to follow the latest developments and research, and to interpret relevant properties and tradeoffs. Throughout, the course will take the approach of precise mathematical definition and analysis, coupled with easy examples and intuition to aid understanding.","
+    
+    The following is an indicative list of topics in the course:<br>
+<br>
+	1. Notations, terminology and formal models.<br>
+	2. Learning theory: Empirical risk minimisation and sampling complexity. Probably approximately correct (PAC) guarantees.<br>
+	3. Complexity of learning models (e.g. VC dimension) and bias-complexity tradeoff.<br>
+	4. Optimization algorithms. Regression, SVM, Stochastic gradient descent and its variants.<br>
+	5. Regularization, convexity, stability, Lipschitzness and other properties<br>
+	6. Statistical Privacy<br>
+	7. Mechanisms for privacy preserving machine learning. Differentially private stochastic gradient descent.<br>
+	8. Interpretable machine learning. (E.g. Feature importance)<br>
+	9. Fairness.<br>
+<br>
+The topics will be discussed with reference to standard machine learning techniques, and examples of realistic problems. Our approach will include precise definitions and analysis as well as examples and intuitive explanations. The relevance and domain of applicability of the various concepts will be discussed.<br>
+<br>
+Tutorials and problem sets will be available to help understanding and exploration of the subject.
+    
+    
+",
+Edinburgh_Scotland,cxinfr11226,"<h2>Edinburgh_Scotland cxinfr11226</h2><h2>title</h2>Postgraduate Course: Parallel Programming Languages and Systems (Level 11) (INFR11023)<h2>summary</h2>The module familiarises students with the issues involved in designing, implementing and applying parallel programming systems. Initial motivation will be provided by consideration of a number of typical high performance applications and parallel architectures. This will highlight the role of parallel software systems as a means of bridging the gap between these and allow abstraction of the issues which must be addressed by any such system (partitioning, communication, agglomeration, scheduling). It will explore the ways in which these challenges have been addressed by a range of systems, including both de facto standards and more adventurous research projects.<h2>content</h2>
+    
+    * Introduction. Conceptual and architectural models of parallelism. Parallel algorithmic paradigms and simple parallel algorithms.Iterative, recursive pipeline and bag-of-task parallelism.<br>
+* Generic issues in shared variable programming. Mutual exclusion, condition synchronization. Locks, barriers semaphores and monitors, use and implementation.<br>
+* Realisation in Pthreads and Java.<br>
+* Issues in message passing programming. Channels and synchronization models.<br>
+* Realisation in MPI: communicators, simple and collective operations<br>
+* Selected case studies highlighting alternative approaches, for example,<br>
+o Associative models. Linda, tuple space and related primitives.<br>
+o Threading Building Blocks.<br>
+<br>
+Relevant QAA Computing Curriculum Sections:  Concurrency and Parallelism
+    
+    
+",Postgraduate Course: Parallel Programming Languages and Systems (Level 11) (INFR11023),"The module familiarises students with the issues involved in designing, implementing and applying parallel programming systems. Initial motivation will be provided by consideration of a number of typical high performance applications and parallel architectures. This will highlight the role of parallel software systems as a means of bridging the gap between these and allow abstraction of the issues which must be addressed by any such system (partitioning, communication, agglomeration, scheduling). It will explore the ways in which these challenges have been addressed by a range of systems, including both de facto standards and more adventurous research projects.","
+    
+    * Introduction. Conceptual and architectural models of parallelism. Parallel algorithmic paradigms and simple parallel algorithms.Iterative, recursive pipeline and bag-of-task parallelism.<br>
+* Generic issues in shared variable programming. Mutual exclusion, condition synchronization. Locks, barriers semaphores and monitors, use and implementation.<br>
+* Realisation in Pthreads and Java.<br>
+* Issues in message passing programming. Channels and synchronization models.<br>
+* Realisation in MPI: communicators, simple and collective operations<br>
+* Selected case studies highlighting alternative approaches, for example,<br>
+o Associative models. Linda, tuple space and related primitives.<br>
+o Threading Building Blocks.<br>
+<br>
+Relevant QAA Computing Curriculum Sections:  Concurrency and Parallelism
+    
+    
+",
+Edinburgh_Scotland,cxinfr11227,"<h2>Edinburgh_Scotland cxinfr11227</h2><h2>title</h2>Undergraduate Course: Quantum Cyber Security (INFR11187)<h2>summary</h2>In this course we cover a broad range of effects that the development of quantum technologies bring on the security and privacy of communication and computation. In particular we consider (i) post-quantum security: security of classical protocols when the adversaries have access to quantum computers or other quantum technologies and (ii) quantumly-enhanced security: when quantum technologies are used by honest parties to achieve better (in terms of security or efficiency) performance. We give an overview of the field, while in each case we focus on selected examples to illustrate how to handle security in a world with quantum technologies.<h2>content</h2>
+    
+    This course deals with the various effects that developing quantum technologies will have on cyber security. Quantum computing and quantum information theory offers new possibilities (in terms of efficiency and security). Here we examine both the extra attacks that adversaries equipped with quantum technologies can perform and the extra possibilities opened when honest parties use quantum technologies.<br>
+<br>
+The students first will be introduced to quantum information concepts (qubits, mixed states, operations, distance measures) as well as quantum algorithms (factoring, discrete logarithms, search) and their limitations. This will lead to LO1, namely learn the mathematical machinery and the power (and limitations) of quantum information and computation, in view of using these for cyber security.<br>
+<br>
+The second part consists of learning and understanding quantum cryptography and specifically ""quantum-key-distribution"" protocols, including their security proofs and the how different implementations affect the performance (see LO4). The limitations (practical and theoretical) of quantum cryptography will also be analysed here (including impossibility results).<br>
+<br>
+The third part deals with generalising classical notions such as encryption, authentication and secure delegated computation to quantum information. Introducing students in these concepts prepares them for the next generation of quantum cyber security that is bound to become relevant when large(r) quantum computers are constructed (LO5).<br>
+<br>
+Finally, the last part of the course focuses on classical protocols and their security under quantum attacks. A cryptosystem based on the learning-with-errors problems will be introduced as a (key) example of this possibility (LO2). Furthermore, general quantum attacks (superposition attacks, the quantum random oracle model, etc) will be introduced and students will learn to analyse general quantum attacks on a given classical protocol (LO3).
+    
+    
+",Undergraduate Course: Quantum Cyber Security (INFR11187),"In this course we cover a broad range of effects that the development of quantum technologies bring on the security and privacy of communication and computation. In particular we consider (i) post-quantum security: security of classical protocols when the adversaries have access to quantum computers or other quantum technologies and (ii) quantumly-enhanced security: when quantum technologies are used by honest parties to achieve better (in terms of security or efficiency) performance. We give an overview of the field, while in each case we focus on selected examples to illustrate how to handle security in a world with quantum technologies.","
+    
+    This course deals with the various effects that developing quantum technologies will have on cyber security. Quantum computing and quantum information theory offers new possibilities (in terms of efficiency and security). Here we examine both the extra attacks that adversaries equipped with quantum technologies can perform and the extra possibilities opened when honest parties use quantum technologies.<br>
+<br>
+The students first will be introduced to quantum information concepts (qubits, mixed states, operations, distance measures) as well as quantum algorithms (factoring, discrete logarithms, search) and their limitations. This will lead to LO1, namely learn the mathematical machinery and the power (and limitations) of quantum information and computation, in view of using these for cyber security.<br>
+<br>
+The second part consists of learning and understanding quantum cryptography and specifically ""quantum-key-distribution"" protocols, including their security proofs and the how different implementations affect the performance (see LO4). The limitations (practical and theoretical) of quantum cryptography will also be analysed here (including impossibility results).<br>
+<br>
+The third part deals with generalising classical notions such as encryption, authentication and secure delegated computation to quantum information. Introducing students in these concepts prepares them for the next generation of quantum cyber security that is bound to become relevant when large(r) quantum computers are constructed (LO5).<br>
+<br>
+Finally, the last part of the course focuses on classical protocols and their security under quantum attacks. A cryptosystem based on the learning-with-errors problems will be introduced as a (key) example of this possibility (LO2). Furthermore, general quantum attacks (superposition attacks, the quantum random oracle model, etc) will be introduced and students will learn to analyse general quantum attacks on a given classical protocol (LO3).
+    
+    
+",
+Edinburgh_Scotland,cxinfr11228,"<h2>Edinburgh_Scotland cxinfr11228</h2><h2>title</h2>Undergraduate Course: Security Engineering (INFR11208)<h2>summary</h2>This course aims to give students a thorough understanding of how to engineer security in modern systems. We discuss threat actors from nation states through cybercrime gangs to abuse by family members. We dive into detailed case studies of applications such as payment networks and vehicle systems. We analyse the protection mechanisms of platforms they rely on, such as smartcards, mobile phones and cloud systems. We work through multiple perspectives: classical systems engineering, the psychology of users good and bad, and the incentives facing different actors in the system. This enables students to take a holistic view of security as an emergent property of complex systems, and of related properties such as safety, and to understand how to manage them as systems and their environments evolve.<h2>content</h2>
+    
+    As ever more devices participate in online systems that become ever more complex, it is ever more important,and more difficult, to manage emergent properties such as security, safety and sustainability. Security engineering is not just about individual mechanisms such as cryptography and access controls but how they work together at scale in real systems. This course will illustrate how to analyse threats and hazards systematically, evolve security policies, integrate them with safety policies and accounting standards as need be, test and certify the resulting systems, and manage their evolution as vulnerabilities are discovered or as their requirements change over time.<br>
+<br>
+Over the course of 15 lectures we will study how real systems are attacked by a variety of opponents and how their defences evolve to cope. We will look in detail at important applications such as payments, home automation and vehicles. We will look at the psychology of secure design: how we can minimise the risk of attacks involving deception. We will analyse the economics of security: when service providers have adequate incentives to prevent fraud, and where market failure or poor regulation get in the way. <br>
+<br>
+We will take a deep dive into the protection mechanisms of the underlying platforms, from smartcards through mobile phones to containers, and at whole ecosystems such as phone apps, cloud services and network security. By the end of the course, students should be able to analyse a security problem across the entire systems stack, from the threats and protection goals down through the application and the platforms and if need be to the hardware. They should also appreciate how security interacts with related emergent properties such as safety and sustainability.
+    
+    
+",Undergraduate Course: Security Engineering (INFR11208),"This course aims to give students a thorough understanding of how to engineer security in modern systems. We discuss threat actors from nation states through cybercrime gangs to abuse by family members. We dive into detailed case studies of applications such as payment networks and vehicle systems. We analyse the protection mechanisms of platforms they rely on, such as smartcards, mobile phones and cloud systems. We work through multiple perspectives: classical systems engineering, the psychology of users good and bad, and the incentives facing different actors in the system. This enables students to take a holistic view of security as an emergent property of complex systems, and of related properties such as safety, and to understand how to manage them as systems and their environments evolve.","
+    
+    As ever more devices participate in online systems that become ever more complex, it is ever more important,and more difficult, to manage emergent properties such as security, safety and sustainability. Security engineering is not just about individual mechanisms such as cryptography and access controls but how they work together at scale in real systems. This course will illustrate how to analyse threats and hazards systematically, evolve security policies, integrate them with safety policies and accounting standards as need be, test and certify the resulting systems, and manage their evolution as vulnerabilities are discovered or as their requirements change over time.<br>
+<br>
+Over the course of 15 lectures we will study how real systems are attacked by a variety of opponents and how their defences evolve to cope. We will look in detail at important applications such as payments, home automation and vehicles. We will look at the psychology of secure design: how we can minimise the risk of attacks involving deception. We will analyse the economics of security: when service providers have adequate incentives to prevent fraud, and where market failure or poor regulation get in the way. <br>
+<br>
+We will take a deep dive into the protection mechanisms of the underlying platforms, from smartcards through mobile phones to containers, and at whole ecosystems such as phone apps, cloud services and network security. By the end of the course, students should be able to analyse a security problem across the entire systems stack, from the threats and protection goals down through the application and the platforms and if need be to the hardware. They should also appreciate how security interacts with related emergent properties such as safety and sustainability.
+    
+    
+",
+Edinburgh_Scotland,cxinfr11229,"<h2>Edinburgh_Scotland cxinfr11229</h2><h2>title</h2>Undergraduate Course: Text Technologies for Data Science (INFR11145)<h2>summary</h2>This course teaches the basic technologies required for text processing, focussing mainly on information retrieval and text classification. It gives a detailed overview of information retrieval and describes how search engines work. It also covers basic knowledge of the main steps for text classification. <br>
+<br>
+This course is a highly practical course, where at least 50% of what is taught in the course will be implemented from scratch in course works and labs, and students are required to complete a final project in small groups. All lectures, labs, and two course works will take place in Semester 1. The final group project will be due early Semester 2 by week 3 or 4.<h2>content</h2>
+    
+    Syllabus:<br>
+* Introduction to IR and text processing, system components<br>
+* Zipf, Heaps, and other text laws <br>
+* Pre-processing: tokenization, normalisation, stemming, stopping.<br>
+* Indexing: inverted index, boolean and proximity search<br>
+* Evaluation methods and measures (e.g., precision, recall, MAP, significance testing).<br>
+* Query expansion<br>
+* IR toolkits and applications<br>
+* Ranked retrieval and learning to rank<br>
+* Text classification: feature extraction, baselines, evaluation<br>
+* Web search
+    
+    
+",Undergraduate Course: Text Technologies for Data Science (INFR11145),"This course teaches the basic technologies required for text processing, focussing mainly on information retrieval and text classification. It gives a detailed overview of information retrieval and describes how search engines work. It also covers basic knowledge of the main steps for text classification. <br>
+<br>
+This course is a highly practical course, where at least 50% of what is taught in the course will be implemented from scratch in course works and labs, and students are required to complete a final project in small groups. All lectures, labs, and two course works will take place in Semester 1. The final group project will be due early Semester 2 by week 3 or 4.","
+    
+    Syllabus:<br>
+* Introduction to IR and text processing, system components<br>
+* Zipf, Heaps, and other text laws <br>
+* Pre-processing: tokenization, normalisation, stemming, stopping.<br>
+* Indexing: inverted index, boolean and proximity search<br>
+* Evaluation methods and measures (e.g., precision, recall, MAP, significance testing).<br>
+* Query expansion<br>
+* IR toolkits and applications<br>
+* Ranked retrieval and learning to rank<br>
+* Text classification: feature extraction, baselines, evaluation<br>
+* Web search
+    
+    
+",
+Edinburgh_Scotland,cxinfr11235,"<h2>Edinburgh_Scotland cxinfr11235</h2><h2>title</h2>Postgraduate Course: Probabilistic Modelling and Reasoning (INFR11134)<h2>summary</h2>When dealing with real world data, we often need to deal with uncertainty. For example, short segments of speech may be ambiguous, and we need to take into account context in order to make sense of an utterance. Probability theory provides a rigorous method for representing and reasoning with uncertain knowledge. The course covers two main areas (i) the process of inference with probabilistic models and (ii) learning probabilistic models from data. <br>
+<br>
+Its aim is to provide a firm grounding in probabilistic modelling and reasoning, and to give a basis which will allow students to go on to develop their interests in more specific areas, such as statistical language modelling, bioinformatics, computational neuroscience, or computer vision, to name a few examples.<h2>content</h2>
+    
+    The course will cover the most important topics in probabilistic modelling and unsupervised learning, and provide a thorough basis for understanding extensions, further developments and applications.<br>
+<br>
+While the precise topics will vary slightly from year to year, the core content will revolve around:<br>
+- probabilistic graphical models<br>
+- exact inference<br>
+- learning from data<br>
+- methods for approximate inference and learning<br>
+<br>
+The course will be delivered in a series of lectures and exercises. In addition to working through exercises with pencil and paper, the students will be expected to complete some programming exercises to gain experience with implementing and using the material taught in the course.
+    
+    
+",Postgraduate Course: Probabilistic Modelling and Reasoning (INFR11134),"When dealing with real world data, we often need to deal with uncertainty. For example, short segments of speech may be ambiguous, and we need to take into account context in order to make sense of an utterance. Probability theory provides a rigorous method for representing and reasoning with uncertain knowledge. The course covers two main areas (i) the process of inference with probabilistic models and (ii) learning probabilistic models from data. <br>
+<br>
+Its aim is to provide a firm grounding in probabilistic modelling and reasoning, and to give a basis which will allow students to go on to develop their interests in more specific areas, such as statistical language modelling, bioinformatics, computational neuroscience, or computer vision, to name a few examples.","
+    
+    The course will cover the most important topics in probabilistic modelling and unsupervised learning, and provide a thorough basis for understanding extensions, further developments and applications.<br>
+<br>
+While the precise topics will vary slightly from year to year, the core content will revolve around:<br>
+- probabilistic graphical models<br>
+- exact inference<br>
+- learning from data<br>
+- methods for approximate inference and learning<br>
+<br>
+The course will be delivered in a series of lectures and exercises. In addition to working through exercises with pencil and paper, the students will be expected to complete some programming exercises to gain experience with implementing and using the material taught in the course.
+    
+    
+",
+Edinburgh_Scotland,cxinfr11238,"<h2>Edinburgh_Scotland cxinfr11238</h2><h2>title</h2>Undergraduate Course: Blockchains and Distributed Ledgers (INFR11144)<h2>summary</h2>Blockchain technology and distributed ledgers have been hailed as a turning point in scaling information technology services at a global level. Although the digital currency Bitcoin is the best-known Blockchain application today, the technology is set to play a much broader role in cyber security. <br>
+<br>
+This course is an introduction to blockchain systems and distributed ledgers, the relevant cryptographic tools and smart contracts programming.<h2>content</h2>
+    
+    The concept of blockchain will be covered in detail together with the supporting cryptographic technology. Questions that will be covered is why it works and what problems can it solve. <br>
+<br>
+Syllabus:<br>
+1. Introduction to blockchain. What is a distributed ledger. Transactions. Digital Signatures.<br>
+2. The consensus layer. Basic Properties. Proof of Work.<br>
+3. Robust Transaction Ledgers. Properties and Objectives. Permissioned, permissionless ledgers. <br>
+4. Privacy Issues. Anonymity, Pseudonymity, Unlinkability. Zero-Knowledge Proofs.<br>
+5. Scalability Issues. Byzantine agreement protocols. <br>
+6. Blockchain as a platform. Smart Contracts. <br>
+7. Secure multiparty computation techniques and their application to blockchain protocols. <br>
+8. Alternative techniques to proof of work for blockchain protocols, proof of stake/space. <br>
+9. Game theoretic analysis of blockchain protocols. <br>
+10. Name and object registries. Reputation systems. Policy issues related to blockchain.
+    
+    
+",Undergraduate Course: Blockchains and Distributed Ledgers (INFR11144),"Blockchain technology and distributed ledgers have been hailed as a turning point in scaling information technology services at a global level. Although the digital currency Bitcoin is the best-known Blockchain application today, the technology is set to play a much broader role in cyber security. <br>
+<br>
+This course is an introduction to blockchain systems and distributed ledgers, the relevant cryptographic tools and smart contracts programming.","
+    
+    The concept of blockchain will be covered in detail together with the supporting cryptographic technology. Questions that will be covered is why it works and what problems can it solve. <br>
+<br>
+Syllabus:<br>
+1. Introduction to blockchain. What is a distributed ledger. Transactions. Digital Signatures.<br>
+2. The consensus layer. Basic Properties. Proof of Work.<br>
+3. Robust Transaction Ledgers. Properties and Objectives. Permissioned, permissionless ledgers. <br>
+4. Privacy Issues. Anonymity, Pseudonymity, Unlinkability. Zero-Knowledge Proofs.<br>
+5. Scalability Issues. Byzantine agreement protocols. <br>
+6. Blockchain as a platform. Smart Contracts. <br>
+7. Secure multiparty computation techniques and their application to blockchain protocols. <br>
+8. Alternative techniques to proof of work for blockchain protocols, proof of stake/space. <br>
+9. Game theoretic analysis of blockchain protocols. <br>
+10. Name and object registries. Reputation systems. Policy issues related to blockchain.
+    
+    
+",
+Edinburgh_Scotland,cxinfr11239,"<h2>Edinburgh_Scotland cxinfr11239</h2><h2>title</h2>Undergraduate Course: Principles and Design of IoT Systems (INFR11150)<h2>summary</h2>The course is concerned with the emerging discipline of digitising the physical world with networks of wireless sensors, analysing the sensor data using machine learning techniques to extract actionable information, and influencing the physical world via actuators, with an optional human in the loop. <br>
+<br>
+The course imparts foundational concepts in IoT through personal research distilled in the form of two survey papers on foundational topics in IoT, and students working in pairs gain hands-on experience by realising a healthcare application idea as a demonstratable IoT system using wearable sensors by  the send of the semester.<h2>content</h2>
+    
+    The course aims to deliver a sound understanding of the design and analysis of Internet of Things systems through personal research and practice. The research in a choice of selected foundational topics in IoT provides the foundational knowledge distilled in the form of two 3000-word survey papers.   <br>
+<br>
+The students conduct a major piece of coursework working in pairs to develop an IoT application using wearable sensors. Students will experience all the stages in the design and implementation of a complex system, from its specification to the demonstration of a working prototype. They will be exposed to aspects of embedded systems programming, sensor data analytics using machine learning methods, user interface design, system integration and testing. Each pair will demonstrate a working prototype at the end of Semester 1 and deliver a written report at the start of Semester 2. <br>
+<br>
+Each student pair is given a set of Mbed development board (NRF52-DK), Inertial Measurement Unit (MPU-9250) with 3-axis accelerometer and gyroscope sensors, and an on-line software development environment - the ARM Mbed compiler. The task will be to design, implement and demonstrate a Step Tracker for walking on level ground, running and climbing stairs using the wearable sensor which interfaces to an Android App.
+    
+    
+",Undergraduate Course: Principles and Design of IoT Systems (INFR11150),"The course is concerned with the emerging discipline of digitising the physical world with networks of wireless sensors, analysing the sensor data using machine learning techniques to extract actionable information, and influencing the physical world via actuators, with an optional human in the loop. <br>
+<br>
+The course imparts foundational concepts in IoT through personal research distilled in the form of two survey papers on foundational topics in IoT, and students working in pairs gain hands-on experience by realising a healthcare application idea as a demonstratable IoT system using wearable sensors by  the send of the semester.","
+    
+    The course aims to deliver a sound understanding of the design and analysis of Internet of Things systems through personal research and practice. The research in a choice of selected foundational topics in IoT provides the foundational knowledge distilled in the form of two 3000-word survey papers.   <br>
+<br>
+The students conduct a major piece of coursework working in pairs to develop an IoT application using wearable sensors. Students will experience all the stages in the design and implementation of a complex system, from its specification to the demonstration of a working prototype. They will be exposed to aspects of embedded systems programming, sensor data analytics using machine learning methods, user interface design, system integration and testing. Each pair will demonstrate a working prototype at the end of Semester 1 and deliver a written report at the start of Semester 2. <br>
+<br>
+Each student pair is given a set of Mbed development board (NRF52-DK), Inertial Measurement Unit (MPU-9250) with 3-axis accelerometer and gyroscope sensors, and an on-line software development environment - the ARM Mbed compiler. The task will be to design, implement and demonstrate a Step Tracker for walking on level ground, running and climbing stairs using the wearable sensor which interfaces to an Android App.
+    
+    
+",
+Edinburgh_Scotland,cxinfr11219,"<h2>Edinburgh_Scotland cxinfr11219</h2><h2>title</h2>Postgraduate Course: Automatic Speech Recognition (INFR11033)<h2>summary</h2>This course covers the theory and practice of automatic speech recognition (ASR), with a focus on the statistical approaches that comprise the state of the art. The course introduces the overall framework for speech recognition, including speech signal analysis, acoustic modelling using hidden Markov models, language modelling and recognition search. <br>
+<br>
+Advanced topics covered will include speaker adaptation, robust speech recognition and speaker identification. The practical side of the course will involve the development of a speech recognition system using a speech recognition software toolkit.<h2>content</h2>
+    
+    Signal analysis for ASR<br>
+Statistical pattern recognition (Bayes decision theory, Learning algorithms, Evaluation methods, Gaussian mixture model, and EM algorithm)<br>
+Hidden Markov Models (HMM)<br>
+Context-dependent models<br>
+Discriminative training<br>
+Language models for LVCSR (large vocabulary continuous speech recognition)<br>
+Decoding<br>
+Robust ASR (Robust features Noise reduction, Microphone arrays)<br>
+Adaptation (Noise adaptation, Speaker adaptation/normalization, Language model adaptation)<br>
+Speaker recognition<br>
+History of speech recognition<br>
+Advanced topics (Using prosody for ASR, Audio-visual ASR, Indexing, Bayesian network)<br>
+Speech recognition applications (including privacy implications)<br>
+<br>
+Relevant QAA Computing Curriculum Sections: Artificial Intelligence, Natural Language Computing
+    
+    
+",Postgraduate Course: Automatic Speech Recognition (INFR11033),"This course covers the theory and practice of automatic speech recognition (ASR), with a focus on the statistical approaches that comprise the state of the art. The course introduces the overall framework for speech recognition, including speech signal analysis, acoustic modelling using hidden Markov models, language modelling and recognition search. <br>
+<br>
+Advanced topics covered will include speaker adaptation, robust speech recognition and speaker identification. The practical side of the course will involve the development of a speech recognition system using a speech recognition software toolkit.","
+    
+    Signal analysis for ASR<br>
+Statistical pattern recognition (Bayes decision theory, Learning algorithms, Evaluation methods, Gaussian mixture model, and EM algorithm)<br>
+Hidden Markov Models (HMM)<br>
+Context-dependent models<br>
+Discriminative training<br>
+Language models for LVCSR (large vocabulary continuous speech recognition)<br>
+Decoding<br>
+Robust ASR (Robust features Noise reduction, Microphone arrays)<br>
+Adaptation (Noise adaptation, Speaker adaptation/normalization, Language model adaptation)<br>
+Speaker recognition<br>
+History of speech recognition<br>
+Advanced topics (Using prosody for ASR, Audio-visual ASR, Indexing, Bayesian network)<br>
+Speech recognition applications (including privacy implications)<br>
+<br>
+Relevant QAA Computing Curriculum Sections: Artificial Intelligence, Natural Language Computing
+    
+    
+",
+Edinburgh_Scotland,cxinfr11225,"<h2>Edinburgh_Scotland cxinfr11225</h2><h2>title</h2>Undergraduate Course: Natural Language Understanding, Generation, and Machine Translation (INFR11157)<h2>summary</h2>This course explores current research on processing natural language: interpreting, generating, and translating. The course will focus mainly on deep learning approaches to various NLP tasks and applications. It will provide an introduction to the main neural network architectures used in NLP and how they are used for tasks such as syntactic and semantic parsing, as well as end-user applications such as machine translation and text summarisation.<br>
+<br>
+Building on linguistic and algorithmic knowledge taught in prerequisite courses, this course also aims to further develop students' understanding of the strengths and weaknesses of current approaches with respect to linguistic and computational considerations. Practical assignments will provide the opportunity to implement and analyse some of the approaches considered.<h2>content</h2>
+    
+    The course aims to familiarise students with recent research across a range of topics within NLP, mainly within the framework of neural network models, and with a focus on applications such as machine translation, summarisation, and semantic parsing. As an MSc-level course that assumes previous experience with NLP, it will discuss a range of different issues, including linguistic/representational capacity, computational efficiency, optimisation, etc. There is no textbook for the course; readings will come from recent research literature.
+    
+    
+","Undergraduate Course: Natural Language Understanding, Generation, and Machine Translation (INFR11157)","This course explores current research on processing natural language: interpreting, generating, and translating. The course will focus mainly on deep learning approaches to various NLP tasks and applications. It will provide an introduction to the main neural network architectures used in NLP and how they are used for tasks such as syntactic and semantic parsing, as well as end-user applications such as machine translation and text summarisation.<br>
+<br>
+Building on linguistic and algorithmic knowledge taught in prerequisite courses, this course also aims to further develop students' understanding of the strengths and weaknesses of current approaches with respect to linguistic and computational considerations. Practical assignments will provide the opportunity to implement and analyse some of the approaches considered.","
+    
+    The course aims to familiarise students with recent research across a range of topics within NLP, mainly within the framework of neural network models, and with a focus on applications such as machine translation, summarisation, and semantic parsing. As an MSc-level course that assumes previous experience with NLP, it will discuss a range of different issues, including linguistic/representational capacity, computational efficiency, optimisation, etc. There is no textbook for the course; readings will come from recent research literature.
+    
+    
+",
+Edinburgh_Scotland,cxinfr09042,"<h2>Edinburgh_Scotland cxinfr09042</h2><h2>title</h2>Undergraduate Course: Automated Reasoning (INFR09042)<h2>summary</h2>**This course has been replaced by the new Level 10 Automated Reasoning INFR10087 course from 2022-23- also 10 credits**<br>
+<br>
+The overall aim of the course is to describe how reasoning can be modelled using computers. Its more specific aim is to provide a route into more advanced uses of theorem proving in order to solve problems in mathematics and formal verification. <br>
+ <br>
+Major emphases are on: how knowledge can be represented using propositional, first-order and higher-order logic; how these representations can be used as the basis for reasoning, and how these reasoning processes can be guided to a successful conclusion through a variety of means ranging from fully-automated to interactive ones. Students will develop a thorough understanding of modern, interactive theorem proving via lectures and a practical assignment.<h2>content</h2>
+    
+    The course starts with an introduction to higher order logic, theorem provers and, more specifically, Isabelle/HOL. This will set the context for the rest of the course in which Isabelle will be the framework for getting hands-on experience about the application of various theoretical concepts. <br>
+<br>
+ <br>
+Through the lectures and weekly exercises that incorporate practical aspects the students will gain the skills needed to get started with Isabelle and progress to more complex concepts involving both representation and reasoning. <br>
+ <br>
+The second part will look at representation/modelling of concepts in (higher order) logic in details. Axiomatic versus conservative extensions of theories will be covered and mechanisms such as Isabelle locales will be introduced and used. Recursive definitions and inductive notions will be covered too. <br>
+ <br>
+The third part of the course will focus on fundamental notions such as unification and rewriting, within both a first and higher order context. It will look at notions such as termination and use Isabelle's simplifier as the tool for understanding many of the concepts. It will also look at the interplay between (fully) automatic and interactive proofs. <br>
+ <br>
+The fourth part will introduce declarative/structured proofs and using the Isar language of Isabelle show how proofs resembling pencil and paper ones can be formalized. <br>
+ <br>
+Finally the various strands will be brought together through the discussion of a non-trivial case study. <br>
+This may involve either formalized mathematics (e.g. looking at a geometric theory) or a formal verification example. <br>
+ <br>
+The assignment will be a combination of basic to intermediate representation and reasoning in Isabelle (up to 40%), more advanced proof tackling one particular domain or example (up to 40%) and a final part which, if completed successfully, will clearly demonstrate that the student has a good grasp of the challenges that advanced interactive theorem proving entails.
+    
+    
+",Undergraduate Course: Automated Reasoning (INFR09042),"**This course has been replaced by the new Level 10 Automated Reasoning INFR10087 course from 2022-23- also 10 credits**<br>
+<br>
+The overall aim of the course is to describe how reasoning can be modelled using computers. Its more specific aim is to provide a route into more advanced uses of theorem proving in order to solve problems in mathematics and formal verification. <br>
+ <br>
+Major emphases are on: how knowledge can be represented using propositional, first-order and higher-order logic; how these representations can be used as the basis for reasoning, and how these reasoning processes can be guided to a successful conclusion through a variety of means ranging from fully-automated to interactive ones. Students will develop a thorough understanding of modern, interactive theorem proving via lectures and a practical assignment.","
+    
+    The course starts with an introduction to higher order logic, theorem provers and, more specifically, Isabelle/HOL. This will set the context for the rest of the course in which Isabelle will be the framework for getting hands-on experience about the application of various theoretical concepts. <br>
+<br>
+ <br>
+Through the lectures and weekly exercises that incorporate practical aspects the students will gain the skills needed to get started with Isabelle and progress to more complex concepts involving both representation and reasoning. <br>
+ <br>
+The second part will look at representation/modelling of concepts in (higher order) logic in details. Axiomatic versus conservative extensions of theories will be covered and mechanisms such as Isabelle locales will be introduced and used. Recursive definitions and inductive notions will be covered too. <br>
+ <br>
+The third part of the course will focus on fundamental notions such as unification and rewriting, within both a first and higher order context. It will look at notions such as termination and use Isabelle's simplifier as the tool for understanding many of the concepts. It will also look at the interplay between (fully) automatic and interactive proofs. <br>
+ <br>
+The fourth part will introduce declarative/structured proofs and using the Isar language of Isabelle show how proofs resembling pencil and paper ones can be formalized. <br>
+ <br>
+Finally the various strands will be brought together through the discussion of a non-trivial case study. <br>
+This may involve either formalized mathematics (e.g. looking at a geometric theory) or a formal verification example. <br>
+ <br>
+The assignment will be a combination of basic to intermediate representation and reasoning in Isabelle (up to 40%), more advanced proof tackling one particular domain or example (up to 40%) and a final part which, if completed successfully, will clearly demonstrate that the student has a good grasp of the challenges that advanced interactive theorem proving entails.
+    
+    
+",
+Edinburgh_Scotland,cxinfr10069,"<h2>Edinburgh_Scotland cxinfr10069</h2><h2>title</h2>Undergraduate Course: Introductory Applied Machine Learning (INFR10069)<h2>summary</h2>***This course has been replaced by Machine Learning (INFR10086).***<br>
+<br>
+Since the early days of AI, researchers have been interested in making computers learn, rather than simply programming them to do tasks. This is the field of machine learning. The main area that will be discussed is supervised learning, which is concerned with learning to predict an output, given inputs. A second area of study is unsupervised learning, where we wish to discover the structure in a set of patterns; there is no output 'teacher signal'.<br>
+<br>
+The primary aim of the course is to provide the student with a set of practical tools that can be applied to solve real-world problems in machine learning, coupled with an appropriate, principled approach to formulating a solution.<h2>content</h2>
+    
+    Introduction to Machine Learning and its Goals. Introduction to Data and Models. Memory based methods. Decision Trees. Error functions, Minimising Error. Regression, Logistic Regression, Neural Networks. Margin Based Methods: Perceptron, Support Vector Machines. Naïve Bayes. Dimensionality Reduction. Clustering: K-means, Simple Gaussian Mixture Models, Hierarchical Clustering. Boosting Approaches. Model Averaging, Mixtures of Experts. Evaluation of Performance.<br>
+<br>
+[We will also use a modern machine learning programming environment]<br>
+
+    
+    
+",Undergraduate Course: Introductory Applied Machine Learning (INFR10069),"***This course has been replaced by Machine Learning (INFR10086).***<br>
+<br>
+Since the early days of AI, researchers have been interested in making computers learn, rather than simply programming them to do tasks. This is the field of machine learning. The main area that will be discussed is supervised learning, which is concerned with learning to predict an output, given inputs. A second area of study is unsupervised learning, where we wish to discover the structure in a set of patterns; there is no output 'teacher signal'.<br>
+<br>
+The primary aim of the course is to provide the student with a set of practical tools that can be applied to solve real-world problems in machine learning, coupled with an appropriate, principled approach to formulating a solution.","
+    
+    Introduction to Machine Learning and its Goals. Introduction to Data and Models. Memory based methods. Decision Trees. Error functions, Minimising Error. Regression, Logistic Regression, Neural Networks. Margin Based Methods: Perceptron, Support Vector Machines. Naïve Bayes. Dimensionality Reduction. Clustering: K-means, Simple Gaussian Mixture Models, Hierarchical Clustering. Boosting Approaches. Model Averaging, Mixtures of Experts. Evaluation of Performance.<br>
+<br>
+[We will also use a modern machine learning programming environment]<br>
+
+    
+    
+",
+Edinburgh_Scotland,cxinfr11021,"<h2>Edinburgh_Scotland cxinfr11021</h2><h2>title</h2>Postgraduate Course: Computer Graphics (Level 11) (INFR11021)<h2>summary</h2>This introductory course in computer graphics comprises of three parts. The first part of the course presents a bird's-eye view of the current state-of-the-art in the field. The latter two parts cover rendering, which is one of the core topics in computer graphics, in detail. The second part of the course teaches central concepts in rendering, along with the relevant mathematics. Finally, the third part of the course focusses on applications of the theory taught in the second part.<h2>content</h2>
+    
+    SYLLABUS<br>
+<br>
+Part I<br>
+* Introduction [1]<br>
+* Radiometry and photometry [1]<br>
+* Modelling [1]<br>
+* Special effects I: relighting [1]<br>
+* Special effects II: compositing [1]<br>
+<br>
+Part II<br>
+* Raytracing [1]<br>
+* The rendering equation [2]<br>
+* Monte Carlo path tracing [2]<br>
+* Sampling [2]<br>
+* Camera effects [1]<br>
+<br>
+Part III<br>
+* Participating media [1]<br>
+* Acceleration structures [1] <br>
+* MCMC methods for light transport [1]<br>
+* Gradient domain path tracing [1]<br>
+* Overview of current research [1/2]<br>
+* Discussion of open problems in rendering [1/2]<br>
+* Conclusion [1]
+    
+    
+",Postgraduate Course: Computer Graphics (Level 11) (INFR11021),"This introductory course in computer graphics comprises of three parts. The first part of the course presents a bird's-eye view of the current state-of-the-art in the field. The latter two parts cover rendering, which is one of the core topics in computer graphics, in detail. The second part of the course teaches central concepts in rendering, along with the relevant mathematics. Finally, the third part of the course focusses on applications of the theory taught in the second part.","
+    
+    SYLLABUS<br>
+<br>
+Part I<br>
+* Introduction [1]<br>
+* Radiometry and photometry [1]<br>
+* Modelling [1]<br>
+* Special effects I: relighting [1]<br>
+* Special effects II: compositing [1]<br>
+<br>
+Part II<br>
+* Raytracing [1]<br>
+* The rendering equation [2]<br>
+* Monte Carlo path tracing [2]<br>
+* Sampling [2]<br>
+* Camera effects [1]<br>
+<br>
+Part III<br>
+* Participating media [1]<br>
+* Acceleration structures [1] <br>
+* MCMC methods for light transport [1]<br>
+* Gradient domain path tracing [1]<br>
+* Overview of current research [1/2]<br>
+* Discussion of open problems in rendering [1/2]<br>
+* Conclusion [1]
+    
+    
+",
+Edinburgh_Scotland,cxinfr11092,"<h2>Edinburgh_Scotland cxinfr11092</h2><h2>title</h2>Postgraduate Course: Robotics: Science and Systems (INFR11092)<h2>summary</h2>This course will be a Masters degree level introduction to the core areas in robotics: kinematics, dynamics and control; state estimation and signal processing; digital control systems; robot motion planning and localization. Lectures on these topics will be complemented by a lab practical that exercises knowledge of a cross section of these techniques on an integrated humanoid robot in the lab, motivated by a task such as robot manipulation. <br>
+<br>
+Particularly, in order to bridge the lectures on algorithms and lab sessions, the course also provides tutorials dedicated to the practice of programming and the implementation of algorithms - from the equations to code.  <br>
+<br>
+The aim of the course is to present a unified view of the field, culminating in a practical involving the development of an integrated robotic system that embodies the key elements of the major algorithmic techniques that are used in real-world robotic applications.<h2>content</h2>
+    
+    The main coverage of topics is as follows: <br>
+<br>
+- Kinematics - forward and inverse <br>
+- Dynamics - equation of motions and the state space representation <br>
+- Control - classical and modern control theories &amp; techniques <br>
+- Sensing - single processing, filtering <br>
+- Robot motion planning <br>
+- Multi-modal sensor fusion and state estimation
+    
+    
+",Postgraduate Course: Robotics: Science and Systems (INFR11092),"This course will be a Masters degree level introduction to the core areas in robotics: kinematics, dynamics and control; state estimation and signal processing; digital control systems; robot motion planning and localization. Lectures on these topics will be complemented by a lab practical that exercises knowledge of a cross section of these techniques on an integrated humanoid robot in the lab, motivated by a task such as robot manipulation. <br>
+<br>
+Particularly, in order to bridge the lectures on algorithms and lab sessions, the course also provides tutorials dedicated to the practice of programming and the implementation of algorithms - from the equations to code.  <br>
+<br>
+The aim of the course is to present a unified view of the field, culminating in a practical involving the development of an integrated robotic system that embodies the key elements of the major algorithmic techniques that are used in real-world robotic applications.","
+    
+    The main coverage of topics is as follows: <br>
+<br>
+- Kinematics - forward and inverse <br>
+- Dynamics - equation of motions and the state space representation <br>
+- Control - classical and modern control theories &amp; techniques <br>
+- Sensing - single processing, filtering <br>
+- Robot motion planning <br>
+- Multi-modal sensor fusion and state estimation
+    
+    
+",

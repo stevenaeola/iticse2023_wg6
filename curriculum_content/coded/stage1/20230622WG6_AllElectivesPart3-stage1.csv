@@ -1,9 +1,9 @@
-﻿Title,Text,[M] elective: ,[M] institution: ,[M] title: ,julia,jack,sara,svetlana,thom,steven
-"COMP3467:ADVANCED COMPUTER SYSTEMS",,COMP3467,Durham_England,"COMP3467: ADVANCED COMPUTER SYSTEMS",AR,AR; SF,AR,AR,AR,AR
+﻿Title,Text,[M] elective: ,[M] institution: ,[M] title: ,[C] julia,[C] jack,[C] sara,[C] svetlana,[C] thom,[C] steven
+COMP3467:ADVANCED COMPUTER SYSTEMS,,COMP3467,Durham_England,COMP3467: ADVANCED COMPUTER SYSTEMS,AR,AR; SF,AR,AR,AR,AR
 Database Design I,,1DL301,Uppsala_Sweden,Database Design I,DM,DM,DM,DM,DM,DM
 Semantics of Programming Languages,,1DL311,Uppsala_Sweden,Semantics of Programming Languages,FPL,FPL,AL; FPL,FPL,FPL,FPL
 Computer Networks I,,1DT052,Uppsala_Sweden,Computer Networks I,NC,NC,NC,NC,NC,NC
-Numerical Methods and Simulation,,1TD403,Uppsala_Sweden,Numerical Methods and Simulation,AL;9,AL;MSF,AL,MSF,AL; MSF; 09,AL;09
+Numerical Methods and Simulation,,1TD403,Uppsala_Sweden,Numerical Methods and Simulation,AL;09,AL;MSF,AL,MSF,AL; MSF; 09,AL;09
 Algorithms and Data Structures II,,1DL231,Uppsala_Sweden,Algorithms and Data Structures II,AL,AL,AL,AL,AL,AL;09
 Compiler Design I,,1DL321,Uppsala_Sweden,Compiler Design I,FPL,FPL,FPL,AR; SF,FPL,FPL
 Secure Computer Systems I,,1DT072,Uppsala_Sweden,Secure Computer Systems I,SEC,SEC;SEP,SEC;SF,SEC; SF,SEC,NC

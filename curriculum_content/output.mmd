@@ -1,0 +1,81 @@
+flowchart TD
+    n18{{"CAU_Germany"}}:::dirty
+    n21("CAU_Germany/electives_in.csv")
+    n19{{"CAU_Germany/electives_pre.csv"}}:::dirty
+    n20("CAU_Germany/institution.json")
+    n4{{"Durham_England"}}:::dirty
+    n5{{"Durham_England/electives_scraped.csv"}}:::dirty
+    n6("Durham_England/institution.json")
+    n8{{"Edinburgh_Scotland"}}:::dirty
+    n9{{"Edinburgh_Scotland/electives_scraped.csv"}}:::dirty
+    n10("Edinburgh_Scotland/institution.json")
+    n11{{"Glasgow_Scotland"}}:::dirty
+    n12{{"Glasgow_Scotland/electives_scraped.csv"}}:::dirty
+    n13("Glasgow_Scotland/institution.json")
+    n23{{"Kennesaw_USA"}}:::dirty
+    n26("Kennesaw_USA/electives_in.csv")
+    n24{{"Kennesaw_USA/electives_pre.csv"}}:::dirty
+    n25("Kennesaw_USA/institution.json")
+    n31{{"UOC_Spain"}}:::dirty
+    n34("UOC_Spain/electives_in.csv")
+    n32{{"UOC_Spain/electives_pre.csv"}}:::dirty
+    n33("UOC_Spain/institution.json")
+    n27{{"UofT_Canada"}}:::dirty
+    n30("UofT_Canada/electives_in.csv")
+    n28{{"UofT_Canada/electives_pre.csv"}}:::dirty
+    n29("UofT_Canada/institution.json")
+    n14{{"Uppsala_Sweden"}}:::dirty
+    n15{{"Uppsala_Sweden/electives_scraped.csv"}}:::dirty
+    n16("Uppsala_Sweden/institution.json")
+    n35{{"VirginiaTech_USA"}}:::dirty
+    n38("VirginiaTech_USA/electives_in.csv")
+    n36{{"VirginiaTech_USA/electives_pre.csv"}}:::dirty
+    n37("VirginiaTech_USA/institution.json")
+    n2{{"all"}}:::dirty
+    n17{{"inst_pre"}}:::dirty
+    n3{{"inst_scrape"}}:::dirty
+    n22("pre_wrangling.py")
+    n7("scraping.py")
+    n18 --> n19
+    n19 --> n21
+    n19 --> n20
+    n19 --> n22
+    n4 --> n5
+    n5 --> n6
+    n5 --> n7
+    n8 --> n9
+    n9 --> n10
+    n9 --> n7
+    n11 --> n12
+    n12 --> n13
+    n12 --> n7
+    n23 --> n24
+    n24 --> n26
+    n24 --> n25
+    n24 --> n22
+    n31 --> n32
+    n32 --> n34
+    n32 --> n33
+    n32 --> n22
+    n27 --> n28
+    n28 --> n30
+    n28 --> n29
+    n28 --> n22
+    n14 --> n15
+    n15 --> n16
+    n15 --> n7
+    n35 --> n36
+    n36 --> n38
+    n36 --> n37
+    n36 --> n22
+    n2 --> n17
+    n2 --> n3
+    n17 --> n18
+    n17 --> n23
+    n17 --> n31
+    n17 --> n27
+    n17 --> n35
+    n3 --> n4
+    n3 --> n8
+    n3 --> n11
+    n3 --> n14

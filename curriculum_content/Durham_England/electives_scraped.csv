@@ -60,6 +60,33 @@ COMPUTER SCIENCE INTO SCHOOLS","
 				<li>Will have an advanced understanding of Computer Science through having to explain to others.</li>
 				<li>Will have an advanced understanding of the problems of public perception of science.  </li>
 			"
+Durham_England,COMP3467,"<h2>Durham_England COMP3467</h2><h2>title</h2>COMP3467: 
+ADVANCED COMPUTER SYSTEMS<h2>summary</h2>
+			<li> To provide understanding of the relationship between hardware and software, and the design, implementation and verification of hardware and software in these situations.  </li>
+			<li>To provide understanding of how performance and security of computer systems are affected by their architecture.</li>
+		<h2>content</h2>
+			<li> Computer Architecture including current processor characteristics and designs</li>
+			<li>instruction set design</li>
+			<li>memory systems: cache design and performance</li>
+			<li>processor architecture and security</li>
+		<h2>ilo</h2>
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li> The relationship between Computer Instruction Sets and High Level Programming Languages;  </li>
+				<li> Complex performance issues of current computers, and the selection of processors for specific applications;  </li>
+			","COMP3467: 
+ADVANCED COMPUTER SYSTEMS","
+			<li> To provide understanding of the relationship between hardware and software, and the design, implementation and verification of hardware and software in these situations.  </li>
+			<li>To provide understanding of how performance and security of computer systems are affected by their architecture.</li>
+		","
+			<li> Computer Architecture including current processor characteristics and designs</li>
+			<li>instruction set design</li>
+			<li>memory systems: cache design and performance</li>
+			<li>processor architecture and security</li>
+		","
+				<li>On completion of the module, students will be able to demonstrate: </li>
+				<li> The relationship between Computer Instruction Sets and High Level Programming Languages;  </li>
+				<li> Complex performance issues of current computers, and the selection of processors for specific applications;  </li>
+			"
 Durham_England,COMP3477,"<h2>Durham_England COMP3477</h2><h2>title</h2>COMP3477: 
 ALGORITHMIC GAME THEORY<h2>summary</h2>
 			<li> The aim of the module is to introduce the student to the notion of a game, relevant concepts, and other basic notions and tools of game theory, as well as the main applications where such concepts are used and applied. </li>
@@ -123,33 +150,6 @@ BIOINFORMATICS","
 				<li>an understanding of the basic computational problems in Biology. </li>
 				<li>an understanding of some fundamental statistical techniques.  </li>
 				<li>an understanding of basic tree-reconstruction algorithms.  </li>
-			"
-Durham_England,COMP3467,"<h2>Durham_England COMP3467</h2><h2>title</h2>COMP3467: 
-ADVANCED COMPUTER SYSTEMS<h2>summary</h2>
-			<li> To provide understanding of the relationship between hardware and software, and the design, implementation and verification of hardware and software in these situations.  </li>
-			<li>To provide understanding of how performance and security of computer systems are affected by their architecture.</li>
-		<h2>content</h2>
-			<li> Computer Architecture including current processor characteristics and designs</li>
-			<li>instruction set design</li>
-			<li>memory systems: cache design and performance</li>
-			<li>processor architecture and security</li>
-		<h2>ilo</h2>
-				<li>On completion of the module, students will be able to demonstrate: </li>
-				<li> The relationship between Computer Instruction Sets and High Level Programming Languages;  </li>
-				<li> Complex performance issues of current computers, and the selection of processors for specific applications;  </li>
-			","COMP3467: 
-ADVANCED COMPUTER SYSTEMS","
-			<li> To provide understanding of the relationship between hardware and software, and the design, implementation and verification of hardware and software in these situations.  </li>
-			<li>To provide understanding of how performance and security of computer systems are affected by their architecture.</li>
-		","
-			<li> Computer Architecture including current processor characteristics and designs</li>
-			<li>instruction set design</li>
-			<li>memory systems: cache design and performance</li>
-			<li>processor architecture and security</li>
-		","
-				<li>On completion of the module, students will be able to demonstrate: </li>
-				<li> The relationship between Computer Instruction Sets and High Level Programming Languages;  </li>
-				<li> Complex performance issues of current computers, and the selection of processors for specific applications;  </li>
 			"
 Durham_England,COMP3491,"<h2>Durham_England COMP3491</h2><h2>title</h2>COMP3491: 
 CODES AND CRYPTOGRAPHY<h2>summary</h2>
