@@ -47,7 +47,7 @@ Evaluation of methods for finding similarity
 Feature extraction of spatially extended objects
 Feature extraction of time series
 Neighborhood search in network graphs",,,,,,,,,,,,,
-Automatic Graph Drawing,Inf-GraphDraw ,"Graphs are found in numerous areas of computer science and beyond. For example, software engineers make regular use of class diagrams, automata or flow charts. Hardware design makes use of net lists and circuit diagrams. The drawing of a graph is its visual representation. The manual creation of a well-readable drawing, such as the design of a UML diagram with a software engineering tool, can be a very time consuming activity.
+Automatic Graph Drawing,Inf-GraphDraw,"Graphs are found in numerous areas of computer science and beyond. For example, software engineers make regular use of class diagrams, automata or flow charts. Hardware design makes use of net lists and circuit diagrams. The drawing of a graph is its visual representation. The manual creation of a well-readable drawing, such as the design of a UML diagram with a software engineering tool, can be a very time consuming activity.
 
 This class covers approaches for the efficient, automatic creation of well-readable diagrams. This is an application-driven form of algorithm engineering, where cognitive psychology plays an important role. Graph drawing methods are used increasingly for example in ""auto-layout"" features of development tools.
 
