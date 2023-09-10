@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import os
 
-import stan
+from cmdstanpy import CmdStanModel
 import arviz as az
 
 import argparse
@@ -102,8 +102,8 @@ print(cohorts)
 print ("electives")
 #print(electives)
 
-code_file=open("model.stan", "r")
-code = code_file.read()
+model = CmdStanModel(stan_file="model.stan")
+
 #print(code)
 
 buildData={
@@ -121,39 +121,12 @@ buildData={
     "module_men": cohort_module_men
     }
 
+fit = model.sample(data=buildData, chains=4, seed=seed, iter_sampling=num_samples)
 
-posterior = stan.build(code, random_seed=seed, data=buildData)
-
-
-fit = posterior.sample(num_chains=4, num_samples=num_samples)
 fit_summary = az.summary(fit)
 fit_cols = fit_summary.columns.to_flat_index()
 #fit_cols[0] = "variable"
 fit_summary.columns = fit_cols
-fit_summary.to_csv('results/stansummary-wg6-seed-' + str(seed) + '-samples-' + str(num_samples) + '.csv')
+fit_summary.to_csv('results/cmdstansummary-wg6-seed-' + str(seed) + '-samples-' + str(num_samples) + '.csv')
 
 print(le_topics.inverse_transform(range(len(code_set.index))))
-
-exit()
-
-results = []
-
-for topic in range(config.numTopics):
-    topic_text = "popularity_topic_all\[" + str(topic) + "\]"
-    fit_topic_all = fit_summary[fit_summary['variable'].str.contains(topic_text)].iloc[0]['mean']
-    topic_text = "popularity_topic_women_men_diff\[" + str(topic) + "\]"
-    fit_topic_diff = fit_summary[fit_summary['variable'].str.contains(topic_text)].iloc[0]['mean']
-    results.append({"topic": topic, "AllEst": fit_topic_all, "WomenMenEst": fit_topic_diff})
-
-analysis_df = pd.DataFrame(results)
-analysis_df['AllSynth'] = np.array(topicAllScores)
-analysis_df['WomenMenSynth'] = np.array(topicWomenMenDiffScores)
-analysis_df['Probability'] = np.array(topicProbabilities)
-analysis_df.to_csv('results/topicssynthetic-wg6-seed-' + str(seed) + '.csv')
-
-
-
-            
-
-
-

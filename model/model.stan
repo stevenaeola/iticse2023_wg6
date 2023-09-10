@@ -12,7 +12,7 @@ data {
     // actual number of elective modules per cohort
     array[COHORTS] int<lower=0> MODULES;
     // mapping of topics to modules. Where there are multiple coders it could be either 0/1 (OR) or 0/1/2 etc (PLUS)
-    matrix<lower=0>[MAXMODULES,TOPICS] module_topics[COHORTS];
+    array[COHORTS] matrix<lower=0>[MAXMODULES,TOPICS] module_topics;
     array[COHORTS,MAXMODULES] real<lower=0> module_min_students;
     array[COHORTS,MAXMODULES] real<lower=0> module_max_students;
     array[COHORTS,MAXMODULES] int<lower=0> module_women;
