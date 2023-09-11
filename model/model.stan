@@ -99,6 +99,12 @@ model {
             // TODO change rate for upper cap in module_max_students
             rate_women[m] = (1.0/ norm1(rate_women_relative)) * rate_women_relative[m] * expected_modules_women[cohort];
             rate_men[m] = (1.0/ norm1(rate_men_relative)) * rate_men_relative[m] * expected_modules_men[cohort];
+            if(rate_women[m]<0.000001){
+                rate_women[m] = 0.000001;
+            }
+            if(rate_men[m]<0.000001){
+                rate_men[m] = 0.000001;
+            }
             // TODO apply bounds for upper and lower cap in module_min_students and module_max_students    
             module_women[cohort,m] ~ poisson(1.0/rate_women[m]);
             module_men[cohort,m] ~ poisson(1.0/rate_men[m]);
