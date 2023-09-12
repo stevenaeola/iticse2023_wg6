@@ -1,0 +1,350 @@
+require(tidyr)
+require(tidyr)
+require(ggplot2)
+require(ggrepel)
+require(ggrepel)
+require(MASS)
+require(philentropy)
+require(DescTools)
+data_dir="../curriculum_content/coded"
+coding=read.table(paste(data_dir,"../currstage2_coded_binary.csv"., sep="/"),header=T,sep=",")
+coding=read.table(paste(data_dir,"../currstage2_coded_binary.csv", sep="/"),header=T,sep=",")
+coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
+data_dir="../curriculum_content"
+coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
+data_dir="../curriculum_content/coded"
+coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
+coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
+data_dir="/Users/dcs0spb/Software/itics2023_wg6/curriculum_content/coded"
+coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
+data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content/coded"
+coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
+coding$X=NULL
+coding=coding[!(coding$elective %in% temp$elective),]
+KO=names(which(apply(coding, 2, max)=="0"))
+coding=coding[, !names(coding) %in% KO]
+ACM_CAH=colnames(coding[,-c(1,2)])
+ests=read.table(paste(data_dir,"stage_two_enrolment.csv",sep="/"), header=T, sep=",")
+data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content/"
+data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content/"
+data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content/"
+coding=read.table(paste(data_dir,"coded/stage2_coded_binary.csv", sep="/"),header=T,sep=",")
+coding$X=NULL
+KO=names(which(apply(coding, 2, max)=="0"))
+coding=coding[, !names(coding) %in% KO]
+ACM_CAH=colnames(coding[,-c(1,2)])
+ests=read.table(paste(data_dir,"stage_two_enrolment.csv",sep="/"), header=T, sep=",")
+ests=ests[ests$MCode!="",]
+total=read.table("all_cohort_enrolment_rounded.csv", header=T, sep=",")
+total=read.table(paste(data_dir,"all_cohort_enrolment_rounded.csv", sep="/", header=T, sep=",")
+ests=merge(ests,total,c('Cohort','AcademicYearStart','institution'))
+total=read.table(paste(data_dir,"all_cohort_enrolment_rounded.csv"), sep="/", header=T, sep=",")
+total=read.table(paste(data_dir,"all_cohort_enrolment_rounded.csv", sep="/"), header=T, sep=",")
+data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content"
+coding=read.table(paste(data_dir,"coded/stage2_coded_binary.csv", sep="/"),header=T,sep=",")
+ests=read.table(paste(data_dir,"stage_two_enrolment.csv",sep="/"), header=T, sep=",")
+ests=ests[ests$MCode!="",]
+total=read.table(paste(data_dir,"all_cohort_enrolment_rounded.csv", sep="/"), header=T, sep=",")
+total=read.table(paste(data_dir,"../enrolment/all_cohort_enrolment_rounded.csv", sep="/"), header=T, sep=",")
+ests=merge(ests,total,c('Cohort','AcademicYearStart','institution'))
+ests_course=aggregate(ests[,c('Women3.x','Men3.x','Women3.y','Men3.y')],list(ests$elective),sum)
+colnames(ests_course)=c('elective','Nw','Nm','Tw','Tm')
+OddsRatio(matrix(c(x[2],x[4]-x[2],x[3],x[5]-x[3]), ncol=2, byrow=T))
+ests_course$oddratio=apply(ests_course,1,function(x){ x=as.numeric(x);#
+  OddsRatio(matrix(c(x[2],x[4]-x[2],x[3],x[5]-x[3]), ncol=2, byrow=T))#
+})
+ests_course$lor=log(ests_course$oddratio)
+ests_course$phi=apply(ests_course,1,function(x){ x=as.numeric(x);#
+  Phi(matrix(c(x[2],x[4]-x[2],x[3],x[5]-x[3]), ncol=2, byrow=T))#
+})
+ests_course$CI=sqrt(1/ests_course$Nw+#
+                    1/(ests_course$Tw-ests_course$Nw)+#
+                    1/ests_course$Nm+#
+                    1/(ests_course$Tm-ests_course$Nm))
+ests_course$upperCI=ests_course$lor+1.96*ests_course$CI
+ests_course$lowerCI=ests_course$lor-1.96*ests_course$CI
+ests_course$flag=ifelse(ests_course$upperCI*ests_course$lowerCI<0,0,1)
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking a course / proportion of men taking a course)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue") + #
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggsave("lor_sig_fxsize.png")
+ylab("ln(proportion of women taking class / proportion of men taking class)")+
+ggsave("lor_sig_fxsize.png")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue") + #
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggsave("lor_sig_fxsize.png")
+ggsave("lor_sig_fxsize.png")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "small effect", vjust = -1)),#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "small effect", vjust = -1)) +#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggsave("lor_sig_fxsize.png")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "small effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggsave("lor_sig_fxsize.png")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "  small effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_text(aes(0,0.5*1.8138,label = "  medium effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_text(aes(0,0.8*1.8138,label = "  large effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggsave("lor_sig_fxsize.png")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "  small effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_text(aes(0,0.5*1.8138,label = "  medium effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_text(aes(0,0.8*1.8138,label = "  large effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_text(aes(300,-0.2*1.8138,label = "small effect. ", vjust = 0, hjust=1)) +#
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggsave("lor_sig_fxsize.png")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "  small effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_text(aes(0,0.5*1.8138,label = "  medium effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_text(aes(0,0.8*1.8138,label = "  large effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_text(aes(287,-0.2*1.8138,label = "small effect. ", vjust = 0, hjust=1)) +#
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggsave("lor_sig_fxsize.png")
+ggsave("lor_sig_fxsize.png")
+getwd()
+setwd("~/Software/iticse2023_wg6/figs")
+getwd()
+ggsave("lor_sig_fxsize.png")
+ggsave("lor_sig_fxsize.png")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "  small effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_text(aes(0,0.5*1.8138,label = "  medium effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_text(aes(0,0.8*1.8138,label = "  large effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_text(aes(200,-0.2*1.8138,label = "small effect. ", vjust = 0, hjust=1)) +#
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggsave("lor_sig_fxsize.png")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "  small effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_text(aes(0,0.5*1.8138,label = "  medium effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_text(aes(0,0.8*1.8138,label = "  large effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_text(aes(250,-0.2*1.8138,label = "small effect. ", vjust = 0, hjust=1)) +#
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
+ggsave("lor_sig_fxsize.png")
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "  small effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_text(aes(0,0.5*1.8138,label = "  medium effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_text(aes(0,0.8*1.8138,label = "  large effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_text(aes(250,-0.2*1.8138,label = "small effect. ", vjust = 0, hjust=1)) +#
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_text(aes(250,-0.5*1.8138,label = "medium effect. ", vjust = 0, hjust=1)) +#
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red") +#
+    geom_text(aes(250,-0.8*1.8138,label = "large effect. ", vjust = 0, hjust=1))
+ggsave("lor_sig_fxsize.png")
+require(tidyr)
+require(ggplot2)
+require(ggrepel)#
+require(MASS)#
+require(philentropy)#
+require(DescTools)
+# read data about courses / labels#
+data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content"#
+coding=read.table(paste(data_dir,"coded/stage2_coded_binary.csv", sep="/"),header=T,sep=",")#
+coding$X=NULL
+# remove old course data#
+#coding=coding[!(coding$elective %in% temp$elective),]#
+# add new data, columns in same order!!!#
+#coding=rbind(coding, temp[,colnames(coding)])#
+#temp=NULL
+# columns with no labels (text!!!)#
+KO=names(which(apply(coding, 2, max)=="0"))#
+coding=coding[, !names(coding) %in% KO]
+ACM_CAH=colnames(coding[,-c(1,2)])
+# read data about women / men per course#
+ests=read.table(paste(data_dir,"stage_two_enrolment.csv",sep="/"), header=T, sep=",")#
+# remove courses with no data???#
+ests=ests[ests$MCode!="",]#
+total=read.table(paste(data_dir,"../enrolment/all_cohort_enrolment_rounded.csv", sep="/"), header=T, sep=",")#
+# join#
+ests=merge(ests,total,c('Cohort','AcademicYearStart','institution'))#
+# aggregate by course#
+ests_course=aggregate(ests[,c('Women3.x','Men3.x','Women3.y','Men3.y')],list(ests$elective),sum)#
+colnames(ests_course)=c('elective','Nw','Nm','Tw','Tm')
+# compute odds ratio#
+ests_course$oddratio=apply(ests_course,1,function(x){ x=as.numeric(x);#
+  OddsRatio(matrix(c(x[2],x[4]-x[2],x[3],x[5]-x[3]), ncol=2, byrow=T))#
+})
+# log odds ratio#
+ests_course$lor=log(ests_course$oddratio)
+# effect size through Phi (Cramer's V as well for 2x2 contingency tables)#
+ests_course$phi=apply(ests_course,1,function(x){ x=as.numeric(x);#
+  Phi(matrix(c(x[2],x[4]-x[2],x[3],x[5]-x[3]), ncol=2, byrow=T))#
+})
+# compute confidence intervals#
+# https://www.ncbi.nlm.nih.gov/books/NBK431098/#
+ests_course$CI=sqrt(1/ests_course$Nw+#
+                    1/(ests_course$Tw-ests_course$Nw)+#
+                    1/ests_course$Nm+#
+                    1/(ests_course$Tm-ests_course$Nm))#
+# remove infinites?#
+#ests_course$CI=ifelse(is.infinite(ests_course$CI),0,ests_course$CI)
+ests_course$upperCI=ests_course$lor+1.96*ests_course$CI#
+ests_course$lowerCI=ests_course$lor-1.96*ests_course$CI
+ests_course$flag=ifelse(ests_course$upperCI*ests_course$lowerCI<0,0,1)
+ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
+    geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
+    scale_color_manual(values = c("red","blue")) + #
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),#
+        panel.background = element_blank(), axis.line.y = element_line(colour = "black"), #
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank()) +#
+    ylab("ln(proportion of women taking class / proportion of men taking class)")+#
+    geom_errorbar(aes(ymin=lowerCI*flag, ymax=upperCI*flag, alpha=flag), colour="black", show.legend = F) +#
+    geom_vline(xintercept = 135, linetype="dotdash", color="grey")+#
+    geom_hline(yintercept = 0.2*1.8138, linetype="dashed", color="blue", ) + #
+    geom_text(aes(0,0.2*1.8138,label = "  small effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.5*1.8138, linetype="longdash", color="blue") + #
+    geom_text(aes(0,0.5*1.8138,label = "  medium effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = 0.8*1.8138, linetype="twodash", color="blue") +#
+    geom_text(aes(0,0.8*1.8138,label = "  large effect", vjust = 0, hjust=0)) +#
+    geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
+    geom_text(aes(250,-0.2*1.8138,label = "small effect. ", vjust = 0, hjust=1)) +#
+    geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
+    geom_text(aes(250,-0.5*1.8138,label = "medium effect. ", vjust = 0, hjust=1)) +#
+    geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red") +#
+    geom_text(aes(250,-0.8*1.8138,label = "large effect. ", vjust = 0, hjust=1))
+ggsave("lor_sig_fxsize.png")
