@@ -1,7 +1,5 @@
 require(tidyr)
-require(tidyr)
 require(ggplot2)
-require(ggrepel)
 require(ggrepel)
 require(MASS)
 require(philentropy)
@@ -14,7 +12,6 @@ data_dir="../curriculum_content"
 coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
 data_dir="../curriculum_content/coded"
 coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
-coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
 data_dir="/Users/dcs0spb/Software/itics2023_wg6/curriculum_content/coded"
 coding=read.table(paste(data_dir,"stage2_coded_binary.csv", sep="/"),header=T,sep=",")
 data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content/coded"
@@ -25,8 +22,6 @@ KO=names(which(apply(coding, 2, max)=="0"))
 coding=coding[, !names(coding) %in% KO]
 ACM_CAH=colnames(coding[,-c(1,2)])
 ests=read.table(paste(data_dir,"stage_two_enrolment.csv",sep="/"), header=T, sep=",")
-data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content/"
-data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content/"
 data_dir="/Users/dcs0spb/Software/iticse2023_wg6/curriculum_content/"
 coding=read.table(paste(data_dir,"coded/stage2_coded_binary.csv", sep="/"),header=T,sep=",")
 coding$X=NULL
@@ -97,7 +92,6 @@ ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
     geom_hline(yintercept = -0.2*1.8138, linetype="dashed", color="red") + #
     geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
     geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
-ggsave("lor_sig_fxsize.png")
 ggsave("lor_sig_fxsize.png")
 ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
     geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #
@@ -208,11 +202,9 @@ ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
     geom_hline(yintercept = -0.5*1.8138, linetype="longdash", color="red") + #
     geom_hline(yintercept = -0.8*1.8138, linetype="twodash", color="red")
 ggsave("lor_sig_fxsize.png")
-ggsave("lor_sig_fxsize.png")
 getwd()
 setwd("~/Software/iticse2023_wg6/figs")
 getwd()
-ggsave("lor_sig_fxsize.png")
 ggsave("lor_sig_fxsize.png")
 ggg=ggplot(data=ests_course, aes(x=reorder(elective,lor), y=lor)) +#
     geom_col(aes(color=lor>0), alpha=0.618, fill="white", show.legend = F) + #

@@ -17,10 +17,12 @@ from sklearn import preprocessing
 parser = argparse.ArgumentParser(description='Load WG6 elective curriculum and enrolment data and use STAN model to extract parameters.')
 parser.add_argument('--samples', type=int, default=500)
 parser.add_argument('--seed', type=int, default=1)
+parser.add_argument('--model', default='model') # defaults to type=string
 args = parser.parse_args()
 
 seed = args.seed
 num_samples = args.samples
+model_file = args.model
 
 print("seed ", seed, "num_samples", num_samples)
 
@@ -106,7 +108,7 @@ for cohort_id in range(len(cohorts)):
 print ("electives")
 #print(electives)
 
-model = CmdStanModel(stan_file="model.stan")
+model = CmdStanModel(stan_file=model_file + ".stan")
 
 #print(code)
 
@@ -131,7 +133,7 @@ fit_summary = az.summary(fit)
 fit_cols = fit_summary.columns.to_flat_index()
 #fit_cols[0] = "variable"
 fit_summary.columns = fit_cols
-fit_summary.to_csv('results/cmdstansummary-wg6-seed-' + str(seed) + '-samples-' + str(num_samples) + '.csv')
+fit_summary.to_csv('results/cmdstansummary-wg6-seed-' + str(seed) + '-samples-' + str(num_samples) + '-model-' + model_file + '.csv')
 
 cohorts.to_csv("cohorts_with_ids.csv", index=False)
 enrolments.to_csv("enrolments_with_ids.csv", index=False)
